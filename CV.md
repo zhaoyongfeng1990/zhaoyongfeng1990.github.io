@@ -4,7 +4,7 @@ title: CV
 permalink: /CV/
 ---
 
-[pdf version](CV.pdf)
+[pdf version](https://github.com/zhaoyongfeng1990/zhaoyongfeng1990.github.io/blob/master/_site/CV/CV.pdf)
 
 <h2>Personal information</h2>
 
