@@ -7,11 +7,11 @@ permalink: /publications/
 
 <ol>
 
-<li>Ruben Zakine*, <strong>Yongfeng Zhao</strong>*, Miloš Knežević, Adrian Daerr, Yariv Kafri, Julien Tailleur, Frédéric van Wijland, "<em>Surface Tensions between Active Fluids and Solid Interfaces: bare vs dressed<em>".</li> 
+<li>Ruben Zakine*, <strong>Yongfeng Zhao</strong>*, Miloš Knežević, Adrian Daerr, Yariv Kafri, Julien Tailleur, Frédéric van Wijland, "<em>Surface Tensions between Active Fluids and Solid Interfaces: bare vs dressed<em>". </li> 
 
 <a href="https://arxiv.org/pdf/1907.07738">Preprint</a> 
 
-<li>Agnese I. Curatolo*, Nan Zhou*, <strong>Yongfeng Zhao</strong>*, Chenli Liu, Adrian Daerr, Julien Tailleur, Jian-Dong Huang, "<em>Cooperative pattern formation in multi-species bacterial colonies</em>".</li> 
+<li>Agnese I. Curatolo*, Nan Zhou*, <strong>Yongfeng Zhao</strong>*, Chenli Liu, Adrian Daerr, Julien Tailleur, Jian-Dong Huang, "<em>Cooperative pattern formation in multi-species bacterial colonies</em>". </li> 
 
 <a href="https://www.biorxiv.org/content/10.1101/798827v1.full.pdf">Preprint</a> 
 
