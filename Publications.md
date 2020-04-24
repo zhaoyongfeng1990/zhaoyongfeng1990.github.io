@@ -17,9 +17,9 @@ permalink: /publications/
 
 <li>Eric Woillez, <strong>Yongfeng Zhao</strong>, Yariv Kafri, Vivien Lecomte, Julien Tailleur, “<em>Activated escape of a self-propelled particle from a metastable state</em>”, Phys. Rev. Lett. 122, 258001 (2019). </li> 
 
-<a href="https://arxiv.org/pdf/1904.00599">Preprint</a> <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.122.258001">Phys. Rev. Lett.</a> 
+<a href="https://arxiv.org/pdf/1904.00599">Preprint</a>, <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.122.258001">Phys. Rev. Lett.</a> 
 
 <li>Thibault Bertrand, <strong>Yongfeng Zhao</strong>, Olivier Bénichou, Julien Tailleur, Raphaël Voituriez, “<em>Optimized Diffusion of Run-and-Tumble Particles in Crowded Environments</em>”, Phys. Rev. Lett. 120, 198103 (2018). </li> 
 
-<a href="https://arxiv.org/pdf/1711.05209">Preprint</a> <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.120.198103">Phys. Rev. Lett.</a>
+<a href="https://arxiv.org/pdf/1711.05209">Preprint</a>, <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.120.198103">Phys. Rev. Lett.</a>
 
