@@ -3,6 +3,9 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
+
+<h2>Articles</h2>
+
 *Authors contribute equally
 
 <ol>
@@ -24,3 +27,11 @@ permalink: /publications/
 <a href="https://arxiv.org/pdf/1711.05209">Preprint</a>, <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.120.198103">Phys. Rev. Lett.</a>
 
 </ol>
+
+<h2>Thesis</h2>
+
+Run-and-tumble Motion and Differential Dynamic Microscopy
+
+<a href="http://hdl.handle.net/10722/238341">hub.hku.hk</a>
+
+<a href="./Thesis.pdf">The newest version with corrections</a>, <a href="./Beamer.pdf">slides</a>
