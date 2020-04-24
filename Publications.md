@@ -23,4 +23,3 @@ permalink: /publications/
 
 <a href="https://arxiv.org/pdf/1711.05209">Preprint</a> <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.120.198103">Phys. Rev. Lett.</a>
 
-</ol>
