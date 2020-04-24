@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Yongfeng Zhao's Home Page | 赵永峰的主页
+title: Yongfeng Zhao | 赵永峰
 email: zhaoyongfeng1990@sjtu.edu.cn
 description: >- # this means to ignore newlines until "baseurl:"
   Postdoc,
@@ -26,7 +26,7 @@ github_username:  zhaoyongfeng1990
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: slate
 plugins:
   - jekyll-feed
 
