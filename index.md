@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+[中文版](index_cn.md)
