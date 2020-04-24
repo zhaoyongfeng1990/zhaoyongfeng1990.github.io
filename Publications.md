@@ -32,6 +32,4 @@ permalink: /publications/
 
 Run-and-tumble Motion and Differential Dynamic Microscopy
 
-<a href="http://hdl.handle.net/10722/238341">hub.hku.hk</a>
-
-<a href="./Thesis.pdf">The newest version with corrections</a>, <a href="./Beamer.pdf">slides</a>
+<a href="http://hdl.handle.net/10722/238341">hub.hku.hk link</a>, <a href="./Thesis.pdf">the newest version with corrections</a>, <a href="./Thesis_Beamer.pdf">slides</a>
