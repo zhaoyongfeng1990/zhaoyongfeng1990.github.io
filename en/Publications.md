@@ -34,4 +34,4 @@ permalink: /en/publications/
 
 Run-and-tumble Motion and Differential Dynamic Microscopy
 
-<a href="http://hdl.handle.net/10722/238341">hub.hku.hk link</a>, <a href="https://github.com/zhaoyongfeng1990/zhaoyongfeng1990.github.io/blob/master/_site/publications/Thesis.pdf">the newest version with corrections</a>, <a href="https://github.com/zhaoyongfeng1990/zhaoyongfeng1990.github.io/blob/master/_site/publications/Thesis_Beamer.pdf">slides</a>
+<a href="http://hdl.handle.net/10722/238341">hub.hku.hk link</a>, <a href="https://github.com/zhaoyongfeng1990/zhaoyongfeng1990.github.io/blob/master/_files/Thesis.pdf">the newest version with corrections</a>, <a href="https://github.com/zhaoyongfeng1990/zhaoyongfeng1990.github.io/blob/master/_files/Thesis_Beamer.pdf">slides</a>

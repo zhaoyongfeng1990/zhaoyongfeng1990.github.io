@@ -24,9 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Shanghai Jiao Tong Universiy, 
   Shanghai, China.
 description_cn: >- # this means to ignore newlines until "baseurl:"
-  博士后，
-  物理与天文学院&自然科学研究院，上海交通大学，
-  上海，中国
+  博士后，物理与天文学院&自然科学研究院，上海交通大学，上海，中国
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "zhaoyongfeng1990.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  zhaoyongfeng1990
