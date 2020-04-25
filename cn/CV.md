@@ -6,7 +6,7 @@ lang-ref: cv
 permalink: /cn/CV/
 ---
 
-[pdf version](https://github.com/zhaoyongfeng1990/zhaoyongfeng1990.github.io/releases/download/1.0/CV.pdf)
+[pdf版本（英文）](https://github.com/zhaoyongfeng1990/zhaoyongfeng1990.github.io/releases/download/1.0/CV.pdf)
 
 <h2>个人信息</h2>
 
@@ -49,7 +49,7 @@ permalink: /cn/CV/
 <strong>毕业论文题目</strong> <br>
 
 Run-and-tumble Motion and Differential Dynamic Microscopy<br>
-<a href="http://hdl.handle.net/10722/238341">hub.hku.hk链接</a>, <a href="https://github.com/zhaoyongfeng1990/zhaoyongfeng1990.github.io/releases/download/1.0/Thesis.pdf">最新版（含勘误）</a>, <a href="https://github.com/zhaoyongfeng1990/zhaoyongfeng1990.github.io/releases/download/1.0/Thesis_Beamer.pdf">答辩演示</a>
+<a href="http://hdl.handle.net/10722/238341">hub.hku.hk链接</a>, <a href="https://github.com/zhaoyongfeng1990/zhaoyongfeng1990.github.io/releases/download/1.0/Thesis.pdf">最新版（含勘误，英文）</a>, <a href="https://github.com/zhaoyongfeng1990/zhaoyongfeng1990.github.io/releases/download/1.0/Thesis_Beamer.pdf">答辩演示（英文）</a>
 
 <li><strong>2008–2012</strong> 物理学，理学学士学位 </li>
 
