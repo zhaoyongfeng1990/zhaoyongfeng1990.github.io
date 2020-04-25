@@ -1,0 +1,59 @@
+
+  <footer class="site-footer h-card">
+  
+  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+
+  <div class="wrapper">
+
+    <!-- <h2 class="footer-heading">{{ site.title | escape }}</h2> -->
+
+      {% if page.layout != 'index' %}
+      {% assign posts=site.posts | where:"lang-ref", page.lang-ref | sort: 'lang' %}
+      {% if posts.size == 0 %}
+          {% assign posts=site.pages | where:"lang-ref", page.lang-ref | sort: 'lang' %}
+      {% endif %}
+      {% if posts.size > 1 %}
+      <footer class="lang-options">
+          <ul>
+          {% for post in posts %}
+          <li><a href="{{ site.base-url }}{{ post.url }}" class="{{ post.lang }} title="{{ site.data.languages[post.lang].label }}">{{ site.data.languages[post.lang].label }}</a></li>
+          {% endfor %}
+          </ul>
+      </footer>
+      {% endif %}
+    {% endif %}
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li class="p-name">
+            {%- if page.lang == "cn" -%}
+              {{ site.author_cn | escape }}
+            {%- else -%}
+              {{ site.author | escape }}
+            {%- endif -%}
+            </li>
+            {%- if site.email -%}
+            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+            {%- endif -%}
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-2">
+        {%- include social.html -%}
+      </div>
+
+      <div class="footer-col footer-col-3">
+        <p>
+          {%- if page.lang == "cn" -%}
+            {{ site.description_cn | escape }}
+          {%- else -%}
+            {{- site.description | escape -}}
+          {%- endif -%}
+          </p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>

@@ -13,13 +13,20 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Yongfeng Zhao | 赵永峰
+title: Yongfeng Zhao's Home Page
+title_cn: 赵永峰的主页
+author: Yongfeng Zhao
+author_cn: 赵永峰
 email: zhaoyongfeng1990@sjtu.edu.cn
 description: >- # this means to ignore newlines until "baseurl:"
   Postdoc,
   School of Physics and Astronomy & Institute of Natural Sciences, 
   Shanghai Jiao Tong Universiy, 
   Shanghai, China.
+description_cn: >- # this means to ignore newlines until "baseurl:"
+  博士后，
+  物理与天文学院&自然科学研究院，上海交通大学，
+  上海，中国
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "zhaoyongfeng1990.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  zhaoyongfeng1990
