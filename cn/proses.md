@@ -1,19 +1,19 @@
 ---
-layout: default
+layout: page
+title: 杂文
+lang: cn
+lang-ref: proses
+permalink: /cn/proses/
 ---
 
-<div class="home">
-  {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
-  {%- endif -%}
+一些和学术不太相关的杂文。
 
-  {{ content }}
+<div class="home">
 
   {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: site.data.translations['posts'][page.lang] }}</h2>
-    <ul class="post-list">
+    <ul class="posts-list">
       {%- for post in site.posts -%}
-      {%- if post.lang == page.lang and post.prose == false -%}
+      {%- if post.lang == page.lang and post.prose == true -%}
       <li>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <span class="post-meta">{{ post.date | date: date_format }}</span>

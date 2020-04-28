@@ -6,3 +6,7 @@ layout: home
 lang: cn
 lang-ref: index
 ---
+
+欢迎来到我的主页。
+
+很高兴可以在这里分享一些我的研究工作、笔记和一些有趣的事情。

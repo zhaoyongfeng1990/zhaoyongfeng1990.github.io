@@ -6,3 +6,9 @@ layout: home
 lang: en
 lang-ref: index
 ---
+
+  
+Welcom to my home page.
+
+I would be happy to share some of my research work, notes, ideas, and interesting things on this site.
+  
