@@ -36,6 +36,7 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
 
+url: "https://zhaoyongfeng1990.github.io"
 gems:
   - jekyll-sitemap
 # Exclude from processing.
