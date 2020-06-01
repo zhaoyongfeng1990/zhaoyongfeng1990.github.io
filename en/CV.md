@@ -6,7 +6,7 @@ lang-ref: cv
 permalink: /en/CV/
 ---
 
-[pdf version](https://github.com/zhaoyongfeng1990/zhaoyongfeng1990.github.io/releases/download/1.0/CV.pdf)
+[pdf version]({{site.url}}/assets/CV_YongfengZhao.pdf)
 
 <h2>Personal information</h2>
 
@@ -49,7 +49,7 @@ Prof. Huang, Jian-Dong, Dr. Julien Tailleur<br>
 
 <strong>Thesis</strong> <br>
 
-Run-and-tumble Motion and Differential Dynamic Microscopy<br><a href="http://hdl.handle.net/10722/238341">hub.hku.hk link</a>, <a href="https://github.com/zhaoyongfeng1990/zhaoyongfeng1990.github.io/releases/download/1.0/Thesis.pdf">the newest version with corrections</a>, <a href="https://github.com/zhaoyongfeng1990/zhaoyongfeng1990.github.io/releases/download/1.0/Thesis_Beamer.pdf">slides</a>
+Run-and-tumble Motion and Differential Dynamic Microscopy<br><a href="http://hdl.handle.net/10722/238341">hub.hku.hk link</a>, <a href="{{site.url}}/assets/Thesis_YongfengZhao.pdf">the newest version with corrections</a>, <a href="{{site.url}}/assets/Thesis_Beamer_YongfengZhao.pdf">slides</a>
 
 <li><strong>2008–2012</strong> Bachelor of Science (BSc) in Physics </li>
 
