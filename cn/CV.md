@@ -68,7 +68,7 @@ Run-and-tumble Motion and Differential Dynamic Microscopy<br>
 <h2>技能</h2>
 <h1>语言</h1>
 <ul>
-<li>中语（母语）</li>
+<li>汉语（母语）</li>
 <li>英语（第一外语）</li>
 <li>日语（入门）</li>
 <li>法语（入门）</li>
