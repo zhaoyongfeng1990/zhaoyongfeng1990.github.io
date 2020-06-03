@@ -43,10 +43,10 @@
 <loc>http://localhost:4000/en/notes/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/cn/proses/</loc>
+<loc>http://localhost:4000/cn/random/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/en/proses/</loc>
+<loc>http://localhost:4000/en/random/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/cn/research/</loc>

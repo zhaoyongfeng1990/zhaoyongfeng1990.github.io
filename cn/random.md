@@ -2,8 +2,8 @@
 layout: page
 title: 杂文
 lang: cn
-lang-ref: proses
-permalink: /cn/proses/
+lang-ref: random
+permalink: /cn/random/
 ---
 
 一些和学术不太相关的杂文。
