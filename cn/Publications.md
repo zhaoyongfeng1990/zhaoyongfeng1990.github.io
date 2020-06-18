@@ -12,7 +12,7 @@ permalink: /cn/publications/
 
 <ol>
 
-<li>Ruben Zakine*, <strong>Yongfeng Zhao</strong>*, Miloš Knežević, Adrian Daerr, Yariv Kafri, Julien Tailleur, Frédéric van Wijland, "<em>Surface Tensions between Active Fluids and Solid Interfaces: bare vs dressed</em>". </li> 
+<li>Ruben Zakine*, <strong>Yongfeng Zhao</strong>*, Miloš Knežević, Adrian Daerr, Yariv Kafri, Julien Tailleur, Frédéric van Wijland, "<em>Surface Tensions between Active Fluids and Solid Interfaces: bare vs dressed</em>", Phys. Rev. Lett. in press. </li> 
 
 <a href="https://arxiv.org/pdf/1907.07738">Preprint</a> 
 
