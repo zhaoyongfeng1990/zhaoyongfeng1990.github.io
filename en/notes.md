@@ -23,3 +23,7 @@ From Dirac symbols to elementary purterbation theory.
 [Electrodynamics (Chinese)]({{site.url}}/assets/electrodynamics.pdf)
 
 Maxwell equations, notation system of vector analysis, exterior derivative, and special relativity.
+
+[Theoretical mechanics (Chinese)]({{site.url}}/assets/theoretical_mechanics.pdf)
+
+Lagrangian mechanics and Hamiltonian mechanics.

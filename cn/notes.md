@@ -23,3 +23,7 @@ permalink: /cn/notes/
 [电动力学]({{site.url}}/assets/electrodynamics.pdf)
 
 麦克斯韦方程组、向量分析的记号系统、外微分与狭义相对论。
+
+[理论力学]({{site.url}}/assets/theoretical_mechanics.pdf)
+
+拉格朗日力学与哈密顿力学。
