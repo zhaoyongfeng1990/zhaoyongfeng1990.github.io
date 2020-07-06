@@ -6,7 +6,7 @@ lang-ref: cv
 permalink: /en/CV/
 ---
 
-[pdf version]({{site.url}}/assets/CV_YongfengZhao.pdf)
+[pdf version]({{site.url}}/assets/CV_ZhaoYongfeng_en.pdf)
 
 <h2>Personal information</h2>
 
