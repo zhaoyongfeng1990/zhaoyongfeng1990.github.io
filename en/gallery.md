@@ -12,6 +12,11 @@ permalink: /en/gallery/
 1D pattern formation of run-and-tumble particles with self-inhibition of motility. PDE simulation vs particle-based lattice simulation.
 
 {:refdef: style="text-align: center;"}
+![2 species mutual activation]({{site.url}}/assets/MA_Montage.png)
+{: refdef}
+A segregating pattern formed by two populations of E. coli mutual activating the motility of each other, labeled in red and gree fluorescence. Each sector represents a different time point. Check the details in [this paper](https://doi.org/10.1038/s41567-020-0964-z)。
+
+{:refdef: style="text-align: center;"}
 ![3 species mutual activation]({{site.url}}/assets/3species_MA.png)
 {: refdef}
 Three species of active particles with mutual activation of motility.
