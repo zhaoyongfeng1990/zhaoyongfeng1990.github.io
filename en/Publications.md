@@ -20,6 +20,10 @@ permalink: /en/publications/
 
 <a href="https://www.biorxiv.org/content/10.1101/798827v1.full.pdf">Preprint</a>, <a href="https://doi.org/10.1038/s41567-020-0964-z">Nat. Phys.</a> 
 
+<li>Siyuan Yang, Mingji Huang, <strong>Yongfeng Zhao</strong>, Hepeng Zhang, "<em>Controlling cell motion and microscale flow with polarized light fields</em>", Phys. Rev. Lett., accepted. </li> 
+
+<a href="https://journals.aps.org/prl/accepted/e807eY9bJ4912c68154c2bb06fcbda6c71f1cff24">Nat. Phys.</a> 
+
 <li>Eric Woillez, <strong>Yongfeng Zhao</strong>, Yariv Kafri, Vivien Lecomte, Julien Tailleur, “<em>Activated escape of a self-propelled particle from a metastable state</em>”, Phys. Rev. Lett. 122, 258001 (2019). </li> 
 
 <a href="https://arxiv.org/pdf/1904.00599">Preprint</a>, <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.122.258001">Phys. Rev. Lett.</a> 
