@@ -9,7 +9,7 @@ lang-ref: index
 
 Welcom to my home page.
 
-I'm now a postdoc working on active particles, and will sooner be a tenure-track associate professor in School of Physical Science and Technology, Soochow University. I work on non-equilibrium statistical physics of soft matter, nonlinear dynamics, and systems biology. I'm now in Institute of Natural Sciences, Shanghai Jiao Tong University, Shanghai, China. [University page](https://ins.sjtu.edu.cn/postdoc/zhaoyongfeng) [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=uZGde7gAAAAJ)
+I'm now a postdoc in Institute of Natural Sciences, Shanghai Jiao Tong University, and will sooner be a tenure-track associate professor in School of Physical Science and Technology, Soochow University. I work on active particles, non-equilibrium statistical physics of soft matter, nonlinear dynamics, and systems biology. [University page](https://ins.sjtu.edu.cn/postdoc/zhaoyongfeng) [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=uZGde7gAAAAJ)
 
 I would be happy to share some of my research work, notes, ideas, and interesting things on this site.
   
