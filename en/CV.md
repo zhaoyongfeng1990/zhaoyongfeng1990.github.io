@@ -27,7 +27,7 @@ City of birth: Yinchuan, Ningxia, China
 <h2>Working experience</h2>
 
 <ul>
-<li><strong>2019–now</strong> Postdoctoral researcher, Institute of Natural Sciences, Shanghai Jiao Tong University, Shanghai.</li>
+<li><strong>2019–2021</strong> Postdoctoral researcher, Institute of Natural Sciences, Shanghai Jiao Tong University, Shanghai.</li>
 
 <li><strong>2017–2018</strong> Postdoctoral researcher, Laboratoire Matière et Systèmes complexes, Université Paris Diderot, Paris.</li>
 
