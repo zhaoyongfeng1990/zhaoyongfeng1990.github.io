@@ -28,6 +28,8 @@ permalink: /cn/CV/
 
 <ul>
 
+<li><strong>2021至今</strong> 副教授，苏州大学，物理科学与技术学院。</li>
+
 <li><strong>2019-2021</strong> 博士后，上海交通大学，自然科学研究院。</li>
 
 <li><strong>2017–2018</strong> 博士后，巴黎第七（狄德罗）大学（现巴黎大学），复杂系统实验室。</li>

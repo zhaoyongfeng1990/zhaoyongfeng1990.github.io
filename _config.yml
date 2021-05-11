@@ -19,12 +19,12 @@ author: Yongfeng Zhao
 author_cn: 赵永峰
 email: zhaoyongfeng1990@sjtu.edu.cn
 description: >- # this means to ignore newlines until "baseurl:"
-  Postdoc,
-  School of Physics and Astronomy & Institute of Natural Sciences, 
-  Shanghai Jiao Tong Universiy, 
-  Shanghai, China.
+  tenure-track associate professor,
+  School of Physical Science and Technology,
+  Soochow University, 
+  Suzhou, China.
 description_cn: >- # this means to ignore newlines until "baseurl:"
-  博士后，物理与天文学院&自然科学研究院，上海交通大学，上海，中国
+  副教授，物理科学与技术学院，苏州大学，苏州，中国
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "zhaoyongfeng1990.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  zhaoyongfeng1990
