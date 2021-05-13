@@ -27,7 +27,7 @@ City of birth: Yinchuan, Ningxia, China
 <h2>Working experience</h2>
 
 <ul>
-<li><strong>2021–now</strong> Tenure-track associate professor, School of Physical Science and Technology, Soochow University, Suzhou.</li>
+<li><strong>2021–now</strong> Associate professor, School of Physical Science and Technology, Soochow University, Suzhou.</li>
 
 <li><strong>2019–2021</strong> Postdoctoral researcher, Institute of Natural Sciences, Shanghai Jiao Tong University, Shanghai.</li>
 
