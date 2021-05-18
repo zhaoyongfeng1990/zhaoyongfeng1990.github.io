@@ -12,19 +12,19 @@ permalink: /cn/publications/
 
 <ol>
 
+<li>Siyuan Yang, Mingji Huang, <strong>Yongfeng Zhao</strong>, Hepeng Zhang, "<em>Controlling cell motion and microscale flow with polarized light fields</em>", Phys. Rev. Lett. 126, 058001 (2021). </li> 
+
+<a href="https://arxiv.org/abs/2102.03543">Preprint</a>, <a href="https://doi.org/10.1103/PhysRevLett.126.058001">Phys. Rev. Lett.</a>
+
 <li>Ruben Zakine*, <strong>Yongfeng Zhao</strong>*, Miloš Knežević, Adrian Daerr, Yariv Kafri, Julien Tailleur, Frédéric van Wijland, "<em>Surface Tensions between Active Fluids and Solid Interfaces: bare vs dressed</em>", Phys. Rev. Lett. 124, 248003 (2020). </li> 
 
 <a href="https://arxiv.org/pdf/1907.07738">Preprint</a>, <a href="https://doi.org/10.1103/PhysRevLett.124.248003">Phys. Rev. Lett.</a>, <a href="{{site.url}}/assets/poster_fluid_solid.pdf">Poster</a>
 
 <a href="https://arxiv.org/pdf/1907.07738">Preprint</a> 
 
-<li>Agnese I. Curatolo*, Nan Zhou*, <strong>Yongfeng Zhao</strong>*, Chenli Liu, Adrian Daerr, Julien Tailleur, Jian-Dong Huang, "<em>Cooperative pattern formation in multi-component bacterial systems through reciprocal motility regulation</em>", Nat. Phys., (2020). </li> 
+<li>Agnese I. Curatolo*, Nan Zhou*, <strong>Yongfeng Zhao</strong>*, Chenli Liu, Adrian Daerr, Julien Tailleur, Jian-Dong Huang, "<em>Cooperative pattern formation in multi-component bacterial systems through reciprocal motility regulation</em>", Nat. Phys. 16, 1152–1157 (2020). </li> 
 
 <a href="https://www.biorxiv.org/content/10.1101/798827v1.full.pdf">Preprint</a>, <a href="https://doi.org/10.1038/s41567-020-0964-z">Nat. Phys.</a> 
-
-<li>Siyuan Yang, Mingji Huang, <strong>Yongfeng Zhao</strong>, Hepeng Zhang, "<em>Controlling cell motion and microscale flow with polarized light fields</em>", Phys. Rev. Lett., accepted. </li> 
-
-<a href="https://journals.aps.org/prl/accepted/e807eY9bJ4912c68154c2bb06fcbda6c71f1cff24">Phys. Rev. Lett.</a> 
 
 <li>Eric Woillez, <strong>Yongfeng Zhao</strong>, Yariv Kafri, Vivien Lecomte, Julien Tailleur, “<em>Activated escape of a self-propelled particle from a metastable state</em>”, Phys. Rev. Lett. 122, 258001 (2019). </li> 
 
