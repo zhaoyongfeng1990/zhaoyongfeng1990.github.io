@@ -33,7 +33,7 @@ City of birth: Yinchuan, Ningxia, China
 
 <li><strong>2017–2018</strong> Postdoctoral researcher, Laboratoire Matière et Systèmes complexes, Université Paris Diderot, Paris.</li>
 
-<li><strong>2012–2016</strong> Research assistant, Department of Biochemistry, University of Hong Kong, Hong Kong.</li>
+<li><strong>2012–2016</strong> Research assistant, Department of Biochemistry, The University of Hong Kong, Hong Kong.</li>
 
 <li><strong>2010–2012</strong> Research assistant, Center of Quantitative Biology, Peking University, Beijing.</li>
 </ul>
@@ -42,8 +42,7 @@ City of birth: Yinchuan, Ningxia, China
 
 <ul>
 <li><strong>2012–2016</strong> Doctor of Philosophy (PhD) in Physics </li>
-Department of Physics, University
-of Hong Kong.<br>
+Department of Physics, The University of Hong Kong.<br>
 
 <strong>Advisor(s)</strong> <br>
 

@@ -20,8 +20,6 @@ permalink: /en/publications/
 
 <a href="https://arxiv.org/pdf/1907.07738">Preprint</a>, <a href="https://doi.org/10.1103/PhysRevLett.124.248003">Phys. Rev. Lett.</a>, <a href="{{site.url}}/assets/poster_fluid_solid.pdf">Poster</a>
 
-<a href="https://arxiv.org/pdf/1907.07738">Preprint</a> 
-
 <li>Agnese I. Curatolo*, Nan Zhou*, <strong>Yongfeng Zhao</strong>*, Chenli Liu, Adrian Daerr, Julien Tailleur, Jian-Dong Huang, "<em>Cooperative pattern formation in multi-component bacterial systems through reciprocal motility regulation</em>", Nat. Phys. 16, 1152–1157 (2020). </li> 
 
 <a href="https://www.biorxiv.org/content/10.1101/798827v1.full.pdf">Preprint</a>, <a href="https://doi.org/10.1038/s41567-020-0964-z">Nat. Phys.</a> 
