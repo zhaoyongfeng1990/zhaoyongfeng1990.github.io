@@ -8,12 +8,6 @@ permalink: /en/CV/
 
 [pdf version]({{site.url}}/assets/CV_ZhaoYongfeng_en.pdf)
 
-<h2>Personal information</h2>
-
-Date of birth: 7th Aprial 1990
-
-City of birth: Yinchuan, Ningxia, China
-
 <h2>Research interests</h2>
 
 <ul>

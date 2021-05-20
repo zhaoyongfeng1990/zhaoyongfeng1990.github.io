@@ -18,7 +18,7 @@ From elementary differential geometry to Einstein field equation, including simp
 
 [Non-relativistic quantum mechanics (Chinese)]({{site.url}}/assets/quantum_mechanics.pdf)
 
-From Dirac symbols to elementary purterbation theory.
+From Dirac symbols to elementary perturbation theory.
 
 [Electrodynamics (Chinese)]({{site.url}}/assets/electrodynamics.pdf)
 

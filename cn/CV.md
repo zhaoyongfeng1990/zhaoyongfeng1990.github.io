@@ -8,12 +8,6 @@ permalink: /cn/CV/
 
 [pdf版本]({{site.url}}/assets/CV_ZhaoYongfeng_cn.pdf)
 
-<h2>个人信息</h2>
-
-出生日期：1990年4月7日
-
-出生地：宁夏银川市
-
 <h2>研究兴趣</h2>
 
 <ul>
