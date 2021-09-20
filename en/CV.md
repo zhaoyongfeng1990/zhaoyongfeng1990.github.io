@@ -60,6 +60,22 @@ A Mathematical Model For the Decision-making Process of CD4+ T cell System By An
 
 </ul>
 
+<h2>Talks</h2>
+<h3>Conference contributed talks</h3>
+<ul>
+<li>2021.08.02, "Surface tensions in active systems", The 6th National Conference of Statistical Physics and Complex Syetems (第六届全国统计物理与复杂系统学术会议暨海峡两岸统计物理会议). </li>
+
+<a href="https://www.koushare.com/video/videodetail/15458">DOI：https://dx.doi.org/10.12351/ks.2109.0088</a>(Chinese)
+
+</ul>
+
+<h3>Personal invited talks</h3>
+<ul>
+<li>2021.08.09, "Cooperative pattern formation of multi-component bacterial systems", Department of Physics and Material Sciences, Université Du Luxembourg, Luxembourg.</li>
+<li>2020.11.11, "Active matter: a world far from equilibrium - thermodynamics, pattern formation, and complex environments", Institute of Theoretical Physcis, Chinese Academy of Sciences, Beijing.</li>
+<li>2019.09.11, "Spreading of run-and-tumble bacteria in complex environments", Laboratoire Matière et Systèmes Complexes, Université Paris Diderot, Paris.</li>
+</ul>
+
 <h2>Stills</h2>
 <h1>Languages</h1>
 <ul>

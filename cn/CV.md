@@ -62,6 +62,22 @@ Run-and-tumble Motion and Differential Dynamic Microscopy<br>
 
 </ul>
 
+<h2>演讲</h2>
+<h3>会议一般演讲</h3>
+<ul>
+<li>2021.08.02, "Surface tensions in active systems", 第六届全国统计物理与复杂系统学术会议暨海峡两岸统计物理会议. </li>
+
+<a href="https://www.koushare.com/video/videodetail/15458">DOI：https://dx.doi.org/10.12351/ks.2109.0088</a>（中文）
+
+</ul>
+
+<h3>个人邀请演讲</h3>
+<ul>
+<li>2021.08.09, "Cooperative pattern formation of multi-component bacterial systems", Department of Physics and Material Sciences, Université Du Luxembourg, Luxembourg.</li>
+<li>2020.11.11, "Active matter: a world far from equilibrium - thermodynamics, pattern formation, and complex environments", 中国科学院理论物理研究所，北京.</li>
+<li>2019.09.11, "Spreading of run-and-tumble bacteria in complex environments", Laboratoire Matière et Systèmes Complexes, Université Paris Diderot, Paris.</li>
+</ul>
+
 <h2>技能</h2>
 <h1>语言</h1>
 <ul>
