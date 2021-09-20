@@ -74,7 +74,7 @@ Run-and-tumble Motion and Differential Dynamic Microscopy<br>
 <h3>个人邀请演讲</h3>
 <ul>
 <li>2021.08.09, "Cooperative pattern formation of multi-component bacterial systems", Department of Physics and Material Sciences, Université Du Luxembourg, Luxembourg.</li>
-<li>2020.11.11, "Active matter: a world far from equilibrium - thermodynamics, pattern formation, and complex environments", 中国科学院理论物理研究所，北京.</li>
+<li>2020.11.11, "Active matter: a world far from equilibrium - thermodynamics, pattern formation, and complex environments", 中国科学院理论物理研究所, 北京.</li>
 <li>2019.09.11, "Spreading of run-and-tumble bacteria in complex environments", Laboratoire Matière et Systèmes Complexes, Université Paris Diderot, Paris.</li>
 </ul>
 
