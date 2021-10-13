@@ -52,7 +52,7 @@ Run-and-tumble Motion and Differential Dynamic Microscopy<br>
 
 北京大学，物理学院<br>
 
-<strong>毕业论文指导者(s)</strong> <br>
+<strong>毕业论文指导者</strong> <br>
 
 李方廷博士<br>
 

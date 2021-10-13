@@ -14,7 +14,9 @@ permalink: /en/publications/
 
 <ol>
 
-<li>Zeng Tao Liu, Yan Shi, <strong>Yongfeng Zhao</strong>, Hugues Chaté#, Xia-qing Shi#, Tian Hui Zhang#, "<em>Subcritical active matter: Activity waves and freestanding vortices</em>", Proc. Natl. Acad. Sci. (2021), in press. </li>
+<li>Zeng Tao Liu, Yan Shi, <strong>Yongfeng Zhao</strong>, Hugues Chaté#, Xia-qing Shi#, Tian Hui Zhang#, "<em>Subcritical active matter: Activity waves and freestanding vortices</em>", Proc. Natl. Acad. Sci. 118 (40) e2104724118 (2021).  </li>
+
+<a href="https://doi.org/10.1073/pnas.2104724118">Proc. Natl. Acad. Sci.</a>
 
 <li>Siyuan Yang, Mingji Huang, <strong>Yongfeng Zhao</strong>, Hepeng Zhang#, "<em>Controlling cell motion and microscale flow with polarized light fields</em>", Phys. Rev. Lett. 126, 058001 (2021). </li> 
 
