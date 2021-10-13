@@ -39,7 +39,7 @@ permalink: /cn/CV/
 <li><strong>2012–2016</strong> 物理学，哲学博士学位 </li>
 香港大学，物理系<br>
 
-<strong>毕业论文指导者</strong> <br>
+<strong>毕业论文指导老师</strong> <br>
 
 黄建东教授，Julien Tailleur博士<br>
 
@@ -52,7 +52,7 @@ Run-and-tumble Motion and Differential Dynamic Microscopy<br>
 
 北京大学，物理学院<br>
 
-<strong>毕业论文指导者</strong> <br>
+<strong>毕业论文指导老师</strong> <br>
 
 李方廷博士<br>
 
