@@ -63,6 +63,8 @@ A Mathematical Model For the Decision-making Process of CD4+ T cell System By An
 <h2>Talks</h2>
 <h3>Conference contributed talks</h3>
 <ul>
+<li>2021.10.24, "Cooperative pattern formation of multi-component bacterial systems", CPS Fall Meeting 2020/2021. </li>
+<li>2021.10.23, "Surface tensions in active systems", CPS Fall Meeting 2020/2021. </li>
 <li>2021.08.02, "Surface tensions in active systems", The 6th National Conference of Statistical Physics and Complex Syetems (第六届全国统计物理与复杂系统学术会议暨海峡两岸统计物理会议). </li>
 
 <a href="https://www.koushare.com/video/videodetail/15458">DOI：https://dx.doi.org/10.12351/ks.2109.0088</a>(Chinese)
