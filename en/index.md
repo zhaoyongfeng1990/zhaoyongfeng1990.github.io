@@ -7,7 +7,7 @@ lang: en
 lang-ref: index
 ---
 
-Welcom to my home page.
+Welcome to my home page.
 
 I'm now an associate professor in School of Physical Science and Technology, Soochow University. I work on active particles, non-equilibrium statistical physics of soft matter, nonlinear dynamics, and systems biology. [University page](http://web.suda.edu.cn/zyf2_en) [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=uZGde7gAAAAJ)
 
