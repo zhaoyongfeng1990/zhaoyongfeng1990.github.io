@@ -46,6 +46,16 @@ permalink: /cn/publications/
 
 </ol>
 
+<h2>专著</h2>
+
+<ol>
+
+<li>Jérémy O'Byrne, Alexandre Solon, Julien Tailleur#, <strong>Yongfeng Zhao</strong>, "<em>An Introduction to Motility-Induced Phase Separation</em>", a chapter in the book "<em>Out-of-Equilibrium Soft Matter: Active Fluids</em>", to be published by the Royal Society of Chemistry.</li>
+
+<a href="https://arxiv.org/abs/2112.03979">Preprint</a>
+
+</ol>
+
 <h2>博士毕业论文</h2>
 
 Run-and-tumble Motion and Differential Dynamic Microscopy
