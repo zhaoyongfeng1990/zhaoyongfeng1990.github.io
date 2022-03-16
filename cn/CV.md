@@ -66,7 +66,7 @@ Run-and-tumble Motion and Differential Dynamic Microscopy<br>
 
 <h3>会议邀请演讲</h3>
 <ul>
-<li>2021.12.13，"Cooperative pattern formation of multi-component bacterial systems"，2021厦门软物质论坛暨ICAM-China秋季研讨会。
+<li>2021.12.13，"Cooperative pattern formation of multi-component bacterial systems"，2021厦门软物质论坛暨ICAM-China秋季研讨会。</li>
 
 <a href="https://www.koushare.com/video/videodetail/21923">DOI：https://dx.doi.org/10.12351/ks.2201.1748</a>（英文）
 </ul>
