@@ -61,6 +61,13 @@ A Mathematical Model For the Decision-making Process of CD4+ T cell System By An
 </ul>
 
 <h2>Talks</h2>
+<h3>Conference invited talks</h3>
+<ul>
+<li>2021.12.13, "Cooperative pattern formation of multi-component bacterial systems", Xiamen Soft Matter Forum 2021&ICAM-China 2021 Autumn Workshop
+
+<a href="https://www.koushare.com/video/videodetail/21923">DOI：https://dx.doi.org/10.12351/ks.2201.1748</a>(English)
+</ul>
+
 <h3>Conference contributed talks</h3>
 <ul>
 <li>2021.10.24, "Cooperative pattern formation of multi-component bacterial systems", CPS Fall Meeting 2020/2021. </li>

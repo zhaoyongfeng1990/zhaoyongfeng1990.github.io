@@ -63,14 +63,22 @@ Run-and-tumble Motion and Differential Dynamic Microscopy<br>
 </ul>
 
 <h2>演讲</h2>
+
+<h3>会议邀请演讲</h3>
+<ul>
+<li>2021.12.13，"Cooperative pattern formation of multi-component bacterial systems"，2021厦门软物质论坛暨ICAM-China秋季研讨会。
+
+<a href="https://www.koushare.com/video/videodetail/21923">DOI：https://dx.doi.org/10.12351/ks.2201.1748</a>（英文）
+</ul>
+
 <h3>会议一般演讲</h3>
 <ul>
-<li>2021.10.24, "相互调控运动的多组分细菌系统的协作斑图形成",中国物理学会2020/2021秋季会议，软凝聚态物理与生物物理分会场. </li>
-<li>2021.10.23, "活性系统中的表面张力", 中国物理学会2020/2021秋季会议，统计物理与复杂体系分会场. </li>
+<li>2021.10.24，"相互调控运动的多组分细菌系统的协作斑图形成"，中国物理学会2020/2021秋季会议，软凝聚态物理与生物物理分会场。</li>
+<li>2021.10.23，"活性系统中的表面张力"，中国物理学会2020/2021秋季会议，统计物理与复杂体系分会场。</li>
 
 <a href="https://www.koushare.com/video/videodetail/17269">DOI：https://dx.doi.org/10.12351/ks.2111.0173</a>（中文）
 
-<li>2021.08.02, "Surface tensions in active systems", 第六届全国统计物理与复杂系统学术会议暨海峡两岸统计物理会议. </li>
+<li>2021.08.02，"Surface tensions in active systems"，第六届全国统计物理与复杂系统学术会议暨海峡两岸统计物理会议。</li>
 
 <a href="https://www.koushare.com/video/videodetail/15458">DOI：https://dx.doi.org/10.12351/ks.2109.0088</a>（中文）
 
