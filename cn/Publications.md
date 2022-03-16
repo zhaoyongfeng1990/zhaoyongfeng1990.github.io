@@ -14,6 +14,10 @@ permalink: /cn/publications/
 
 <ol>
 
+<li>Alberto Dinelli, Jérémy O'Byrne, Agnese Curatolo, <strong>Yongfeng Zhao</strong>, Peter Sollich, Julien Tailleur, "<em>Self-organization of bacterial mixtures in the presence of quorum-sensing interactions</em>", arXiv:2203.07757 (2022).</li>
+
+<a href="https://arxiv.org/abs/2203.07757">Preprint</a>
+
 <li><strong>Yongfeng Zhao</strong>, "<em>Non-interacting spherical active particles under confinement: generalized entropy potential</em>", arXiv:2111.06156 (2021).</li>
 
 <a href="https://arxiv.org/abs/2111.06156">Preprint</a>
