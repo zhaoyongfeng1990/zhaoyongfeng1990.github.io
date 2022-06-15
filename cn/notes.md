@@ -6,6 +6,12 @@ lang-ref: notes
 permalink: /cn/notes/
 ---
 
+电磁学实验课程讲义：
+
+[误差分析]({{site.url}}/assets/LectNote_error_analysis_chs.pdf)
+
+-----------------
+
 这一系列笔记是我曾经在知乎专栏里写过的、关于物理基础课程的笔记。供读者们取用。
 
 [软物质（非平衡态）统计物理]({{site.url}}/assets/soft_matter.pdf)
