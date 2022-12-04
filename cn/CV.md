@@ -66,6 +66,10 @@ Run-and-tumble Motion and Differential Dynamic Microscopy<br>
 
 <h3>会议邀请演讲</h3>
 <ul>
+<li>2022.10.30，"Characterization and Control of the Run-and-Tumble Dynamics of Escherichia Coli"，第十二届全国软物质与生命物质物理学术会议，生物物理与医学物理分会场。</li>
+
+<a href="http://as.iphy.ac.cn/video_detail.php?id=37790">录像回放</a>（中文）
+
 <li>2021.12.13，"Cooperative pattern formation of multi-component bacterial systems"，2021厦门软物质论坛暨ICAM-China秋季研讨会。</li>
 
 <a href="https://www.koushare.com/video/videodetail/21923">DOI：https://dx.doi.org/10.12351/ks.2201.1748</a>（英文）
