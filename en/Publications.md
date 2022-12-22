@@ -14,6 +14,14 @@ permalink: /en/publications/
 
 <ol>
 
+<li>Christina Kurzthaler*,#, <strong>Yongfeng Zhao</strong>*,#, Nan Zhou, Jana Schwarz-Linek, Clemence Devailly, Jochen Arlt, Jian-Dong Huang, Wilson C. K. Poon, Thomas Franosch, Julien Tailleur#, Vincent A. Martinez#, "<em>Characterization and Control of the Run-and-Tumble Dynamics of <it> Escherichia Coli </it></em>", arXiv:2212.11222 (2022).</li>
+
+<a href="https://arxiv.org/abs/2212.11222">Preprint</a>
+
+<li><strong>Yongfeng Zhao</strong>*,#, Christina Kurzthaler*,#, Nan Zhou, Jana Schwarz-Linek, Clemence Devailly, Jochen Arlt, Jian-Dong Huang, Wilson C. K. Poon, Thomas Franosch, Vincent A. Martinez#, Julien Tailleur#, "<em>Quantitative characterization of run-and-tumble statistics in bulk bacterial suspensions</em>", arXiv:2212.10996 (2022).</li>
+
+<a href="https://arxiv.org/abs/2212.10996">Preprint</a>
+
 <li>Alberto Dinelli, Jérémy O'Byrne, Agnese Curatolo, <strong>Yongfeng Zhao</strong>, Peter Sollich, Julien Tailleur, "<em>Self-organization of bacterial mixtures in the presence of quorum-sensing interactions</em>", arXiv:2203.07757 (2022).</li>
 
 <a href="https://arxiv.org/abs/2203.07757">Preprint</a>
