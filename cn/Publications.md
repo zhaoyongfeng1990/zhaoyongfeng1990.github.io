@@ -28,10 +28,12 @@ permalink: /cn/publications/
 
 <li><strong>Yongfeng Zhao</strong>, "<em>Non-interacting spherical active particles under confinement: generalized entropy potential</em>", arXiv:2111.06156 (2021).</li>
 
-<h2>已发表论文</h2>
+</ol>
 
 <a href="https://arxiv.org/abs/2111.06156">Preprint</a>
 
+<h2>已发表论文</h2>
+<ol>
 <li>Zeng Tao Liu, Yan Shi, <strong>Yongfeng Zhao</strong>, Hugues Chaté#, Xia-qing Shi#, Tian Hui Zhang#, "<em>Subcritical active matter: Activity waves and freestanding vortices</em>", Proc. Natl. Acad. Sci. 118 (40) e2104724118 (2021).  </li>
 
 <a href="https://doi.org/10.1073/pnas.2104724118">Proc. Natl. Acad. Sci.</a>
