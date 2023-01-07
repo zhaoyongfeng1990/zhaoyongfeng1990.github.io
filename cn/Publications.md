@@ -10,7 +10,7 @@ permalink: /cn/publications/
 
 #通讯作者
 
-<h2>预印本论文</h2>
+<h2>预印本</h2>
 
 <ol>
 
@@ -28,9 +28,9 @@ permalink: /cn/publications/
 
 <li><strong>Yongfeng Zhao</strong>, "<em>Non-interacting spherical active particles under confinement: generalized entropy potential</em>", arXiv:2111.06156 (2021).</li>
 
-</ol>
-
 <a href="https://arxiv.org/abs/2111.06156">Preprint</a>
+
+</ol>
 
 <h2>已发表论文</h2>
 <ol>
