@@ -6,6 +6,12 @@ lang-ref: notes
 permalink: /en/notes/
 ---
 
+Lecture notes on experimental course of electromagnetism.
+
+[Error analysis]({{site.url}}/assets/LectNote_error_analysis.pdf)
+
+-----------------
+
 This is a series of notes firstly written in my Zhihu (a Chinese Quora) blog, on courses of fundamental physics.
 
 [Soft matter (non-equilibrium) statistical physics (Chinese)]({{site.url}}/assets/soft_matter.pdf)

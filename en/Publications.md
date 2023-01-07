@@ -6,13 +6,21 @@ lang-ref: publications
 permalink: /en/publications/
 ---
 
-<h2>Articles</h2>
 
 *Authors contribute equally
 
 #Corresponding authors
 
+<h2>Preprints</h2>
 <ol>
+
+<li>Christina Kurzthaler*,#, <strong>Yongfeng Zhao</strong>*,#, Nan Zhou, Jana Schwarz-Linek, Clemence Devailly, Jochen Arlt, Jian-Dong Huang, Wilson C. K. Poon, Thomas Franosch, Julien Tailleur#, Vincent A. Martinez#, "<em>Characterization and Control of the Run-and-Tumble Dynamics of <it> Escherichia Coli </it></em>", arXiv:2212.11222 (2022).</li>
+
+<a href="https://arxiv.org/abs/2212.11222">Preprint</a>
+
+<li><strong>Yongfeng Zhao</strong>*,#, Christina Kurzthaler*,#, Nan Zhou, Jana Schwarz-Linek, Clemence Devailly, Jochen Arlt, Jian-Dong Huang, Wilson C. K. Poon, Thomas Franosch, Vincent A. Martinez#, Julien Tailleur#, "<em>Quantitative characterization of run-and-tumble statistics in bulk bacterial suspensions</em>", arXiv:2212.10996 (2022).</li>
+
+<a href="https://arxiv.org/abs/2212.10996">Preprint</a>
 
 <li>Alberto Dinelli, Jérémy O'Byrne, Agnese Curatolo, <strong>Yongfeng Zhao</strong>, Peter Sollich, Julien Tailleur, "<em>Self-organization of bacterial mixtures in the presence of quorum-sensing interactions</em>", arXiv:2203.07757 (2022).</li>
 
@@ -21,6 +29,8 @@ permalink: /en/publications/
 <li><strong>Yongfeng Zhao</strong>, "<em>Non-interacting spherical active particles under confinement: generalized entropy potential</em>", arXiv:2111.06156 (2021).</li>
 
 <a href="https://arxiv.org/abs/2111.06156">Preprint</a>
+
+<h2>Published articles</h2>
 
 <li>Zeng Tao Liu, Yan Shi, <strong>Yongfeng Zhao</strong>, Hugues Chaté#, Xia-qing Shi#, Tian Hui Zhang#, "<em>Subcritical active matter: Activity waves and freestanding vortices</em>", Proc. Natl. Acad. Sci. 118 (40) e2104724118 (2021).  </li>
 
