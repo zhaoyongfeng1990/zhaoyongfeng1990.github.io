@@ -32,13 +32,15 @@ github_username:  zhaoyongfeng1990
 
 # Build settings
 markdown: kramdown
-theme: minima
+# theme: minima
+remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-remote-theme
 
 url: "https://zhaoyongfeng1990.github.io"
-
+google_analytics: UA-168448486-1
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
