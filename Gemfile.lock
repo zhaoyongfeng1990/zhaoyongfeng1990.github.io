@@ -258,10 +258,11 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  github-pages (~> 227)
+  github-pages
   http_parser.rb (~> 0.6.0)
   jekyll-feed (~> 0.12)
-  minima (~> 2.5.1)
+  jekyll-remote-theme
+  minima
   tzinfo-data
   webrick (~> 1.7)
 
