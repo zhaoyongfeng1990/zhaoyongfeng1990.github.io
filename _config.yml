@@ -36,8 +36,8 @@ markdown: kramdown
 remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
-  - jekyll-sitemap
   - jekyll-remote-theme
+  - jekyll-sitemap
 
 url: "https://zhaoyongfeng1990.github.io"
 google_analytics: G-TSF6N00LN4
