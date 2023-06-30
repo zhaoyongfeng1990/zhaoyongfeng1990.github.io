@@ -41,6 +41,13 @@ plugins:
 
 url: "https://zhaoyongfeng1990.github.io"
 google_analytics: G-TSF6N00LN4
+
+# Analytics
+analytics:
+  provider               : "google-gtag"
+  google:
+    measurement_id          : "G-TSF6N00LN4"
+    anonymize_ip         : # true, false (default)
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
