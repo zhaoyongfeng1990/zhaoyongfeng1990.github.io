@@ -40,7 +40,7 @@ plugins:
   #- jekyll-remote-theme
 
 url: "https://zhaoyongfeng1990.github.io"
-google_analytics: UA-168448486-1
+google_analytics: G-TSF6N00LN4
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
