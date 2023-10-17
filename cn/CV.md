@@ -66,6 +66,8 @@ Run-and-tumble Motion and Differential Dynamic Microscopy<br>
 
 <h3>会议邀请演讲</h3>
 <ul>
+<li>2023.04.03，"Surface tensions in active fluids"，2023年生命物质物理研究论坛。</li>
+
 <li>2022.10.30，"Characterization and Control of the Run-and-Tumble Dynamics of Escherichia Coli"，第十二届全国软物质与生命物质物理学术会议，生物物理与医学物理分会场。</li>
 
 <a href="http://as.iphy.ac.cn/video_detail.php?id=37790">录像回放</a>（中文）
@@ -77,6 +79,9 @@ Run-and-tumble Motion and Differential Dynamic Microscopy<br>
 
 <h3>会议一般演讲</h3>
 <ul>
+<li>2023.08.20，"刻画与控制大肠杆菌的游动-翻转动力学"，中国物理学会2023秋季会议，软凝聚态物理与生物物理分会场。</li>
+<li>2023.08.07，"Surface tensions in active fluids"，第28届国际统计物理会议（STATPHYS28），软物质分会场。</li>
+<li>2023.08.01，"Surface tensions in active fluids"，Frontiers in nonequilibrium physics: active matter, topology and beyond。</li>
 <li>2021.10.24，"相互调控运动的多组分细菌系统的协作斑图形成"，中国物理学会2020/2021秋季会议，软凝聚态物理与生物物理分会场。</li>
 <li>2021.10.23，"活性系统中的表面张力"，中国物理学会2020/2021秋季会议，统计物理与复杂体系分会场。</li>
 

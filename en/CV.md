@@ -63,6 +63,8 @@ A Mathematical Model For the Decision-making Process of CD4+ T cell System By An
 <h2>Talks</h2>
 <h3>Conference invited talks</h3>
 <ul>
+<li>2023.04.03，"Surface tensions in active fluids", Workshop on the Physics of Living Matter (PhysLM2023). </li>
+
 <li>2022.10.30，"Characterization and Control of the Run-and-Tumble Dynamics of Escherichia Coli"，The 12th National Conference on Soft Matter and Biological Physics. </li>
 
 <a href="http://as.iphy.ac.cn/video_detail.php?id=37790">Replay</a>(Chinese)
@@ -74,6 +76,9 @@ A Mathematical Model For the Decision-making Process of CD4+ T cell System By An
 
 <h3>Conference contributed talks</h3>
 <ul>
+<li>2023.08.20，"Characterization and Control of the Run-and-Tumble Dynamics of Escherichia Coli", CPS Fall Meeting 2023. </li>
+<li>2023.08.07，"Surface tensions in active fluids", 28th International Conference on Statistical Physics (STATPHYS28), soft matter session. </li>
+<li>2023.08.01，"Surface tensions in active fluids", Frontiers in nonequilibrium physics: active matter, topology and beyond. </li>
 <li>2021.10.24, "Cooperative pattern formation of multi-component bacterial systems", CPS Fall Meeting 2020/2021. </li>
 <li>2021.10.23, "Surface tensions in active systems", CPS Fall Meeting 2020/2021. </li>
 
