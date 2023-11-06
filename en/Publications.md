@@ -32,7 +32,7 @@ permalink: /en/publications/
 <ol>
 <li>Alberto Dinelli, Jérémy O'Byrne, Agnese Curatolo, <strong>Yongfeng Zhao</strong>, Peter Sollich, Julien Tailleur, "<em>Non-reciprocity across scales in active mixtures</em>", Nature Communications 14, 7035 (2023).</li>
 
-<a href="https://www.nature.com/articles/s41467-023-42713-5">Nat. Comm.</a>, <a href="https://arxiv.org/abs/2203.07757">Preprint</a>
+<a href="https://arxiv.org/abs/2203.07757">Preprint</a>, <a href="https://www.nature.com/articles/s41467-023-42713-5">Nat. Comm.</a>
 
 <li>Zeng Tao Liu, Yan Shi, <strong>Yongfeng Zhao</strong>, Hugues Chaté#, Xia-qing Shi#, Tian Hui Zhang#, "<em>Subcritical active matter: Activity waves and freestanding vortices</em>", Proc. Natl. Acad. Sci. 118 (40) e2104724118 (2021).  </li>
 
