@@ -13,23 +13,21 @@ permalink: /en/publications/
 
 <h2>Preprints</h2>
 <ol>
-
-<li>Christina Kurzthaler*,#, <strong>Yongfeng Zhao</strong>*,#, Nan Zhou, Jana Schwarz-Linek, Clemence Devailly, Jochen Arlt, Jian-Dong Huang, Wilson C. K. Poon, Thomas Franosch, Julien Tailleur#, Vincent A. Martinez#, "<em>Characterization and Control of the Run-and-Tumble Dynamics of <it> Escherichia Coli </it></em>", arXiv:2212.11222 (2022).</li>
-
-<a href="https://arxiv.org/abs/2212.11222">Preprint</a>
-
-<li><strong>Yongfeng Zhao</strong>*,#, Christina Kurzthaler*,#, Nan Zhou, Jana Schwarz-Linek, Clemence Devailly, Jochen Arlt, Jian-Dong Huang, Wilson C. K. Poon, Thomas Franosch, Vincent A. Martinez#, Julien Tailleur#, "<em>Quantitative characterization of run-and-tumble statistics in bulk bacterial suspensions</em>", arXiv:2212.10996 (2022).</li>
-
-<a href="https://arxiv.org/abs/2212.10996">Preprint</a>
-
 <li><strong>Yongfeng Zhao</strong>, "<em>Non-interacting spherical active particles under confinement: generalized entropy potential</em>", arXiv:2111.06156 (2021).</li>
 
 <a href="https://arxiv.org/abs/2111.06156">Preprint</a>
 
 </ol>
 <h2>Published articles</h2>
-
 <ol>
+<li>Christina Kurzthaler*,#, <strong>Yongfeng Zhao</strong>*,#, Nan Zhou, Jana Schwarz-Linek, Clemence Devailly, Jochen Arlt, Jian-Dong Huang, Wilson C. K. Poon, Thomas Franosch, Julien Tailleur#, Vincent A. Martinez#, "<em>Characterization and Control of the Run-and-Tumble Dynamics of <it> Escherichia Coli </it></em>", Phys. Rev. Lett. 132, 038302 (2024).</li>
+
+<a href="https://arxiv.org/abs/2212.11222">Preprint</a>, <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.038302">Phys. Rev. Lett.</a>
+
+<li><strong>Yongfeng Zhao</strong>*,#, Christina Kurzthaler*,#, Nan Zhou, Jana Schwarz-Linek, Clemence Devailly, Jochen Arlt, Jian-Dong Huang, Wilson C. K. Poon, Thomas Franosch, Vincent A. Martinez, Julien Tailleur#, "<em>Quantitative characterization of run-and-tumble statistics in bulk bacterial suspensions</em>", Phys. Rev. E 109, 014612 (2024).</li>
+
+<a href="https://arxiv.org/abs/2212.10996">Preprint</a>, <a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.109.014612">Phys. Rev. E</a>
+
 <li>Alberto Dinelli, Jérémy O'Byrne, Agnese Curatolo, <strong>Yongfeng Zhao</strong>, Peter Sollich, Julien Tailleur, "<em>Non-reciprocity across scales in active mixtures</em>", Nature Communications 14, 7035 (2023).</li>
 
 <a href="https://arxiv.org/abs/2203.07757">Preprint</a>, <a href="https://www.nature.com/articles/s41467-023-42713-5">Nat. Comm.</a>
