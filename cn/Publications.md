@@ -63,7 +63,7 @@ permalink: /cn/publications/
 
 <ol>
 
-<li>Jérémy O'Byrne, Alexandre Solon, Julien Tailleur#, <strong>Yongfeng Zhao</strong>, "<em>An Introduction to Motility-Induced Phase Separation</em>", a chapter in the book "<em>Out-of-Equilibrium Soft Matter: Active Fluids</em>", to be published by the Royal Society of Chemistry.</li>
+<li>Jérémy O'Byrne, Alexandre Solon, Julien Tailleur#, <strong>Yongfeng Zhao</strong>, "<em>An Introduction to Motility-Induced Phase Separation</em>", Chapter in the book "Out-of-Equilibrium Soft Matter: Active Fluids". Editors: C. Kurzthaler, L. Gentile, H. A. Stone. Royal Society of Chemistry (2023)</li>
 
 <a href="https://arxiv.org/abs/2112.03979">Preprint</a>
 
