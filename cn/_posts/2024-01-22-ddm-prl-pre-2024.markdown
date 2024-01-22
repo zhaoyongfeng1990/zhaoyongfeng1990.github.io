@@ -8,7 +8,7 @@ prose: false
 ---
 
 {:refdef: style="text-align: center;"}
-![MA_exp]({{site.url}}/assets/EColi_1Large.png)
+![ecoli]({{site.url}}/assets/EColi_1Large.png)
 {: refdef}
 
 如何定量刻画微生物，特别是大量微生物个体的运动一直是生物物理与活性物质领域的难题，而最近的一项新研究发展了一种新的高通量方法，成功定量刻画了大肠杆菌的运动。该研究于1月11日发表在《物理评论快报》（《Physical Review Letters》）[1]与《物理评论E》（《Physical Review E》）[2]，被选为PRL编辑推荐论文，并被美国物理学会《物理》（《Physics》）杂志报道[3]。两篇文章的第一作者均为苏州大学赵永峰副教授与德国马克斯普朗克研究所课题组组长Christina Kurzthaler。
@@ -26,17 +26,18 @@ prose: false
 这一方法实现了以更经济的成像设备对细菌群体进行三维、高统计精度的快速测量，将有助于研究趋向性相关问题，并为自下而上进行人工设计与生物工程提供了可能。未来这一方法将可以推广到其他种类的微游泳体，为相关的生物和物理学研究提供巨大帮助。该工作涉及活性物质理论、光学实验和合成生物学三个不同领域的深入合作，展示了跨学科研究的重要性。PRL的通讯作者为Christina Kurzthaler、赵永峰、美国麻省理工学院Julien Tailleur副教授、英国爱丁堡大学Vincent Martinez博士，PRE的通讯作者为赵永峰、Christina Kurzthaler、Julien Tailleur。浙江大学周楠研究员，爱丁堡大学Jana Schwarz-Linek博士、Clemence Devailly博士、Jochen Arlt博士，香港大学黄建东教授，爱丁堡大学Wilson C. K. Poon教授，奥地利因斯布鲁克大学Thomas Franosch教授均参与了该工作。其中Christina Kurzthaler与赵永峰主要承担了该技术的理论构建与数据分析，Vincent Martinez与Jana Schwarz-Linek主要承担了细菌培养与显微成像实验，周楠在工程菌构建和定量表征中作出了重要贡献。
 
 相关文献：
+
 [1] Christina Kurzthaler, Yongfeng Zhao, Nan Zhou, Jana Schwarz-Linek, Clemence Devailly, Jochen Arlt, Jian-Dong Huang, Wilson C. K. Poon, Thomas Franosch, Julien Tailleur, and Vincent A. Martinez, “Characterization and Control of the Run-and-Tumble Dynamics of Escherichia Coli”, Phys. Rev. Lett. 132, 038302 (2024).
 
-<a href=“https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.038302”>文章链接</a>
+[文章链接](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.038302)
 
 [2] Yongfeng Zhao, Christina Kurzthaler, Nan Zhou, Jana Schwarz-Linek, Clemence Devailly, Jochen Arlt, Jian-Dong Huang, Wilson C. K. Poon, Thomas Franosch, Vincent A. Martinez, and Julien Tailleur, “Quantitative characterization of run-and-tumble statistics in bulk bacterial suspensions”, Phys. Rev. E 109, 014612 (2024).
 
-<a href=“https://journals.aps.org/pre/abstract/10.1103/PhysRevE.109.014612>文章链接</a>
+[文章链接](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.109.014612)
 
 [3] Katherine Wright, “Characterizing the Swimming Gait of a Bacterium”, Physics 17, s8 (2024).
 
-<a href=“https://physics.aps.org/articles/v17/s8>文章链接</a>
+[文章链接](https://physics.aps.org/articles/v17/s8)
 
 [4] G. H. Wadhams and J. P. Armitage, “Making sense of it all: Bacterial chemotaxis”, Nat. Rev. Mol. Cell Biol. 5, 1024 (2004).
 
