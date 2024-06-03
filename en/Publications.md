@@ -13,6 +13,8 @@ permalink: /en/publications/
 
 <h2>Preprints</h2>
 <ol>
+<li><strong>Yongfeng Zhao</strong>#, Ruben Zakine, Adrian Daerr, Yariv Kafri, Julien Tailleur, Frédéric van Wijland, "<em>Active Young-Dupré Equation: How Self-organized Currents Stabilize Partial Wetting</em>", arXiv:2405.20651 (2024). </li>
+
 <li><strong>Yongfeng Zhao</strong>, "<em>Non-interacting spherical active particles under confinement: generalized entropy potential</em>", arXiv:2111.06156 (2021).</li>
 
 <a href="https://arxiv.org/abs/2111.06156">Preprint</a>
