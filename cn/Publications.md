@@ -17,7 +17,7 @@ permalink: /cn/publications/
 
 <a href="https://arxiv.org/abs/2405.20651">Preprint</a>
 
-<li><strong>Yongfeng Zhao</strong>, "<em>Non-interacting spherical active particles under confinement: generalized entropy potential</em>", arXiv:2111.06156 (2021).</li>
+<li><strong>Yongfeng Zhao</strong>, "<em>Active particles in a tube: a generalized entropy potential approach</em>", arXiv:2111.06156 (2021).</li>
 
 <a href="https://arxiv.org/abs/2111.06156">Preprint</a>
 
