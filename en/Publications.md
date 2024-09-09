@@ -13,6 +13,16 @@ permalink: /en/publications/
 
 <h2>Preprints</h2>
 <ol>
+
+<li>Zihui Zhao, He Li, Yisong Yao, <strong>Yongfeng Zhao</strong>, Francesca Serra, Kyogo Kawaguchi, Hepeng Zhang, Hugues Chaté, Masaki Sano#, "<em>Integer topological defects provide a new way to quantify and classify cell sheets</em>", biorXiv:2024.08.28.610106  (2024). </li>
+
+<a href="https://www.biorxiv.org/content/10.1101/2024.08.28.610106v1">Preprint</a>
+
+<li>Zihui Zhao*, Yisong Yao*, He Li, <strong>Yongfeng Zhao</strong>, Yujia Wang, Hepeng Zhang, Hugues Chaté, Masaki Sano, "<em>
+Integer Topological Defects Reveal Effective Forces in Active Nematics</em>", arXiv:2408.15431 (2024). </li>
+
+<a href="https://arxiv.org/abs/2408.15431">Preprint</a>
+
 <li><strong>Yongfeng Zhao</strong>#, Ruben Zakine, Adrian Daerr, Yariv Kafri, Julien Tailleur, Frédéric van Wijland, "<em>Active Young-Dupré Equation: How Self-organized Currents Stabilize Partial Wetting</em>", arXiv:2405.20651 (2024). </li>
 
 <a href="https://arxiv.org/abs/2405.20651">Preprint</a>
