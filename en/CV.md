@@ -63,9 +63,21 @@ A Mathematical Model For the Decision-making Process of CD4+ T cell System By An
 <h2>Talks</h2>
 <h3>Conference invited talks</h3>
 <ul>
-<li>2023.04.03，"Surface tensions in active fluids", Workshop on the Physics of Living Matter (PhysLM2023). </li>
+<li>2024.12.27, "Non-reciprocity across scales in active mixtures", Workshop on non-Hermitian and active matter (非厄米与活性物质小型研讨会).</li>
 
-<li>2022.10.30，"Characterization and Control of the Run-and-Tumble Dynamics of Escherichia Coli"，The 12th National Conference on Soft Matter and Biological Physics. </li>
+<li>2024.11.09, "Characterization and control of the run-and-tumble dynamics of Escherichia coli", Active soft matter symposium.</li>
+
+<li>2024.05.28, "Surface tensions in active fluids", Odd workshop。</li>
+
+<li>2024.04.24, "Active Young-Dupré's equation", Active Matter: Interfaces and Boundaries。</li>
+
+<li>2024.04.02, "Characterization and control of the run-and-tumble dynamics of Escherichia coli", The 13th National Conference on Soft Matter and Biological Physics.</li>
+
+<li>2024.01.29, "Characterization and control of the run-and-tumble dynamics of Escherichia coli", Advanced core-to-core network for the physics of self-organizing active matter. </li>
+
+<li>2023.04.03, "Surface tensions in active fluids", Workshop on the Physics of Living Matter (PhysLM2023). </li>
+
+<li>2022.10.30, "Characterization and Control of the Run-and-Tumble Dynamics of Escherichia Coli"，The 12th National Conference on Soft Matter and Biological Physics. </li>
 
 <a href="http://as.iphy.ac.cn/video_detail.php?id=37790">Replay</a>(Chinese)
 
@@ -92,6 +104,10 @@ A Mathematical Model For the Decision-making Process of CD4+ T cell System By An
 
 <h3>Personal invited talks</h3>
 <ul>
+
+<li>2024.11.21, “Surface tensions in active fluids”, Statistical Physics and Soft Matter Seminar, online.</li>
+<li>2024.05.21, “Surface tensions in active fluids”, Southeast University, Nanjing.</li>
+<li>2023.09.10, “Surface tensions in active fluids”, online talk.</li>
 <li>2021.08.09, "Cooperative pattern formation of multi-component bacterial systems", Department of Physics and Material Sciences, Université Du Luxembourg, Luxembourg.</li>
 <li>2020.11.11, "Active matter: a world far from equilibrium - thermodynamics, pattern formation, and complex environments", Institute of Theoretical Physcis, Chinese Academy of Sciences, Beijing.</li>
 <li>2019.09.11, "Spreading of run-and-tumble bacteria in complex environments", Laboratoire Matière et Systèmes Complexes, Université Paris Diderot, Paris.</li>

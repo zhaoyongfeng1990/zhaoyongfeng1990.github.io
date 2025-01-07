@@ -66,6 +66,19 @@ Run-and-tumble Motion and Differential Dynamic Microscopy<br>
 
 <h3>会议邀请演讲</h3>
 <ul>
+
+<li>2024.12.27，"Non-reciprocity across scales in active mixtures"，非厄米与活性物质小型研讨会。</li>
+
+<li>2024.11.09，"Characterization and control of the run-and-tumble dynamics of Escherichia coli"，深圳活性软物质研讨会。</li>
+
+<li>2024.05.28，"Surface tensions in active fluids"，Odd workshop。</li>
+
+<li>2024.04.24，"Active Young-Dupré's equation"，Active Matter: Interfaces and Boundaries。</li>
+
+<li>2024.04.02，"Characterization and control of the run-and-tumble dynamics of Escherichia coli"，第十三届全国软物质与生命物质物理学术会议，软物质体系动力学分会场。</li>
+
+<li>2024.01.29，"Characterization and control of the run-and-tumble dynamics of Escherichia coli"，Advanced core-to-core network for the physics of self-organizing active matter。 </li>
+
 <li>2023.04.03，"Surface tensions in active fluids"，2023年生命物质物理研究论坛。</li>
 
 <li>2022.10.30，"Characterization and Control of the Run-and-Tumble Dynamics of Escherichia Coli"，第十二届全国软物质与生命物质物理学术会议，生物物理与医学物理分会场。</li>
@@ -95,6 +108,10 @@ Run-and-tumble Motion and Differential Dynamic Microscopy<br>
 
 <h3>个人邀请演讲</h3>
 <ul>
+
+<li>2024.11.21, “Surface tensions in active fluids”, Statistical Physics and Soft Matter Seminar, online.</li>
+<li>2024.05.21, “Surface tensions in active fluids”, Southeast University, Nanjing.</li>
+<li>2023.09.10, “Surface tensions in active fluids”, online talk.</li>
 <li>2021.08.09, "Cooperative pattern formation of multi-component bacterial systems", Department of Physics and Material Sciences, Université Du Luxembourg, Luxembourg.</li>
 <li>2020.11.11, "Active matter: a world far from equilibrium - thermodynamics, pattern formation, and complex environments", 中国科学院理论物理研究所, 北京.</li>
 <li>2019.09.11, "Spreading of run-and-tumble bacteria in complex environments", Laboratoire Matière et Systèmes Complexes, Université Paris Diderot, Paris.</li>
