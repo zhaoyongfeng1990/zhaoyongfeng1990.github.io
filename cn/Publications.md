@@ -18,23 +18,28 @@ permalink: /cn/publications/
 
 <a href="https://www.biorxiv.org/content/10.1101/2024.08.28.610106v1">Preprint</a>
 
-<li>Zihui Zhao*, Yisong Yao*, He Li, <strong>Yongfeng Zhao</strong>, Yujia Wang, Hepeng Zhang, Hugues Chaté, Masaki Sano, "<em>
-Integer Topological Defects Reveal Effective Forces in Active Nematics</em>", arXiv:2408.15431 (2024). </li>
-
-<a href="https://arxiv.org/abs/2408.15431">Preprint</a>
 
 <li><strong>Yongfeng Zhao</strong>#, Ruben Zakine, Adrian Daerr, Yariv Kafri, Julien Tailleur, Frédéric van Wijland, "<em>Active Young-Dupré Equation: How Self-organized Currents Stabilize Partial Wetting</em>", arXiv:2405.20651 (2024). </li>
 
 <a href="https://arxiv.org/abs/2405.20651">Preprint</a>
 
-<li><strong>Yongfeng Zhao</strong>, "<em>Active particles in a tube: a generalized entropy potential approach</em>", arXiv:2111.06156 (2021).</li>
-
-<a href="https://arxiv.org/abs/2111.06156">Preprint</a>
-
 </ol>
 
 <h2>已发表论文</h2>
 <ol>
+
+<li>Yisong Yao, Zihui Zhao, He Li, <strong>Yongfeng Zhao</strong>, Hepeng Zhang,
+Masaki Sano#, "<em>Active Nematics Reinforce the Ratchet Flow in Dense Environments Without Jamming</em>", to be published in Advanced Science (2025).</li>
+
+<li><strong>Yongfeng Zhao</strong>, "<em>Active particles in a tube: A generalized entropy potential approach</em>", Phys. Rev. Research 7, 013015 (2025).</li>
+
+<a href="https://arxiv.org/abs/2111.06156">Preprint</a>, <a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.013015">Phys. Rev. Research</a>
+
+<li>Zihui Zhao*, Yisong Yao*, He Li, <strong>Yongfeng Zhao</strong>, Yujia Wang, Hepeng Zhang, Hugues Chaté, Masaki Sano#, "<em>
+Integer Topological Defects Reveal Effective Forces in Active Nematics</em>", Phys. Rev. Lett. 133, 268301 (2024). </li>
+
+<a href="https://arxiv.org/abs/2408.15431">Preprint</a>, <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.133.268301">Phys. Rev. Lett.</a>
+
 <li>Christina Kurzthaler*,#, <strong>Yongfeng Zhao</strong>*,#, Nan Zhou, Jana Schwarz-Linek, Clemence Devailly, Jochen Arlt, Jian-Dong Huang, Wilson C. K. Poon, Thomas Franosch, Julien Tailleur#, Vincent A. Martinez#, "<em>Characterization and Control of the Run-and-Tumble Dynamics of <it> Escherichia Coli </it></em>", Phys. Rev. Lett. 132, 038302 (2024).</li>
 
 <a href="https://arxiv.org/abs/2212.11222">Preprint</a>, <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.038302">Phys. Rev. Lett.</a>
