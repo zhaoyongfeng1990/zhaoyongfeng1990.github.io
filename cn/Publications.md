@@ -29,7 +29,9 @@ permalink: /cn/publications/
 <ol>
 
 <li>Yisong Yao, Zihui Zhao, He Li, <strong>Yongfeng Zhao</strong>, Hepeng Zhang,
-Masaki Sano#, "<em>Active Nematics Reinforce the Ratchet Flow in Dense Environments Without Jamming</em>", to be published in Advanced Science (2025).</li>
+Masaki Sano#, "<em>Active Nematics Reinforce the Ratchet Flow in Dense Environments Without Jamming</em>", Adv. Sci. 2025, 2412750 (2025).</li>
+
+<a href="https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202412750">Adv. Sci.</a>
 
 <li><strong>Yongfeng Zhao</strong>, "<em>Active particles in a tube: A generalized entropy potential approach</em>", Phys. Rev. Research 7, 013015 (2025).</li>
 
