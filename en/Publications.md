@@ -14,11 +14,6 @@ permalink: /en/publications/
 <h2>Preprints</h2>
 <ol>
 
-<li>Zihui Zhao, He Li, Yisong Yao, <strong>Yongfeng Zhao</strong>, Francesca Serra, Kyogo Kawaguchi, Hepeng Zhang, Hugues Chaté, Masaki Sano#, "<em>Integer topological defects provide a new way to quantify and classify cell sheets</em>", biorXiv:2024.08.28.610106  (2024). </li>
-
-<a href="https://www.biorxiv.org/content/10.1101/2024.08.28.610106v1">Preprint</a>
-
-
 <li><strong>Yongfeng Zhao</strong>#, Ruben Zakine, Adrian Daerr, Yariv Kafri, Julien Tailleur, Frédéric van Wijland, "<em>Active Young-Dupré Equation: How Self-organized Currents Stabilize Partial Wetting</em>", arXiv:2405.20651 (2024). </li>
 
 <a href="https://arxiv.org/abs/2405.20651">Preprint</a>
@@ -26,6 +21,14 @@ permalink: /en/publications/
 </ol>
 <h2>Published articles</h2>
 <ol>
+
+<li>Yu’an Li, <strong>Yongfeng Zhao</strong>, Siyuan Yang, Min Tang#, and Hepeng Zhang#, "<em>Biased Lévy walk enables light gradient sensing in Euglena gracilis</em>", accepted by Phys. Rev. Lett. (2025) </li>
+
+<a href="https://journals.aps.org/prl/accepted/0007dY15G4a1339823e734a416863add80d8e4560">Phys. Rev. Lett.</a>
+
+<li>Zihui Zhao, He Li, Yisong Yao, <strong>Yongfeng Zhao</strong>, Francesca Serra, Kyogo Kawaguchi, Hepeng Zhang, Masaki Sano#, "<em>Integer topological defects offer a methodology to quantify and classify active cell monolayers</em>", Nature Communications 16, 2452 (2024). </li>
+
+<a href="https://www.biorxiv.org/content/10.1101/2024.08.28.610106v1">Preprint</a>, <a href="https://www.nature.com/articles/s41467-025-57783-w">Nat. Commun.</a>
 
 <li>Yisong Yao, Zihui Zhao, He Li, <strong>Yongfeng Zhao</strong>, Hepeng Zhang,
 Masaki Sano#, "<em>Active Nematics Reinforce the Ratchet Flow in Dense Environments Without Jamming</em>", Adv. Sci. 2025, 2412750 (2025).</li>
@@ -51,7 +54,7 @@ Integer Topological Defects Reveal Effective Forces in Active Nematics</em>", Ph
 
 <li>Alberto Dinelli, Jérémy O'Byrne, Agnese Curatolo, <strong>Yongfeng Zhao</strong>, Peter Sollich, Julien Tailleur, "<em>Non-reciprocity across scales in active mixtures</em>", Nature Communications 14, 7035 (2023).</li>
 
-<a href="https://arxiv.org/abs/2203.07757">Preprint</a>, <a href="https://www.nature.com/articles/s41467-023-42713-5">Nat. Comm.</a>
+<a href="https://arxiv.org/abs/2203.07757">Preprint</a>, <a href="https://www.nature.com/articles/s41467-023-42713-5">Nat. Commun.</a>
 
 <li>Zeng Tao Liu, Yan Shi, <strong>Yongfeng Zhao</strong>, Hugues Chaté#, Xia-qing Shi#, Tian Hui Zhang#, "<em>Subcritical active matter: Activity waves and freestanding vortices</em>", Proc. Natl. Acad. Sci. 118 (40) e2104724118 (2021).  </li>
 
