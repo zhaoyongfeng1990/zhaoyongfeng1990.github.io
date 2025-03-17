@@ -1,504 +1,540 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-06-30T16:01:05+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Yongfeng Zhao’s Home Page</title><subtitle>Associate professor, Center for Soft Condensed Matter Physics and Interdisciplinary Research, School of Physical Science and Technology, Soochow University,  Suzhou, China.</subtitle><author><name>Yongfeng Zhao</name></author><entry xml:lang="cn"><title type="html">我们为什么要研究活性物质</title><link href="http://localhost:4000/cn/2022/07/28/why-do-we-study-active-matter.html" rel="alternate" type="text/html" title="我们为什么要研究活性物质" /><published>2022-07-28T00:00:00+08:00</published><updated>2022-07-28T00:00:00+08:00</updated><id>http://localhost:4000/cn/2022/07/28/why-do-we-study-active-matter</id><content type="html" xml:base="http://localhost:4000/cn/2022/07/28/why-do-we-study-active-matter.html">&lt;p&gt;（本文原载于微信公众号《悟理社》，&lt;a href=&quot;https://mp.weixin.qq.com/s?__biz=MzkxMjI3ODY1NQ==&amp;amp;mid=2247483662&amp;amp;idx=1&amp;amp;sn=f2d0c7332b087bfa645243812a7d51be&amp;amp;chksm=c10e141ef6799d080a0e3d1249adce5639c835cd5012c873737d828c47bf1d97a6aaf0b92310&amp;amp;mpshare=1&amp;amp;scene=1&amp;amp;srcid=0701zbDvrKUiGswbur7uyqFj&amp;amp;sharer_sharetime=1656661078938&amp;amp;sharer_shareid=aa63adcfffb1ca69f2585f43380502ff&amp;amp;exportkey=AZHvc7xsEQzEabHgzgITcr8%3D&amp;amp;acctmode=0&amp;amp;pass_ticket=VB4u2bSgxNB8tei8crub33zZ4gG2wYYNIURQrXuTqaaj7NNIRCiuZ65aH4kcxIyv&amp;amp;wx_header=0#rd&quot;&gt;配图版原文&lt;/a&gt;）&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-03-17T15:50:31+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Yongfeng Zhao’s Home Page</title><subtitle>Associate professor, Center for Soft Condensed Matter Physics and Interdisciplinary Research, School of Physical Science and Technology, Soochow University,  Suzhou, China.</subtitle><author><name>Yongfeng Zhao</name></author><entry xml:lang="cn"><title type="html">PRL+PRE：定量刻画细菌运动的高通量方法</title><link href="http://localhost:4000/cn/2024/01/22/ddm-prl-pre-2024.html" rel="alternate" type="text/html" title="PRL+PRE：定量刻画细菌运动的高通量方法" /><published>2024-01-22T00:00:00+08:00</published><updated>2024-01-22T00:00:00+08:00</updated><id>http://localhost:4000/cn/2024/01/22/ddm-prl-pre-2024</id><content type="html" xml:base="http://localhost:4000/cn/2024/01/22/ddm-prl-pre-2024.html"><![CDATA[<p style="text-align: center;"><img src="http://localhost:4000/assets/EColi_1Large.png" alt="ecoli" /></p>
 
-&lt;h2 id=&quot;零什么是活性物质&quot;&gt;零、什么是活性物质&lt;/h2&gt;
+<p>如何定量刻画微生物，特别是大量微生物个体的运动一直是生物物理与活性物质领域的难题，而最近的一项新研究发展了一种新的高通量方法，成功定量刻画了大肠杆菌的运动。该研究于1月19日发表在《物理评论快报》（《Physical Review Letters》）[1]与《物理评论E》（《Physical Review E》）[2]，被选为PRL编辑推荐论文，并被美国物理学会《物理》（《Physics》）杂志报道[3]。两篇文章的第一作者均为苏州大学赵永峰副教授与德国马克斯普朗克研究所课题组组长Christina Kurzthaler博士。</p>
 
-&lt;p&gt;活性物质（Active Matter）常常是指这样一类系统，它在个体的层面上注入能量将其驱离平衡态，并在微观的尺度上被耗散掉。注入的能量往往会使得粒子可以驱动自身的运动。符合这一条件的系统其实在自然界广泛存在，所有的可运动的生物群落，比如细菌群落、动物上皮细胞组织，鸟群鱼群，都属于这类系统。很多人造系统也有这样的特征，比如通过催化化学反应或产生温度差来自行运动的阴阳球，通过震动与不对称的摩擦驱动运动的圆盘，甚至小机器人等等也都是活性物质。我们可以注意到，注入的能量的来源并不是很重要，可以是从外界输入，也可以是消耗自身存储的化学能。&lt;/p&gt;
+<p>以大肠杆菌为代表的一类细菌在水中的游动可以用游动-翻转运动来描述：大肠杆菌靠鞭毛推动自身定向游动，游动中的细菌会随机中断游动进入原地翻转的状态，在短时间的翻转改变自身方向后重新恢复游动。这一运动模式与细菌的趋向性直接相关[4]，通过调控细菌的运动可以产生丰富的自组织图案[5, 6]。因而对细菌运动的定量测量关系着对趋向性相关问题的研究，并可对人工设计与生物工程提供指引。</p>
 
-&lt;p&gt;虽然活性物质在近十多年来算是一个国际上的研究热点，但在国内的关注和介绍还是相对比较稀少的，于是有了这样一个题目。关于这个题目，虽然我很想写一段精彩的历史回顾，但遗憾的是我也算是相当晚进入这个领域的，不能保证我对于历史的认识是准确的。而且看过我曾经在知乎上写的东西的朋友可能发现了，写历史的确也不是我的风格。所以退而求其次，先从我个人的动机写起吧。&lt;/p&gt;
+<p>然而，定量刻画游动-翻转运动长期以来是一个难题。相比细菌游动的时间，细菌翻转的时间较为短暂。对细菌游动速度的测量需要短时间与高分辨率的观测，但对于翻转的可靠统计要求对细菌进行长时间与大空间范围的测量，传统的追踪方法难以在三维空间中同时获得如此大尺度跨度的轨迹，而在此基础上对大量细菌群体进行统计则更为困难。</p>
 
-&lt;h2 id=&quot;一我为什么要研究活性物质&quot;&gt;一、我为什么要研究活性物质&lt;/h2&gt;
+<p>为解决这一难题，我们发展了微分动态显微技术（Differential dynamic microscopy），以实现高通量跨尺度的测量。该技术使用高速相机对样品进行光学成像，并从影片中像素灰度涨落在傅里叶空间的自关联中提取出细菌的中间散射函数（Intermediate scattering function），而中间散射函数则包含了粒子运动的全部信息。为了完整刻画细菌的游动-翻转运动，我们需要在不同的显微镜放大倍率下对样品进行测量，并同时对多尺度的中间散射函数进行分析。我们借助更新理论（Renewal theory）或数值拉普拉斯逆变换克服了理论计算游动-翻转运动中间散射函数的困难，从而可以通过函数拟合从实验数据中同时获得细菌全部的运动学参数。</p>
 
-&lt;p&gt;本科时我的导师李方廷老师使我相信，生物物理对于物理学家是个拥有广阔机会的领域。我基本上是抱着寻找生物中的普适规律的想法进入香港大学生物化学系的黄建东老师组开始我的博士研究的。很长一段时间虽然我的很多工作都和活性物质有千丝万缕的联系，但我一直相信我在做生物物理：在通过理论与模型的手段研究生物系统，以期望得到一些有一定普适性的规律。&lt;/p&gt;
+<p>在这一方法基础上，我们对一株工程化改造大肠杆菌NZ1的运动性能进行了测量，首次建立了化学调控信号与细菌运动表现的定量联系。大肠杆菌通过控制鞭毛旋转的方向改变自己的游动与翻转状态，而CheZ是控制鞭毛旋转方向的一个关键的蛋白质。我们编辑了大肠杆菌的基因，使用外加的化学信号IPTG来控制CheZ的产生。根据分子生物学的知识，可以预期IPTG的增加应当使得细菌更倾向于直线游动，但这一推测始终缺乏直接的定量测量。借助新的微分动态显微技术，我们实现了对细菌随IPTG的改变从持续翻转到平滑游动的定量刻画，并将细菌的运动性能与CheZ mRNA的转录建立了定量的直接联系。此外，我们首次将野生型大肠杆菌在微观尺度下细菌的游动-翻转运动与宏观尺度的有效扩散定量联系起来，以更高的统计精度更新了Berg等人在1972年的追踪结果[7]。</p>
 
-&lt;p&gt;而第一次听说活性物质，则已经到了2015年，当时的合作者、也是我后来的博士后老板Julien Tailleur为了讨论的方便要我参加在苏州大学举办的活性物质物理会议[1]。会议的话题主要集中在自驱动粒子（Self-propelled particles）的集体运动、Vicsek模型、运动诱导相分离（MIPS，Motility Induced Phase Separation），以及（上皮）细胞组织的动力学。不少人在谈论的是这样一种系统，它由可以推动自身运动的个体组成，这些个体通过相互作用可以组织起一些宏观的集体运动模式。比如在Vicsek模型[2]中，个体总是期望与周围其他个体保持同样的运动方向，从而产生出集体的定向运动，常常被用来解释鸟群和鱼群的组织。这也是很多人对于活性物质的认识。&lt;/p&gt;
+<p>这一研究的意义在于解决了如何定量测量大量微生物个体的运动这一生物物理和活性物质领域的难题。这一研究发展了一种新的高通量方法：通过发展微分动态显微技术，我们实现了三维空间中高通量跨尺度的细菌运动测量，成功定量刻画了大肠杆菌的运动，为大量细菌群体的统计分析提供了可能。此外，我们还首次建立了化学调控信号与细菌运动表现的定量联系，并将野生型大肠杆菌在微观尺度下的游动-翻转运动与宏观尺度的有效扩散定量联系起来。</p>
 
-&lt;p&gt;而彼时我们正在做一个关于多种细菌直接通过相互作用产生斑图[3]、以及相关的一些延伸题目。当时我正在沿着生物数学和系统生物学研究中的惯用手段，用一组唯象方程来描述这样的系统。当时已经能够在模拟中预测出一些后来被实验设计所实现的斑图，但对于方程的分析我处在一个相当迷茫的状态。我们习惯地从生物信号通路的角度出发，使用Hill方程来描述信号分子对基因表达的调控。这种方式在分子层面的微观尺度上有一定的依据，但构建出的模型往往包含着多个场的耦合和大量的不可测参数，给分析与结论的推广造成了相当的困难。当我们试图去人为选定一些参数或者去和实验数据进行拟合时，我们实际上是在将它当作唯象模型。长久以来，这使得这类方法招致了相当多尖刻的批评，认为这只是在“事后诸葛亮”地重现实验现象，而没有任何推广和参考的价值。&lt;/p&gt;
+<p>这一方法实现了以更经济的成像设备对细菌群体进行三维、高统计精度的快速测量，将有助于研究趋向性相关问题，并为自下而上进行人工设计与生物工程提供了可能。未来这一方法将可以推广到其他种类的微游泳体，为相关的生物和物理学研究提供巨大帮助。该工作涉及活性物质理论、光学实验和合成生物学三个不同领域的深入合作，展示了跨学科研究的重要性。PRL的通讯作者为Christina Kurzthaler、赵永峰、美国麻省理工学院Julien Tailleur副教授、英国爱丁堡大学Vincent Martinez博士，PRE的通讯作者为赵永峰、Christina Kurzthaler、Julien Tailleur。浙江大学周楠研究员，爱丁堡大学Jana Schwarz-Linek博士、Clemence Devailly博士、Jochen Arlt博士，香港大学黄建东教授，爱丁堡大学Wilson C. K. Poon教授，奥地利因斯布鲁克大学Thomas Franosch教授均参与了该工作。其中Christina Kurzthaler与赵永峰主要承担了该技术的理论构建与数据分析，Vincent Martinez与Jana Schwarz-Linek主要承担了细菌培养与显微成像实验，周楠在工程菌构建和定量表征中作出了重要贡献。</p>
 
-&lt;p&gt;Julien Tailleur作为活性物质领域的一位主要玩家，他带来了一套不太一样的解决方案。这套方案将所有的生化反应调控细节扔到一个未知的任意函数中去，但从单个细菌的运动模式出发进行粗粒化，得到一组相对简单、参数更少、却和微观运动有清楚联系的方程。从这组方程出发进行分析，我们可以得到相互作用函数需要满足的条件，这组条件只依赖调控的少量定性性质。而不依赖于相互作用的细节也意味着理论框架对细节变化的稳健性，从而保证了结论在一定程度上的普适性。我们在实验中表明了的确可以将其顺利推广到更复杂的系统中去。&lt;/p&gt;
+<p>相关文献：</p>
 
-&lt;p&gt;当然这套想法也正是在活性系统中发展的统计物理思想。我们一直希望有一套系统化的解决方案，将微观上可能很复杂的系统的宏观性质用相对简单而统一的方式来处理，这似乎是分析一部分生物系统最有希望的出路。受到会议的启发，我便试图在毕业论文的绪论中从活性物质出发来引出所有的工作，但彼时我的确是不太了解这个领域，写得实在磕绊，第一稿就被打回大改。当我回到生物物理的动机重新组织绪论时，一切突然又变得非常顺畅。可以说虽然博士毕业论文中的工作都用到了活性粒子的理论框架，但我当时并没有确信自己在研究活性物质。&lt;/p&gt;
+<p>[1] Christina Kurzthaler, Yongfeng Zhao, Nan Zhou, Jana Schwarz-Linek, Clemence Devailly, Jochen Arlt, Jian-Dong Huang, Wilson C. K. Poon, Thomas Franosch, Julien Tailleur, and Vincent A. Martinez, “Characterization and Control of the Run-and-Tumble Dynamics of Escherichia Coli”, Phys. Rev. Lett. 132, 038302 (2024).</p>
 
-&lt;p&gt;我真正相信自己在研究活性物质，可能要到2018年我开始参与活性系统中表面张力的研究[4]时。这个题目则没有与生物系统的明显联系[5]，而更像是将活性系统作为一个典型的非平衡态系统研究它的稳态的热力学性质。这又使我可以回到一个更物理的视角来考虑这些系统。在这一工作和一些其他工作[6,7]中，我们都能感受到这类非平衡态系统有别于平衡态系统的一面。这些系统被从个体的尺度上注入的能量驱离了平衡态，但它们的某些方面似乎可以映射回平衡态系统，但往往是一个非平凡的映射，甚至有些奇特的性质我们还不知道如何与我们在平衡态中建立的认知发生联系[8]。&lt;/p&gt;
+<p><a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.038302">文章链接</a></p>
 
-&lt;p&gt;这两个似乎不同但其实多有联系的方面构成了我个人如今做活性物质研究的主要动机。生物系统依然需要一个简单可操作的理论框架进行处理。活性系统似乎提供了处理一部分问题的框架，它带来的不单是解释现象的能力，还使得我们可以去测量一些有实际意义的物理量，得到一些有一定普适意义和实用价值的规律，反哺给合成生物学使用。而这类系统的非平衡性质则可能是生物系统各种奇特性质的重要贡献者，毕竟一个活的系统必然是远离平衡态的。这些便是我在生物物理游走了一大圈之后产生的动机。&lt;/p&gt;
+<p>[2] Yongfeng Zhao, Christina Kurzthaler, Nan Zhou, Jana Schwarz-Linek, Clemence Devailly, Jochen Arlt, Jian-Dong Huang, Wilson C. K. Poon, Thomas Franosch, Vincent A. Martinez, and Julien Tailleur, “Quantitative characterization of run-and-tumble statistics in bulk bacterial suspensions”, Phys. Rev. E 109, 014612 (2024).</p>
 
-&lt;h2 id=&quot;二我们为什么要研究活性物质&quot;&gt;二、我们为什么要研究活性物质&lt;/h2&gt;
+<p><a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.109.014612">文章链接</a></p>
 
-&lt;p&gt;当然必须要指出的是，活性物质研究中的主要玩家们的动机是各种各样的，与生物系统的联系或是非平衡态热力学并不是活性物质研究唯一的价值。Hugues Chaté曾在演讲中将活性物质领域的研究总结为几个象限，其中一个维度便是Vicsek模型中的集团运动与运动诱导相分离。这两个现象可以说是截然相反的，因为产生集团运动的对齐作用倾向于让个体朝向同一个方向，而运动诱导相分离则是像塞车一样需要个体的方向怼成一团，使得即使没有吸引相互作用也能产生液滴一样的聚集。&lt;/p&gt;
+<p>[3] Katherine Wright, “Characterizing the Swimming Gait of a Bacterium”, Physics 17, s8 (2024).</p>
 
-&lt;p&gt;至今为止我个人主要在做后面一类现象，而活性物质最早的研究其实是从Vicsek模型开始的。那么人们什么会对Vicsek模型感兴趣呢？在Vicsek模型中，噪声趋向于让系统混乱，相互作用趋向于让系统序，这个产生有序状态的相变似乎又是一个经典的有序vs无序的故事。比如著名的伊辛（Ising）模型在一堆格点上，粒子的自旋在上和下两种状态之间翻转，并且会和近邻的粒子相互作用，倾向于与周围子的自旋对齐。在有限温度下，虽然热噪声会试图将粒子自旋打乱，相互作用依然可以强到将粒子自旋列起来，产生铁磁相变。那么Viscek模型的故事看起来和伊辛有什么区别吗？&lt;/p&gt;
+<p><a href="https://physics.aps.org/articles/v17/s8">文章链接</a></p>
 
-&lt;p&gt;事实上还真有。实际上伊辛模型有一系列推广模型，叫做O(N)模型。伊辛模型中粒子的自旋只有上下两个状态，或者可以看作是一维单位球面（也就是两个点）上取值。如果我们放松这个条件，允许自旋在N维球面上取值，我们会得到一系列模型。比如伊辛模型实际上是N=1的情形。N=2的情形称为XY模型，自旋可以在一个圆上连续地旋转。N=3的模型则被称为海森堡模型。然而，有一个数学定理叫做Mermin-Wagner-Hohenberg定理，它的大意是说在有限温度和短距离相互作用的限制下，二维空间中的系统在热平衡态中无法自发打破连续对称性。也就是说，二维伊辛模型的铁磁相变之所以能发生是因为一维球面是离散的两个点，任何N&amp;gt;1的二维O(N)模型，比如XY模型，因为取向在一个连续的球面上取值，因而都不存在有限温度下的铁磁相变，不会产生宏观有序态[9]。然而二维Vicsek模型却可以打破取向的连续对称性产生有序态，这就很奇怪了。&lt;/p&gt;
+<p>[4] G. H. Wadhams and J. P. Armitage, “Making sense of it all: Bacterial chemotaxis”, Nat. Rev. Mol. Cell Biol. 5, 1024 (2004).</p>
 
-&lt;p&gt;那么有人可能会说，或许是因为粒子运动了，不在格点上了，所以尽管是短程相互作用但粒子的取向信息依然可以被传播到很远。然而最近有一篇新的文章[10]，证明了一个广义的MWH定理。它大概是说，即使有驱动速度和对齐作用，如果粒子的运动服从一个哈密顿量，那么连续对称性也不能自发地被打破。那么很可能系统演化的非哈密顿特性才是这个相变的罪魁祸首。一些研究相变的统计物理学家正是因为这个疑问进入了这个领域。&lt;/p&gt;
+<p>[5] Chenli Liu, Xiongfei Fu, Lizhong Liu, Xiaojing Ren, Carlos K.L. Chau, Sihong Li, Lu Xiang, Hualing Zeng, Guanhua Chen, Lei-Han Tang, Peter Lenz, Xiaodong Cui, Wei Huang, Terence Hwa, Jian-Dong Huang, “Sequential establishment of stripe patterns in an expanding cell population”, Science 334, 238 (2011).</p>
 
-&lt;p&gt;还有一个重要的动机则是来自流体力学。我们知道流体力学中有一个重要的无量纲数——雷诺数，它控制了流体运动的定性性质。在高雷诺数时，均匀的流场会变得不稳定，产生出大大小小的漩涡。这种称为湍流的现象至今也是流体力学中的难题，而其中有一个著名的能量瀑布（Energy Cascade）假说描述了湍流的一些特征：在湍流的状态下，体系内在大尺度上注入的低频的能量会逐渐向小尺度转移，最终被耗散掉。而细胞内微管或是细菌这个尺度上，系统的雷诺数非常低，流体基本体现不出非线性和耗散的特征，理应是不应该产生湍流的。&lt;/p&gt;
+<p>[6] Agnese I. Curatolo, Nan Zhou, Yongfeng Zhao, Chenli Liu, Adrian Daerr, Julien Tailleur, Jian-Dong Huang, “Cooperative pattern formation in multicomponent bacterial systems through reciprocal motility regulation”, Nat. Phys. 16, 1152 (2020).</p>
 
-&lt;p&gt;然而，当一些杆状的粒子不断给流场施加力偶极子来推开前方的水流时，在很高密度时，粒子取向均匀的状态会变得不稳定，在取向场中自发地产生拓扑缺陷[11]。这种乱流的状态常常被称为低雷诺数湍流，或者活性列向（Active nematics）。虽然同叫湍流，但它其实和“高雷诺数湍流”并不是一回事，高雷诺数湍流中的能量瀑布在低雷诺数湍流中并不存在，活性列向系统中似乎并没有能量在尺度上的转移。这个新奇的“湍流”态，包括其中拓扑缺陷的动力学性质和在生理中的意义，也是一部分研究者非常关心的。&lt;/p&gt;
+<p>[7] H. C. Berg and D. A. Brown, “Chemotaxis in Escherichia coli analysed by three-dimensional tracking”, Nature (London) 239, 500 (1972).</p>]]></content><author><name>Yongfeng Zhao</name></author><category term="cn" /><summary type="html"><![CDATA[]]></summary></entry><entry xml:lang="cn"><title type="html">我们为什么要研究活性物质</title><link href="http://localhost:4000/cn/2022/07/28/why-do-we-study-active-matter.html" rel="alternate" type="text/html" title="我们为什么要研究活性物质" /><published>2022-07-28T00:00:00+08:00</published><updated>2022-07-28T00:00:00+08:00</updated><id>http://localhost:4000/cn/2022/07/28/why-do-we-study-active-matter</id><content type="html" xml:base="http://localhost:4000/cn/2022/07/28/why-do-we-study-active-matter.html"><![CDATA[<p>（本文原载于微信公众号《悟理社》，<a href="https://mp.weixin.qq.com/s?__biz=MzkxMjI3ODY1NQ==&amp;mid=2247483662&amp;idx=1&amp;sn=f2d0c7332b087bfa645243812a7d51be&amp;chksm=c10e141ef6799d080a0e3d1249adce5639c835cd5012c873737d828c47bf1d97a6aaf0b92310&amp;mpshare=1&amp;scene=1&amp;srcid=0701zbDvrKUiGswbur7uyqFj&amp;sharer_sharetime=1656661078938&amp;sharer_shareid=aa63adcfffb1ca69f2585f43380502ff&amp;exportkey=AZHvc7xsEQzEabHgzgITcr8%3D&amp;acctmode=0&amp;pass_ticket=VB4u2bSgxNB8tei8crub33zZ4gG2wYYNIURQrXuTqaaj7NNIRCiuZ65aH4kcxIyv&amp;wx_header=0#rd">配图版原文</a>）</p>
 
-&lt;p&gt;当然，我这里列举的仅仅是我听得比较多的一些动机，当然还有很多我没有写到的动机，比如活性粒子系统在机器人控制、机器学习优化等等领域的应用。关于这些我了解得并不充分，限于篇幅也就不继续班门弄斧了。&lt;/p&gt;
+<h2 id="零什么是活性物质">零、什么是活性物质</h2>
 
-&lt;h2 id=&quot;三何去何从&quot;&gt;三、何去何从&lt;/h2&gt;
+<p>活性物质（Active Matter）常常是指这样一类系统，它在个体的层面上注入能量将其驱离平衡态，并在微观的尺度上被耗散掉。注入的能量往往会使得粒子可以驱动自身的运动。符合这一条件的系统其实在自然界广泛存在，所有的可运动的生物群落，比如细菌群落、动物上皮细胞组织，鸟群鱼群，都属于这类系统。很多人造系统也有这样的特征，比如通过催化化学反应或产生温度差来自行运动的阴阳球，通过震动与不对称的摩擦驱动运动的圆盘，甚至小机器人等等也都是活性物质。我们可以注意到，注入的能量的来源并不是很重要，可以是从外界输入，也可以是消耗自身存储的化学能。</p>
 
-&lt;p&gt;在2020年，活性物质领域内37位主要的玩家联合起来写了一篇“路线图”[13]。在这篇实际上更接近于综述的文章中，这些研究者回顾了各自过去的工作，为未来提示了一些方向。然而关于这一领域的担忧也并不少。一方面，经过二三十年的研究，越来越多严肃的研究者进入了这个领域，很多方向逐渐明朗，似乎有了一种盛宴已过的感觉。另一方面，大幅简化的理论找不到干净且完美的实验系统的对应，也是我常常听到的一种批评。这个领域在今后十年二十年内将何去何从，也是一个问题。&lt;/p&gt;
+<p>虽然活性物质在近十多年来算是一个国际上的研究热点，但在国内的关注和介绍还是相对比较稀少的，于是有了这样一个题目。关于这个题目，虽然我很想写一段精彩的历史回顾，但遗憾的是我也算是相当晚进入这个领域的，不能保证我对于历史的认识是准确的。而且看过我曾经在知乎上写的东西的朋友可能发现了，写历史的确也不是我的风格。所以退而求其次，先从我个人的动机写起吧。</p>
 
-&lt;p&gt;当然我经验尚浅，没有办法回答这两个问题，只能谈一些粗浅的想法。这一领域就目前而言，似乎还有一些问题没有完全被回答。活性系统的热力学性质还没有被完全阐明，尤其对于两体机械相互作用的粒子，“基本上还是一片黑暗”[14]。现存的研究多数都在Chaté所总结的“活性物质领域空间”的几个极限场景：过阻尼，“全干”的或者“全湿”的，无手性的，长杆状的或是完美球形的粒子。这些极限场景围成的广阔空间还多数是空白。而很多真实系统中存在的要素和场景都还没有太多研究，比如手性、粒子的惯性，以及一些很少被考虑的相互作用形式。这些问题大概还会被研究相当一段时间，但不得不承认其中一些问题也会是非常艰难的。这是否会催生出新的框架还尚未可知。&lt;/p&gt;
+<h2 id="一我为什么要研究活性物质">一、我为什么要研究活性物质</h2>
 
-&lt;p&gt;而无论如何理论最终都还是需要落实在实验系统上的。已有的研究（至少是我曾经参与的那些）当然大多是有目标的实验系统的，比如微管、大肠杆菌、阴阳球，最没有办法也是可以给机器人编写程序实现的。合成生物学的发展更是给我们提供了一些控制大肠杆菌构造特定系统的手段。但真实的复杂系统中总可能会有些尚未被发现的机制。虽然有些工作并未放弃囊括所有微观机制的尝试，但一个完全忠实微观机制的理论几乎是不可能存在的。一方面，我们或许还是需要坚持只用少数的一些约化的物理量来描述真实系统，正如我们曾经做过的，放弃微观的忠实性并退而寻求一些对细节机制不敏感的定性规律。另一方面，我们还可以考虑直接从实验数据中去挖掘和推测系统的动力学规律与微观机制，这几年机器学习（尤其是深度学习）方法的发展似乎给我们带来了一些可能性。当然，这些想法是否可行还需要时间来回答。&lt;/p&gt;
+<p>本科时我的导师李方廷老师使我相信，生物物理对于物理学家是个拥有广阔机会的领域。我基本上是抱着寻找生物中的普适规律的想法进入香港大学生物化学系的黄建东老师组开始我的博士研究的。很长一段时间虽然我的很多工作都和活性物质有千丝万缕的联系，但我一直相信我在做生物物理：在通过理论与模型的手段研究生物系统，以期望得到一些有一定普适性的规律。</p>
 
-&lt;p&gt;[1] 虽然我当时怎么也不会想到自己会有机会再次来到苏州大学工作。&lt;/p&gt;
+<p>而第一次听说活性物质，则已经到了2015年，当时的合作者、也是我后来的博士后老板Julien Tailleur为了讨论的方便要我参加在苏州大学举办的活性物质物理会议[1]。会议的话题主要集中在自驱动粒子（Self-propelled particles）的集体运动、Vicsek模型、运动诱导相分离（MIPS，Motility Induced Phase Separation），以及（上皮）细胞组织的动力学。不少人在谈论的是这样一种系统，它由可以推动自身运动的个体组成，这些个体通过相互作用可以组织起一些宏观的集体运动模式。比如在Vicsek模型[2]中，个体总是期望与周围其他个体保持同样的运动方向，从而产生出集体的定向运动，常常被用来解释鸟群和鱼群的组织。这也是很多人对于活性物质的认识。</p>
 
-&lt;p&gt;[2] Vicsek, Tamás; Czirók, András; Ben-Jacob, Eshel; Cohen, Inon; Shochet, Ofer. “Novel Type of Phase Transition in a System of Self-Driven Particles”. Physical Review Letters. 75 (6): 1226–1229 (1995).&lt;/p&gt;
+<p>而彼时我们正在做一个关于多种细菌直接通过相互作用产生斑图[3]、以及相关的一些延伸题目。当时我正在沿着生物数学和系统生物学研究中的惯用手段，用一组唯象方程来描述这样的系统。当时已经能够在模拟中预测出一些后来被实验设计所实现的斑图，但对于方程的分析我处在一个相当迷茫的状态。我们习惯地从生物信号通路的角度出发，使用Hill方程来描述信号分子对基因表达的调控。这种方式在分子层面的微观尺度上有一定的依据，但构建出的模型往往包含着多个场的耦合和大量的不可测参数，给分析与结论的推广造成了相当的困难。当我们试图去人为选定一些参数或者去和实验数据进行拟合时，我们实际上是在将它当作唯象模型。长久以来，这使得这类方法招致了相当多尖刻的批评，认为这只是在“事后诸葛亮”地重现实验现象，而没有任何推广和参考的价值。</p>
 
-&lt;p&gt;[3] Agnese I. Curatolo&lt;em&gt;, Nan Zhou&lt;/em&gt;, Yongfeng Zhao*, Chenli Liu, Adrian Daerr, Julien Tailleur#, Jian-Dong Huang#, “Cooperative pattern formation in multi-component bacterial systems through reciprocal motility regulation”, Nat. Phys. 16, 1152–1157 (2020).&lt;/p&gt;
+<p>Julien Tailleur作为活性物质领域的一位主要玩家，他带来了一套不太一样的解决方案。这套方案将所有的生化反应调控细节扔到一个未知的任意函数中去，但从单个细菌的运动模式出发进行粗粒化，得到一组相对简单、参数更少、却和微观运动有清楚联系的方程。从这组方程出发进行分析，我们可以得到相互作用函数需要满足的条件，这组条件只依赖调控的少量定性性质。而不依赖于相互作用的细节也意味着理论框架对细节变化的稳健性，从而保证了结论在一定程度上的普适性。我们在实验中表明了的确可以将其顺利推广到更复杂的系统中去。</p>
 
-&lt;p&gt;[4] Ruben Zakine&lt;em&gt;, Yongfeng Zhao&lt;/em&gt;, Miloš Knežević, Adrian Daerr, Yariv Kafri, Julien Tailleur, Frédéric van Wijland, “Surface Tensions between Active Fluids and Solid Interfaces: bare vs dressed”, Phys. Rev. Lett. 124, 248003 (2020).&lt;/p&gt;
+<p>当然这套想法也正是在活性系统中发展的统计物理思想。我们一直希望有一套系统化的解决方案，将微观上可能很复杂的系统的宏观性质用相对简单而统一的方式来处理，这似乎是分析一部分生物系统最有希望的出路。受到会议的启发，我便试图在毕业论文的绪论中从活性物质出发来引出所有的工作，但彼时我的确是不太了解这个领域，写得实在磕绊，第一稿就被打回大改。当我回到生物物理的动机重新组织绪论时，一切突然又变得非常顺畅。可以说虽然博士毕业论文中的工作都用到了活性粒子的理论框架，但我当时并没有确信自己在研究活性物质。</p>
 
-&lt;p&gt;[5] 不过如果我们考虑到表面张力控制的实际上是界面现象，那么这些工作未来或许可以与群落边界的一些行为联系起来。&lt;/p&gt;
+<p>我真正相信自己在研究活性物质，可能要到2018年我开始参与活性系统中表面张力的研究[4]时。这个题目则没有与生物系统的明显联系[5]，而更像是将活性系统作为一个典型的非平衡态系统研究它的稳态的热力学性质。这又使我可以回到一个更物理的视角来考虑这些系统。在这一工作和一些其他工作[6,7]中，我们都能感受到这类非平衡态系统有别于平衡态系统的一面。这些系统被从个体的尺度上注入的能量驱离了平衡态，但它们的某些方面似乎可以映射回平衡态系统，但往往是一个非平凡的映射，甚至有些奇特的性质我们还不知道如何与我们在平衡态中建立的认知发生联系[8]。</p>
 
-&lt;p&gt;[6] Thibault Bertrand#, Yongfeng Zhao, Olivier Bénichou, Julien Tailleur, Raphaël Voituriez#, “Optimized Diffusion of Run-and-Tumble Particles in Crowded Environments”, Phys. Rev. Lett. 120, 198103 (2018).&lt;/p&gt;
+<p>这两个似乎不同但其实多有联系的方面构成了我个人如今做活性物质研究的主要动机。生物系统依然需要一个简单可操作的理论框架进行处理。活性系统似乎提供了处理一部分问题的框架，它带来的不单是解释现象的能力，还使得我们可以去测量一些有实际意义的物理量，得到一些有一定普适意义和实用价值的规律，反哺给合成生物学使用。而这类系统的非平衡性质则可能是生物系统各种奇特性质的重要贡献者，毕竟一个活的系统必然是远离平衡态的。这些便是我在生物物理游走了一大圈之后产生的动机。</p>
 
-&lt;p&gt;[7] Eric Woillez, Yongfeng Zhao, Yariv Kafri, Vivien Lecomte, Julien Tailleur, “Activated escape of a self-propelled particle from a metastable state”, Phys. Rev. Lett. 122, 258001 (2019).&lt;/p&gt;
+<h2 id="二我们为什么要研究活性物质">二、我们为什么要研究活性物质</h2>
 
-&lt;p&gt;[8] 我知道有人会不同意这一点。这里我从实用主义出发，仅仅考虑可计算的联系，即以实际上被解出的问题为准。有一些看起来很漂亮的理论框架，是否能通过实际的计算给我们提供信息还有待时间的检验。&lt;/p&gt;
+<p>当然必须要指出的是，活性物质研究中的主要玩家们的动机是各种各样的，与生物系统的联系或是非平衡态热力学并不是活性物质研究唯一的价值。Hugues Chaté曾在演讲中将活性物质领域的研究总结为几个象限，其中一个维度便是Vicsek模型中的集团运动与运动诱导相分离。这两个现象可以说是截然相反的，因为产生集团运动的对齐作用倾向于让个体朝向同一个方向，而运动诱导相分离则是像塞车一样需要个体的方向怼成一团，使得即使没有吸引相互作用也能产生液滴一样的聚集。</p>
 
-&lt;p&gt;[9] 但二维XY模型存在一个被称为BKT（Berezinski-Kosterlitz-Thouless）相变的拓扑相变。这个相变还是会带来短程序的，但系统中激发的大量拓扑缺陷会破坏掉长程序。&lt;/p&gt;
+<p>至今为止我个人主要在做后面一类现象，而活性物质最早的研究其实是从Vicsek模型开始的。那么人们什么会对Vicsek模型感兴趣呢？在Vicsek模型中，噪声趋向于让系统混乱，相互作用趋向于让系统序，这个产生有序状态的相变似乎又是一个经典的有序vs无序的故事。比如著名的伊辛（Ising）模型在一堆格点上，粒子的自旋在上和下两种状态之间翻转，并且会和近邻的粒子相互作用，倾向于与周围子的自旋对齐。在有限温度下，虽然热噪声会试图将粒子自旋打乱，相互作用依然可以强到将粒子自旋列起来，产生铁磁相变。那么Viscek模型的故事看起来和伊辛有什么区别吗？</p>
 
-&lt;p&gt;[10] Hal Tasaki, “Hohenberg-Mermin-Wagner-Type Theorems for Equilibrium Models of Flocking”, Phys. Rev. Lett. 125, 220601 (2020).&lt;/p&gt;
+<p>事实上还真有。实际上伊辛模型有一系列推广模型，叫做O(N)模型。伊辛模型中粒子的自旋只有上下两个状态，或者可以看作是一维单位球面（也就是两个点）上取值。如果我们放松这个条件，允许自旋在N维球面上取值，我们会得到一系列模型。比如伊辛模型实际上是N=1的情形。N=2的情形称为XY模型，自旋可以在一个圆上连续地旋转。N=3的模型则被称为海森堡模型。然而，有一个数学定理叫做Mermin-Wagner-Hohenberg定理，它的大意是说在有限温度和短距离相互作用的限制下，二维空间中的系统在热平衡态中无法自发打破连续对称性。也就是说，二维伊辛模型的铁磁相变之所以能发生是因为一维球面是离散的两个点，任何N&gt;1的二维O(N)模型，比如XY模型，因为取向在一个连续的球面上取值，因而都不存在有限温度下的铁磁相变，不会产生宏观有序态[9]。然而二维Vicsek模型却可以打破取向的连续对称性产生有序态，这就很奇怪了。</p>
 
-&lt;p&gt;[11] 这方面的文章非常多，但我还没有系统地涉足过这个方面。或许这篇是一个好的开头。R. Aditi Simha and Sriram Ramaswamy, “Hydrodynamic Fluctuations and Instabilities in Ordered Suspensions of Self-Propelled Particles”, Phys. Rev. Lett. 89, 058101 (2002).&lt;/p&gt;
+<p>那么有人可能会说，或许是因为粒子运动了，不在格点上了，所以尽管是短程相互作用但粒子的取向信息依然可以被传播到很远。然而最近有一篇新的文章[10]，证明了一个广义的MWH定理。它大概是说，即使有驱动速度和对齐作用，如果粒子的运动服从一个哈密顿量，那么连续对称性也不能自发地被打破。那么很可能系统演化的非哈密顿特性才是这个相变的罪魁祸首。一些研究相变的统计物理学家正是因为这个疑问进入了这个领域。</p>
 
-&lt;p&gt;[12] He Li, Xia-qing Shi, Mingji Huang, Xiao Chen, Minfeng Xiao, Chenli Liu, Hugues Chaté, H. P. Zhang, “Data-driven quantitative modeling of bacterial active nematics”, PNAS 116 (3) 777-785 (2019).&lt;/p&gt;
+<p>还有一个重要的动机则是来自流体力学。我们知道流体力学中有一个重要的无量纲数——雷诺数，它控制了流体运动的定性性质。在高雷诺数时，均匀的流场会变得不稳定，产生出大大小小的漩涡。这种称为湍流的现象至今也是流体力学中的难题，而其中有一个著名的能量瀑布（Energy Cascade）假说描述了湍流的一些特征：在湍流的状态下，体系内在大尺度上注入的低频的能量会逐渐向小尺度转移，最终被耗散掉。而细胞内微管或是细菌这个尺度上，系统的雷诺数非常低，流体基本体现不出非线性和耗散的特征，理应是不应该产生湍流的。</p>
 
-&lt;p&gt;[13] Gerhard Gompper et al, “The 2020 motile active matter roadmap”, J. Phys.: Condens. Matter 32 193001 (2020).&lt;/p&gt;
+<p>然而，当一些杆状的粒子不断给流场施加力偶极子来推开前方的水流时，在很高密度时，粒子取向均匀的状态会变得不稳定，在取向场中自发地产生拓扑缺陷[11]。这种乱流的状态常常被称为低雷诺数湍流，或者活性列向（Active nematics）。虽然同叫湍流，但它其实和“高雷诺数湍流”并不是一回事，高雷诺数湍流中的能量瀑布在低雷诺数湍流中并不存在，活性列向系统中似乎并没有能量在尺度上的转移。这个新奇的“湍流”态，包括其中拓扑缺陷的动力学性质和在生理中的意义，也是一部分研究者非常关心的。</p>
 
-&lt;p&gt;[14] 这句话写在我们将要出版的一章关于运动诱导相分离的书籍的草稿上，里面我们写了一些目前还不清楚的问题。&lt;/p&gt;</content><author><name>Yongfeng Zhao</name></author><category term="cn" /><summary type="html">（本文原载于微信公众号《悟理社》，配图版原文）</summary></entry><entry xml:lang="cn"><title type="html">《自然·物理》：如何让多种细菌自发合作产生图案</title><link href="http://localhost:4000/cn/2020/09/08/bacterial-pattern-np2020.html" rel="alternate" type="text/html" title="《自然·物理》：如何让多种细菌自发合作产生图案" /><published>2020-09-08T00:00:00+08:00</published><updated>2020-09-08T00:00:00+08:00</updated><id>http://localhost:4000/cn/2020/09/08/bacterial-pattern-np2020</id><content type="html" xml:base="http://localhost:4000/cn/2020/09/08/bacterial-pattern-np2020.html">&lt;p&gt;近日，香港大学黄建东教授团队与巴黎大学Julien Tailleur博士团队合作在《自然·物理》杂志发表&lt;a href=&quot;https://doi.org/10.1038/s41567-020-0964-z&quot;&gt;题为《Cooperative pattern formation in multi-component bacterial systems through reciprocal motility regulation》的文章&lt;/a&gt;，通过结合实验与理论的工作，揭示了多种细菌通过相互调控运动产生斑图图案的一般规律。相关机制是自发的，不需要引入事先人为定位。这项研究提出了一类稳健且可行地在运动的细胞中产生自组织的方法，同时也是首次清楚地给出多种粒子之间产生斑图的机制，对已发现的斑图形成机制进行了补充。文章的第一作者为Agnese I. Curatolo博士，周楠博士，与赵永峰博士。Adrian Daerr博士与刘陈立教授也是文章的作者。&lt;/p&gt;
+<p>当然，我这里列举的仅仅是我听得比较多的一些动机，当然还有很多我没有写到的动机，比如活性粒子系统在机器人控制、机器学习优化等等领域的应用。关于这些我了解得并不充分，限于篇幅也就不继续班门弄斧了。</p>
 
-&lt;p&gt;我们将大肠杆菌AMB1655菌株通过基因编辑的手段改造为两个不同群体，分别用绿色与红色的荧光分子进行标记。我们让每一种细菌恒定产生一种不同的信号分子，并仅能感受对方产生的信号分子，从而使每一种菌可以感受到对方的密度来调控自身行为，这种机制被称为群体感应（quorum sensing）。进一步地，我们利用群体感应调控下游CheZ蛋白的表达，使受影响的细菌的运动能力增强或减弱。&lt;/p&gt;
+<h2 id="三何去何从">三、何去何从</h2>
 
-&lt;p&gt;我们首先使用了两种互相增强对方的运动能力的大肠杆菌，这两种菌单独生长均不会产生任何图样。但将两种菌混合后点种在培养基上，经过一天的培养，两种菌在培养基上生长扩张，最终却产生圆环状图样。因为两种菌的交替向外扩张，最终在荧光成像中呈现出红绿相间的环形斑图。&lt;/p&gt;
+<p>在2020年，活性物质领域内37位主要的玩家联合起来写了一篇“路线图”[13]。在这篇实际上更接近于综述的文章中，这些研究者回顾了各自过去的工作，为未来提示了一些方向。然而关于这一领域的担忧也并不少。一方面，经过二三十年的研究，越来越多严肃的研究者进入了这个领域，很多方向逐渐明朗，似乎有了一种盛宴已过的感觉。另一方面，大幅简化的理论找不到干净且完美的实验系统的对应，也是我常常听到的一种批评。这个领域在今后十年二十年内将何去何从，也是一个问题。</p>
 
-&lt;p style=&quot;text-align: center;&quot;&gt;&lt;img src=&quot;http://localhost:4000/assets/MA_pattern_exp.png&quot; alt=&quot;MA_exp&quot; /&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: center;&quot;&gt;相互促进对方运动的红色与绿色两种菌形成红绿相间的环形斑图（混合通道，时序图）&lt;/p&gt;
+<p>当然我经验尚浅，没有办法回答这两个问题，只能谈一些粗浅的想法。这一领域就目前而言，似乎还有一些问题没有完全被回答。活性系统的热力学性质还没有被完全阐明，尤其对于两体机械相互作用的粒子，“基本上还是一片黑暗”[14]。现存的研究多数都在Chaté所总结的“活性物质领域空间”的几个极限场景：过阻尼，“全干”的或者“全湿”的，无手性的，长杆状的或是完美球形的粒子。这些极限场景围成的广阔空间还多数是空白。而很多真实系统中存在的要素和场景都还没有太多研究，比如手性、粒子的惯性，以及一些很少被考虑的相互作用形式。这些问题大概还会被研究相当一段时间，但不得不承认其中一些问题也会是非常艰难的。这是否会催生出新的框架还尚未可知。</p>
 
-&lt;p&gt;接着，我们将两种互相抑制对方运动能力的大肠杆菌以类似的方式培养，经过一天的培养后两种菌也可以产生圆环状斑图，但这一次两种菌共同进退，产生的图样中红色的菌始终和绿色的菌重合。再一次地，这两种菌均没有单独产生图样的能力。&lt;/p&gt;
+<p>而无论如何理论最终都还是需要落实在实验系统上的。已有的研究（至少是我曾经参与的那些）当然大多是有目标的实验系统的，比如微管、大肠杆菌、阴阳球，最没有办法也是可以给机器人编写程序实现的。合成生物学的发展更是给我们提供了一些控制大肠杆菌构造特定系统的手段。但真实的复杂系统中总可能会有些尚未被发现的机制。虽然有些工作并未放弃囊括所有微观机制的尝试，但一个完全忠实微观机制的理论几乎是不可能存在的。一方面，我们或许还是需要坚持只用少数的一些约化的物理量来描述真实系统，正如我们曾经做过的，放弃微观的忠实性并退而寻求一些对细节机制不敏感的定性规律。另一方面，我们还可以考虑直接从实验数据中去挖掘和推测系统的动力学规律与微观机制，这几年机器学习（尤其是深度学习）方法的发展似乎给我们带来了一些可能性。当然，这些想法是否可行还需要时间来回答。</p>
 
-&lt;p style=&quot;text-align: center;&quot;&gt;&lt;img src=&quot;http://localhost:4000/assets/Mutual_inhibitions_experiment.png&quot; alt=&quot;MI_exp&quot; /&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: center;&quot;&gt;相互抑制对方运动的红色与绿色两种菌形成红绿重合的环形斑图（红、绿、混合通道）&lt;/p&gt;
+<p>[1] 虽然我当时怎么也不会想到自己会有机会再次来到苏州大学工作。</p>
 
-&lt;p&gt;为什么相互促进运动或相互抑制运动可以产生这样两种截然不同的斑图？这可以使用粒子模型进行解释。大肠杆菌的运动符合一种被称为游动-翻转（run-and-tumble）的模式，细菌在鞭毛的驱动下以直线游动，但因为一系列内部生化反应的调控，细菌不时地会翻转，随机转变游动的方向。已有的工作发现，这类活力粒子（active particles）会聚集在速度较低或者翻转频率较高的地方，就像交通堵塞一样。&lt;/p&gt;
+<p>[2] Vicsek, Tamás; Czirók, András; Ben-Jacob, Eshel; Cohen, Inon; Shochet, Ofer. “Novel Type of Phase Transition in a System of Self-Driven Particles”. Physical Review Letters. 75 (6): 1226–1229 (1995).</p>
 
-&lt;p&gt;于是，如果一种菌A促进另一种菌B的运动，如果在某个空间区域菌A偶然地比较多，菌B在这个区域的运动性能会增加，促使菌B离开这个区域，增加其他区域内的菌B数量。进一步如果菌B促进菌A的运动，菌A也会远离菌B数量较多的区域，形成一个正反馈，使两种菌在空间上分离。相反，如果菌A抑制菌B的运动，那么菌A数量占优势的区域内菌B的运动性能会减弱，促进菌B向菌A多的地方的聚集。进一步如果聚集而来的菌B也会抑制菌A的运动，菌A也会向菌B多的地方聚集，形成正反馈，使得两种菌在空间中总是聚集在一起。&lt;/p&gt;
+<p>[3] Agnese I. Curatolo<em>, Nan Zhou</em>, Yongfeng Zhao*, Chenli Liu, Adrian Daerr, Julien Tailleur#, Jian-Dong Huang#, “Cooperative pattern formation in multi-component bacterial systems through reciprocal motility regulation”, Nat. Phys. 16, 1152–1157 (2020).</p>
 
-&lt;p&gt;但这只能保证两种菌总是分离或聚集，还并不能保证两种菌可以形成固定宽度地条纹或环形纹路。这就需要考虑到细菌的繁殖与生存竞争。如果一个空间区域内细菌的密度过高，大量的细菌争夺有限的食物，会降低它们的繁殖速度，阻止这个区域细菌的进一步扩张。最终限制细菌聚集区域的大小，使斑图条纹的宽度固定下来。&lt;/p&gt;
+<p>[4] Ruben Zakine<em>, Yongfeng Zhao</em>, Miloš Knežević, Adrian Daerr, Yariv Kafri, Julien Tailleur, Frédéric van Wijland, “Surface Tensions between Active Fluids and Solid Interfaces: bare vs dressed”, Phys. Rev. Lett. 124, 248003 (2020).</p>
 
-&lt;p&gt;对粒子模型进行粗粒化，得到偏微分方程进行数值求解，对于两种情况我们可以分别得到与实验类似的图案。值得注意的是，如果使用实验与经验中已经知道的细菌游动速度、翻转频率、生长速度等参数，模拟得到的图案尺寸与实验几乎定量吻合，说明了模型对实验的解释是可靠的。&lt;/p&gt;
+<p>[5] 不过如果我们考虑到表面张力控制的实际上是界面现象，那么这些工作未来或许可以与群落边界的一些行为联系起来。</p>
 
-&lt;p style=&quot;text-align: center;&quot;&gt;&lt;img src=&quot;http://localhost:4000/assets/N2pattern_sim.png&quot; alt=&quot;simulation&quot; /&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: center;&quot;&gt;模拟相互促进运动与相互抑制运动的细菌，可以得到与实验相似的图案&lt;/p&gt;
+<p>[6] Thibault Bertrand#, Yongfeng Zhao, Olivier Bénichou, Julien Tailleur, Raphaël Voituriez#, “Optimized Diffusion of Run-and-Tumble Particles in Crowded Environments”, Phys. Rev. Lett. 120, 198103 (2018).</p>
 
-&lt;p&gt;然而理论模型的意义并不止于解释现象。我们并不满足于一个依赖于参数微调以符合实验现象的唯象模型，而考虑一个更具有普适意义的模型。对偏微分方程进行线性稳定性分析，我们发现通过运动的调控，两种菌之间仅有相互促进或相互抑制两种方式可以产生斑图，而在图灵斑图中人们常提及的促进-抑制的作用并不能产生斑图。另外，单种菌自己促进自己的运动也无法产生斑图。这些结论与具体的参数甚至调控响应的具体函数形式均无依赖，仅与响应函数的导数的正负号有关，因而具有普适的价值。这些预测均在实验中得到了印证。&lt;/p&gt;
+<p>[7] Eric Woillez, Yongfeng Zhao, Yariv Kafri, Vivien Lecomte, Julien Tailleur, “Activated escape of a self-propelled particle from a metastable state”, Phys. Rev. Lett. 122, 258001 (2019).</p>
 
-&lt;p&gt;更为重要的是，理论模型还可以将这一发现推广到更广泛的情形。当有更多种菌在一起的时候，如果已经知道了不同群体之间如何相互影响，我们就可以预测最终产生的图案样式。根据之前的解释的机制，如果菌A促进菌B的运动，菌A会倾向于“排斥”菌B；而如果菌A抑制菌B的运动，菌B会喜欢“吸引”菌A。这两条原则可以推广到任意多种细胞组成的群体之中。于是比如说，菌A与菌B相互抑制对方运动，但却都促进菌D的运动，我们会看到菌A与菌B待在一起形成条纹，而菌D喜欢见缝插针，分布在菌A与菌B都比较少的地方。&lt;/p&gt;
+<p>[8] 我知道有人会不同意这一点。这里我从实用主义出发，仅仅考虑可计算的联系，即以实际上被解出的问题为准。有一些看起来很漂亮的理论框架，是否能通过实际的计算给我们提供信息还有待时间的检验。</p>
 
-&lt;p style=&quot;text-align: center;&quot;&gt;&lt;img src=&quot;http://localhost:4000/assets/3species_exp.png&quot; alt=&quot;three_species&quot; /&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: center;&quot;&gt;更多种菌形成的斑图，互相抑制运动的菌总是倾向于待在一起，而促进运动总会使得两种菌分离&lt;/p&gt;
+<p>[9] 但二维XY模型存在一个被称为BKT（Berezinski-Kosterlitz-Thouless）相变的拓扑相变。这个相变还是会带来短程序的，但系统中激发的大量拓扑缺陷会破坏掉长程序。</p>
 
-&lt;p&gt;这一研究中发现的机制与很多已知的化学趋向性等机制不同，不需要引入任何定向的微观机制或者外界信号的指导，而宏观表现出的细菌群体的排斥或吸引仅仅是一种集体涌现的现象。而多样的相互作用与多样的斑图图样也表明了多种细胞间运动调控有着非常丰富的应用场景。虽然我们指出目前还无法得知这类斑图形成机制是否在自然界中存在已有的例子，但它依然为人们人工改造、设计细胞自组织提供了思路与稳健可行的工具。&lt;/p&gt;</content><author><name>Yongfeng Zhao</name></author><category term="cn" /><summary type="html">近日，香港大学黄建东教授团队与巴黎大学Julien Tailleur博士团队合作在《自然·物理》杂志发表题为《Cooperative pattern formation in multi-component bacterial systems through reciprocal motility regulation》的文章，通过结合实验与理论的工作，揭示了多种细菌通过相互调控运动产生斑图图案的一般规律。相关机制是自发的，不需要引入事先人为定位。这项研究提出了一类稳健且可行地在运动的细胞中产生自组织的方法，同时也是首次清楚地给出多种粒子之间产生斑图的机制，对已发现的斑图形成机制进行了补充。文章的第一作者为Agnese I. Curatolo博士，周楠博士，与赵永峰博士。Adrian Daerr博士与刘陈立教授也是文章的作者。</summary></entry><entry xml:lang="en"><title type="html">Nature Physics: how to make multi-component bacterial systems cooperate to form pattern</title><link href="http://localhost:4000/en/2020/09/08/bacterial-pattern-np2020.html" rel="alternate" type="text/html" title="Nature Physics: how to make multi-component bacterial systems cooperate to form pattern" /><published>2020-09-08T00:00:00+08:00</published><updated>2020-09-08T00:00:00+08:00</updated><id>http://localhost:4000/en/2020/09/08/bacterial-pattern-np2020</id><content type="html" xml:base="http://localhost:4000/en/2020/09/08/bacterial-pattern-np2020.html">&lt;p&gt;Recently, the research group of Prof. Jian-Dong Huang in the Hong Kong University and the group of Dr. Julien Tailleur in Université Paris Diderot published in Nature Physics the paper entitled &lt;a href=&quot;https://doi.org/10.1038/s41567-020-0964-z&quot;&gt;Cooperative pattern formation in multi-component bacterial systems through reciprocal motility regulation&lt;/a&gt;. We combined the experimental and theoretical work, showed a general principle for multi-component bacterial system to form pattern through the regulation of motility. The mechanism is spontaneous, without introducing prior coordinates. This research suggests a robust and versatile self-organization pathway in multi-component systems, and is the first time to identify a general mechanism for multi-component active particle systems to form pattern, complementing the known pattern formation mechanisms. The first authors are Dr. Agnese I. Curatolo, Dr. Nan Zhou, and Dr. Yongfeng Zhao. Dr. Adrian Daerr and Prof. Chenli Liu are also the authors of the paper.&lt;/p&gt;
+<p>[10] Hal Tasaki, “Hohenberg-Mermin-Wagner-Type Theorems for Equilibrium Models of Flocking”, Phys. Rev. Lett. 125, 220601 (2020).</p>
 
-&lt;p&gt;We genetically engineered the E. coli strain AMB1655 to construct two populations, labeled by green and red fluorescence respectively. We let each population to constantly express a different signaling molecule, and sense only the signal from the other population. Such particles can sense the density of the other population, and regulate their own behavior, which is often called quorum sensing. Further more, we use quorum sensing system to regulate the expression of CheZ, to enhance or inhibit the motility of the cells.&lt;/p&gt;
+<p>[11] 这方面的文章非常多，但我还没有系统地涉足过这个方面。或许这篇是一个好的开头。R. Aditi Simha and Sriram Ramaswamy, “Hydrodynamic Fluctuations and Instabilities in Ordered Suspensions of Self-Propelled Particles”, Phys. Rev. Lett. 89, 058101 (2002).</p>
 
-&lt;p&gt;We first use two E. coli populations mutual activating the motility of each other. The two populations do not develop any pattern if cultured alone. But if we mix the two populations and inoculate at the semi-solid agar plate, after one-day cell culture, the colonies of the two populations expand alternatively, and form ring-like segregating pattern. Under fluorescent imaging we find a pattern with alternating green and red rings.&lt;/p&gt;
+<p>[12] He Li, Xia-qing Shi, Mingji Huang, Xiao Chen, Minfeng Xiao, Chenli Liu, Hugues Chaté, H. P. Zhang, “Data-driven quantitative modeling of bacterial active nematics”, PNAS 116 (3) 777-785 (2019).</p>
 
-&lt;p style=&quot;text-align: center;&quot;&gt;&lt;img src=&quot;http://localhost:4000/assets/MA_pattern_exp.png&quot; alt=&quot;MA_exp&quot; /&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: center;&quot;&gt;The segregating ring pattern formed by two populations of E. coli with mutual activation of motility (merged channel, time-lapse images).&lt;/p&gt;
+<p>[13] Gerhard Gompper et al, “The 2020 motile active matter roadmap”, J. Phys.: Condens. Matter 32 193001 (2020).</p>
 
-&lt;p&gt;Then we culture two populations of E. coli with mutual inhibition of motility in the same way. After one day they also form ring patterns, but this time they co-localize with each other: the red rings always locate at where the green rings are. Again, we note that the two species do not form pattern when cultured alone.&lt;/p&gt;
+<p>[14] 这句话写在我们将要出版的一章关于运动诱导相分离的书籍的草稿上，里面我们写了一些目前还不清楚的问题。</p>]]></content><author><name>Yongfeng Zhao</name></author><category term="cn" /><summary type="html"><![CDATA[（本文原载于微信公众号《悟理社》，配图版原文）]]></summary></entry><entry xml:lang="cn"><title type="html">《自然·物理》：如何让多种细菌自发合作产生图案</title><link href="http://localhost:4000/cn/2020/09/08/bacterial-pattern-np2020.html" rel="alternate" type="text/html" title="《自然·物理》：如何让多种细菌自发合作产生图案" /><published>2020-09-08T00:00:00+08:00</published><updated>2020-09-08T00:00:00+08:00</updated><id>http://localhost:4000/cn/2020/09/08/bacterial-pattern-np2020</id><content type="html" xml:base="http://localhost:4000/cn/2020/09/08/bacterial-pattern-np2020.html"><![CDATA[<p>近日，香港大学黄建东教授团队与巴黎大学Julien Tailleur博士团队合作在《自然·物理》杂志发表<a href="https://doi.org/10.1038/s41567-020-0964-z">题为《Cooperative pattern formation in multi-component bacterial systems through reciprocal motility regulation》的文章</a>，通过结合实验与理论的工作，揭示了多种细菌通过相互调控运动产生斑图图案的一般规律。相关机制是自发的，不需要引入事先人为定位。这项研究提出了一类稳健且可行地在运动的细胞中产生自组织的方法，同时也是首次清楚地给出多种粒子之间产生斑图的机制，对已发现的斑图形成机制进行了补充。文章的第一作者为Agnese I. Curatolo博士，周楠博士，与赵永峰博士。Adrian Daerr博士与刘陈立教授也是文章的作者。</p>
 
-&lt;p style=&quot;text-align: center;&quot;&gt;&lt;img src=&quot;http://localhost:4000/assets/Mutual_inhibitions_experiment.png&quot; alt=&quot;MI_exp&quot; /&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: center;&quot;&gt;The co-localizing ring pattern formed by two populations of E. coli with mutual inhibition of motility (red channel, green channel, merged channel).&lt;/p&gt;
+<p>我们将大肠杆菌AMB1655菌株通过基因编辑的手段改造为两个不同群体，分别用绿色与红色的荧光分子进行标记。我们让每一种细菌恒定产生一种不同的信号分子，并仅能感受对方产生的信号分子，从而使每一种菌可以感受到对方的密度来调控自身行为，这种机制被称为群体感应（quorum sensing）。进一步地，我们利用群体感应调控下游CheZ蛋白的表达，使受影响的细菌的运动能力增强或减弱。</p>
 
-&lt;p&gt;Why does particles with mutual activation and inhibition of motility can form such different pattern? It can be explained by the particle model. The motion of E. coli can be described as run-and-tumble. Propelled by flagella, cells swim almost straightly. But due to the internal biochemical reactions, they tumble randomly to change their direction of swimming. People have found that this kind of active particles can accumulate at where they swim slower or tumble more frequently, somehow like traffic jam.&lt;/p&gt;
+<p>我们首先使用了两种互相增强对方的运动能力的大肠杆菌，这两种菌单独生长均不会产生任何图样。但将两种菌混合后点种在培养基上，经过一天的培养，两种菌在培养基上生长扩张，最终却产生圆环状图样。因为两种菌的交替向外扩张，最终在荧光成像中呈现出红绿相间的环形斑图。</p>
 
-&lt;p&gt;Therefore, if one population A can activate the motility of the other population B, and by fluctuations A becomes denser at some region in space, B will be more motile and run out of this region. This then increases the density of B in other regions. Then if B also activates the motility of A, A will also leave where B become denser, and form a positive feedback loop, separating the two populations in space. Oppositely, if A inhibits the motility of B, B will move slower where A is denser, and thus accumulate. If B also inhibits the motility of A, A will also like to accumulate at where B is dense. This is also a positive feedback loop that making the two populations co-localize.&lt;/p&gt;
+<p style="text-align: center;"><img src="http://localhost:4000/assets/MA_pattern_exp.png" alt="MA_exp" /></p>
+<p style="text-align: center;">相互促进对方运动的红色与绿色两种菌形成红绿相间的环形斑图（混合通道，时序图）</p>
 
-&lt;p&gt;This mechanism only makes two populations to separate or co-localize, but cannot ensure the colony to form stripes or rings with fixed width. This is where the proliferation of bacteria starts to play a role. If in some region of space the bacteria is very dense, they will compete for limited food, which will prevent them from growing and expanding. Then the size of bacterial cluster will be limited and rest the width of the pattern stripe.&lt;/p&gt;
+<p>接着，我们将两种互相抑制对方运动能力的大肠杆菌以类似的方式培养，经过一天的培养后两种菌也可以产生圆环状斑图，但这一次两种菌共同进退，产生的图样中红色的菌始终和绿色的菌重合。再一次地，这两种菌均没有单独产生图样的能力。</p>
 
-&lt;p&gt;We coarse-grained the particle model, and numerically solved the obtained partial differential equations. We can get the ring patterns that correlated with the experiments. It’s worth noting that if we use the swimming speed, tumbling frequency, and growth rate that have been measured in previous work, the patterns have wave length semi-quantitatively agreed with the experiments. Thus the model well captured the observed experiments.&lt;/p&gt;
+<p style="text-align: center;"><img src="http://localhost:4000/assets/Mutual_inhibitions_experiment.png" alt="MI_exp" /></p>
+<p style="text-align: center;">相互抑制对方运动的红色与绿色两种菌形成红绿重合的环形斑图（红、绿、混合通道）</p>
 
-&lt;p style=&quot;text-align: center;&quot;&gt;&lt;img src=&quot;http://localhost:4000/assets/N2pattern_sim.png&quot; alt=&quot;simulation&quot; /&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: center;&quot;&gt;Simulating the bacteria with mutual activation and mutual inhibition of motility, we get patterns correlated with the experiments.&lt;/p&gt;
+<p>为什么相互促进运动或相互抑制运动可以产生这样两种截然不同的斑图？这可以使用粒子模型进行解释。大肠杆菌的运动符合一种被称为游动-翻转（run-and-tumble）的模式，细菌在鞭毛的驱动下以直线游动，但因为一系列内部生化反应的调控，细菌不时地会翻转，随机转变游动的方向。已有的工作发现，这类活力粒子（active particles）会聚集在速度较低或者翻转频率较高的地方，就像交通堵塞一样。</p>
 
-&lt;p&gt;The theoretical model we have built, however, is not only to explain the specific phenomenon of E. coli, but also to provide insights to more generalized systems. We performed linear stability analysis to the partial differential equation model, and found through mutual regulations of motility, the only way to have pattern formation is through mutual activation and mutual inhibition. A naive analogue of Turing’s activator-inhibitor model does not form pattern in regulation of motility. Furthermore, single population which activates its own motility does not form pattern neither. These conclusions have nothing to do with the specific parameters or even the functional forms of the regulations, but depend only on the signs of the derivatives of the regulation function. Thus the model is generic, and the conclusions are all tested in the experiments.&lt;/p&gt;
+<p>于是，如果一种菌A促进另一种菌B的运动，如果在某个空间区域菌A偶然地比较多，菌B在这个区域的运动性能会增加，促使菌B离开这个区域，增加其他区域内的菌B数量。进一步如果菌B促进菌A的运动，菌A也会远离菌B数量较多的区域，形成一个正反馈，使两种菌在空间上分离。相反，如果菌A抑制菌B的运动，那么菌A数量占优势的区域内菌B的运动性能会减弱，促进菌B向菌A多的地方的聚集。进一步如果聚集而来的菌B也会抑制菌A的运动，菌A也会向菌B多的地方聚集，形成正反馈，使得两种菌在空间中总是聚集在一起。</p>
 
-&lt;p&gt;The mechanism can be even generalized into more than two populations interacting. If we know how these populations regulate others’ motility, we are able to predict the patterns formed. As we explained, if population A activates the motility of population B, A will tend to “repel” B. Otherwise if A inhibits the motility of B, it will “attract” B effectively. We can generalize these two rules to, for instance, three populations. If A and B are mutual inhibiting, but both activating the motility of D, then A and B will co-localize and form stripe pattern, and D likes to fill in the places where A and B are not there.&lt;/p&gt;
+<p>但这只能保证两种菌总是分离或聚集，还并不能保证两种菌可以形成固定宽度地条纹或环形纹路。这就需要考虑到细菌的繁殖与生存竞争。如果一个空间区域内细菌的密度过高，大量的细菌争夺有限的食物，会降低它们的繁殖速度，阻止这个区域细菌的进一步扩张。最终限制细菌聚集区域的大小，使斑图条纹的宽度固定下来。</p>
 
-&lt;p style=&quot;text-align: center;&quot;&gt;&lt;img src=&quot;http://localhost:4000/assets/3species_exp.png&quot; alt=&quot;three_species&quot; /&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: center;&quot;&gt;Pattern formed by three populations of E. coli. The populations with mutual inhibition like to stay together, and with mutual activation they like to separate.&lt;/p&gt;
+<p>对粒子模型进行粗粒化，得到偏微分方程进行数值求解，对于两种情况我们可以分别得到与实验类似的图案。值得注意的是，如果使用实验与经验中已经知道的细菌游动速度、翻转频率、生长速度等参数，模拟得到的图案尺寸与实验几乎定量吻合，说明了模型对实验的解释是可靠的。</p>
 
-&lt;p&gt;The mechanism found in this work is largely different from the known mechanism, such as those based on chemotaxis. It does not require any preexisting positional or orientational cues in microscopic scale or from external signal. The repulsion and attraction in macroscopic cell populations emerge only at collective level. Since we can introduce various networks of interactions and have various patterns, the regulations of motility have a rich potential for applications. It is still an open question if such simple mechanism is already utilized by the nature. But it still provides a robust and versatile tool for engineering and designing self-organization of cells.&lt;/p&gt;</content><author><name>Yongfeng Zhao</name></author><category term="en" /><summary type="html">Recently, the research group of Prof. Jian-Dong Huang in the Hong Kong University and the group of Dr. Julien Tailleur in Université Paris Diderot published in Nature Physics the paper entitled Cooperative pattern formation in multi-component bacterial systems through reciprocal motility regulation. We combined the experimental and theoretical work, showed a general principle for multi-component bacterial system to form pattern through the regulation of motility. The mechanism is spontaneous, without introducing prior coordinates. This research suggests a robust and versatile self-organization pathway in multi-component systems, and is the first time to identify a general mechanism for multi-component active particle systems to form pattern, complementing the known pattern formation mechanisms. The first authors are Dr. Agnese I. Curatolo, Dr. Nan Zhou, and Dr. Yongfeng Zhao. Dr. Adrian Daerr and Prof. Chenli Liu are also the authors of the paper.</summary></entry><entry xml:lang="cn"><title type="html">哲学博士</title><link href="http://localhost:4000/cn/2020/04/28/phd.html" rel="alternate" type="text/html" title="哲学博士" /><published>2020-04-28T00:00:00+08:00</published><updated>2020-04-28T00:00:00+08:00</updated><id>http://localhost:4000/cn/2020/04/28/phd</id><content type="html" xml:base="http://localhost:4000/cn/2020/04/28/phd.html">&lt;p&gt;这篇是多年前通过博士答辩后在知乎写的感言，希望对后来的博士生们有所帮助。&lt;/p&gt;
+<p style="text-align: center;"><img src="http://localhost:4000/assets/N2pattern_sim.png" alt="simulation" /></p>
+<p style="text-align: center;">模拟相互促进运动与相互抑制运动的细菌，可以得到与实验相似的图案</p>
 
-&lt;hr /&gt;
+<p>然而理论模型的意义并不止于解释现象。我们并不满足于一个依赖于参数微调以符合实验现象的唯象模型，而考虑一个更具有普适意义的模型。对偏微分方程进行线性稳定性分析，我们发现通过运动的调控，两种菌之间仅有相互促进或相互抑制两种方式可以产生斑图，而在图灵斑图中人们常提及的促进-抑制的作用并不能产生斑图。另外，单种菌自己促进自己的运动也无法产生斑图。这些结论与具体的参数甚至调控响应的具体函数形式均无依赖，仅与响应函数的导数的正负号有关，因而具有普适的价值。这些预测均在实验中得到了印证。</p>
 
-&lt;p&gt;说些与物理无关，但又不是完全没有联系的事情。&lt;/p&gt;
+<p>更为重要的是，理论模型还可以将这一发现推广到更广泛的情形。当有更多种菌在一起的时候，如果已经知道了不同群体之间如何相互影响，我们就可以预测最终产生的图案样式。根据之前的解释的机制，如果菌A促进菌B的运动，菌A会倾向于“排斥”菌B；而如果菌A抑制菌B的运动，菌B会喜欢“吸引”菌A。这两条原则可以推广到任意多种细胞组成的群体之中。于是比如说，菌A与菌B相互抑制对方运动，但却都促进菌D的运动，我们会看到菌A与菌B待在一起形成条纹，而菌D喜欢见缝插针，分布在菌A与菌B都比较少的地方。</p>
 
-&lt;p&gt;最近被各种繁琐而冗长的手续、以及生活即将巨变的不安感所困，一直没有什么毕业的实感。但接过系办公室的秘书刻意双手递给我的通知信，看到上面写的客套话，我才终于有了些许毕业的感觉。感慨颇多。&lt;/p&gt;
+<p style="text-align: center;"><img src="http://localhost:4000/assets/3species_exp.png" alt="three_species" /></p>
+<p style="text-align: center;">更多种菌形成的斑图，互相抑制运动的菌总是倾向于待在一起，而促进运动总会使得两种菌分离</p>
 
-&lt;p&gt;很多事情，读PhD之前我理性上是知道的，但是很多事情真的是只有亲身经历才会在感性上理解。很多事情，读PhD以前不以为意，但是经历过才明白这些事情是多么的重要。&lt;/p&gt;
+<p>这一研究中发现的机制与很多已知的化学趋向性等机制不同，不需要引入任何定向的微观机制或者外界信号的指导，而宏观表现出的细菌群体的排斥或吸引仅仅是一种集体涌现的现象。而多样的相互作用与多样的斑图图样也表明了多种细胞间运动调控有着非常丰富的应用场景。虽然我们指出目前还无法得知这类斑图形成机制是否在自然界中存在已有的例子，但它依然为人们人工改造、设计细胞自组织提供了思路与稳健可行的工具。</p>]]></content><author><name>Yongfeng Zhao</name></author><category term="cn" /><summary type="html"><![CDATA[近日，香港大学黄建东教授团队与巴黎大学Julien Tailleur博士团队合作在《自然·物理》杂志发表题为《Cooperative pattern formation in multi-component bacterial systems through reciprocal motility regulation》的文章，通过结合实验与理论的工作，揭示了多种细菌通过相互调控运动产生斑图图案的一般规律。相关机制是自发的，不需要引入事先人为定位。这项研究提出了一类稳健且可行地在运动的细胞中产生自组织的方法，同时也是首次清楚地给出多种粒子之间产生斑图的机制，对已发现的斑图形成机制进行了补充。文章的第一作者为Agnese I. Curatolo博士，周楠博士，与赵永峰博士。Adrian Daerr博士与刘陈立教授也是文章的作者。]]></summary></entry><entry xml:lang="en"><title type="html">Nature Physics: how to make multi-component bacterial systems cooperate to form pattern</title><link href="http://localhost:4000/en/2020/09/08/bacterial-pattern-np2020.html" rel="alternate" type="text/html" title="Nature Physics: how to make multi-component bacterial systems cooperate to form pattern" /><published>2020-09-08T00:00:00+08:00</published><updated>2020-09-08T00:00:00+08:00</updated><id>http://localhost:4000/en/2020/09/08/bacterial-pattern-np2020</id><content type="html" xml:base="http://localhost:4000/en/2020/09/08/bacterial-pattern-np2020.html"><![CDATA[<p>Recently, the research group of Prof. Jian-Dong Huang in the Hong Kong University and the group of Dr. Julien Tailleur in Université Paris Diderot published in Nature Physics the paper entitled <a href="https://doi.org/10.1038/s41567-020-0964-z">Cooperative pattern formation in multi-component bacterial systems through reciprocal motility regulation</a>. We combined the experimental and theoretical work, showed a general principle for multi-component bacterial system to form pattern through the regulation of motility. The mechanism is spontaneous, without introducing prior coordinates. This research suggests a robust and versatile self-organization pathway in multi-component systems, and is the first time to identify a general mechanism for multi-component active particle systems to form pattern, complementing the known pattern formation mechanisms. The first authors are Dr. Agnese I. Curatolo, Dr. Nan Zhou, and Dr. Yongfeng Zhao. Dr. Adrian Daerr and Prof. Chenli Liu are also the authors of the paper.</p>
 
-&lt;p&gt;在读PhD之前，我们都是学习者，学习前人留下来的知识。在前人经验的保护下，我们不用担心遇到没有解答的问题，慢慢磨练着自己运用知识的技巧。但PhD的训练需要我们完成一个转变，从学习者变为研究者，去探索人类未知的东西。这时候，我们再也没有可以依赖的可靠经验，无法知道问题是否真的有答案，甚至没有任何人理解你的工作，只有一个人在荒野中旅行。&lt;/p&gt;
+<p>We genetically engineered the E. coli strain AMB1655 to construct two populations, labeled by green and red fluorescence respectively. We let each population to constantly express a different signaling molecule, and sense only the signal from the other population. Such particles can sense the density of the other population, and regulate their own behavior, which is often called quorum sensing. Further more, we use quorum sensing system to regulate the expression of CheZ, to enhance or inhibit the motility of the cells.</p>
 
-&lt;p&gt;这种孤独感和无助感是非常可怕的，无数还将自己当作学习者的PhD倒在了这里。身边的很多朋友习惯了解答那些能解答的问题，而渐渐将没有解答的问题统统归因为自己的无能，慢慢变得丧失信心，甚至绝望，甚至在巨大的压力下倒向了另一个极端——宗教。他们放弃了研究的原则，倒向了神秘与虚无，以图找一个神秘的庇护来支持自己在荆棘中前行，这是非常令人惋惜的。&lt;/p&gt;
+<p>We first use two E. coli populations mutual activating the motility of each other. The two populations do not develop any pattern if cultured alone. But if we mix the two populations and inoculate at the semi-solid agar plate, after one-day cell culture, the colonies of the two populations expand alternatively, and form ring-like segregating pattern. Under fluorescent imaging we find a pattern with alternating green and red rings.</p>
 
-&lt;p&gt;当然不是每个人都能坚强到不被一次次失败所影响，但科研就是这样的。我们试图理解自然，但自然并不按照我们的假设运转。我们的猜测总是有机会落空的，甚至落空的概率非常高。学生们总是希望追求Promising的课题，但Promising意味着谜题的解答我们已经能预料到了，这样的问题称不上未知，意义也就没有那么显著。当然我们有文章的压力，不得不在冒险与守成之间寻求平衡，这总是能将人逼疯。&lt;/p&gt;
+<p style="text-align: center;"><img src="http://localhost:4000/assets/MA_pattern_exp.png" alt="MA_exp" /></p>
+<p style="text-align: center;">The segregating ring pattern formed by two populations of E. coli with mutual activation of motility (merged channel, time-lapse images).</p>
 
-&lt;p&gt;很多局外人都还认为PhD的训练是读书学习知识，但这错得很厉害。PhD的训练是关于思维方式和科学方法的，最终目的是进行研究去解决未知的问题。知识提供了一些武器帮助我们解决问题，但沉溺在武器库里挑三拣四并不能保证我们的效率。于是我们不得不挑选自己需要学习的知识，尽可能快速高效地进入状态推进研究。所以从某种意义上，我觉得PhD这个头衔和Bachelor、Master很不相同。后两者是掌握的知识的证明，而前者更像是一种纪念，纪念你为解决人类未知的问题所牺牲的青春和努力，尽管可能大多数人们并不关心这些未知。&lt;/p&gt;
+<p>Then we culture two populations of E. coli with mutual inhibition of motility in the same way. After one day they also form ring patterns, but this time they co-localize with each other: the red rings always locate at where the green rings are. Again, we note that the two species do not form pattern when cultured alone.</p>
 
-&lt;p&gt;当然我们不是一无所得。我们可以比普通人收到更多的思维训练，能更快速地排查解决未知的问题，我们也从研究中得到了独一无二的知识，尽管人类需要这些知识和能力的地方太少太少。物质上虽然贫穷，但是却也并不缺乏开会旅游的机会，而且只要老板不过分push，工作时间可以非常灵活。至于这些值不值得用那么多牺牲去换取，就见仁见智了。一般情况下我是劝人不读PhD的，因为对于大多数人来说，这些牺牲是无可弥补的。&lt;/p&gt;
+<p style="text-align: center;"><img src="http://localhost:4000/assets/Mutual_inhibitions_experiment.png" alt="MI_exp" /></p>
+<p style="text-align: center;">The co-localizing ring pattern formed by two populations of E. coli with mutual inhibition of motility (red channel, green channel, merged channel).</p>
 
-&lt;p&gt;但是，依然有一代代的学生，选择了黑暗圣堂……啊不，是哲学博士之路。&lt;/p&gt;
+<p>Why does particles with mutual activation and inhibition of motility can form such different pattern? It can be explained by the particle model. The motion of E. coli can be described as run-and-tumble. Propelled by flagella, cells swim almost straightly. But due to the internal biochemical reactions, they tumble randomly to change their direction of swimming. People have found that this kind of active particles can accumulate at where they swim slower or tumble more frequently, somehow like traffic jam.</p>
 
-&lt;hr /&gt;
+<p>Therefore, if one population A can activate the motility of the other population B, and by fluctuations A becomes denser at some region in space, B will be more motile and run out of this region. This then increases the density of B in other regions. Then if B also activates the motility of A, A will also leave where B become denser, and form a positive feedback loop, separating the two populations in space. Oppositely, if A inhibits the motility of B, B will move slower where A is denser, and thus accumulate. If B also inhibits the motility of A, A will also like to accumulate at where B is dense. This is also a positive feedback loop that making the two populations co-localize.</p>
 
-&lt;p&gt;惭愧的是，我不是那种头脑顶尖的PhD，更不是一个拼命的PhD。想要读的书永远比读过的多，没有解决的难题也总是比解决了的多。一件讽刺的事情是，PhD反倒使我玩弄政治在钢丝上跳舞的技巧得到了些许锻炼。我不得不学习变得圆滑、甚至做恶人向别人施加压力来使得工作能够顺利进行。躲避这些事情本来是我走学术这条路的一个动因，对我而言，即使是知乎弹出的回复提示都会让我倍感压力，这也是我大幅减少知乎活动的主要原因，当然导火索也因为一次无意义的争吵让我发现我还是无法应对人们言语中透露的些许恶意。毕竟有人的地方就有利益的分配，就有政治，躲避这些事情反而可能会让工作举步维艰。比起人类之间盘根错节的利益和心理，科学对我来说还是要简单多了。&lt;/p&gt;
+<p>This mechanism only makes two populations to separate or co-localize, but cannot ensure the colony to form stripes or rings with fixed width. This is where the proliferation of bacteria starts to play a role. If in some region of space the bacteria is very dense, they will compete for limited food, which will prevent them from growing and expanding. Then the size of bacterial cluster will be limited and rest the width of the pattern stripe.</p>
 
-&lt;p&gt;学术界正是一个复杂的社交场。要在这里继续待下去，必须学会宣传自己的工作，拉拢合作者，取悦经费的赞助者，施行党同伐异。一个实验室的PI甚至需要全身心地投入这些政治工作。所以想想看，其实做老板的要求还挺高的：首先要是一位优秀的科学家做出过好的工作，必须是一位不坏的教师，又要是一个好的政治家，同时是一个能管理一间实验室的人和钱的商人。这等于是把一间公司中几个人的角色都揽在了一个人身上。&lt;/p&gt;
+<p>We coarse-grained the particle model, and numerically solved the obtained partial differential equations. We can get the ring patterns that correlated with the experiments. It’s worth noting that if we use the swimming speed, tumbling frequency, and growth rate that have been measured in previous work, the patterns have wave length semi-quantitatively agreed with the experiments. Thus the model well captured the observed experiments.</p>
 
-&lt;p&gt;所以学生们无法对自己的老板期望太高。他们远离科研一线太久太久，专心于行政工作。他们有一些过来人的经验，可以监督你的逻辑和方法是不是靠谱的，但他们对你课题的了解远远不如你自己。他们的建议很可能10条中只有5条靠谱，而又最多只有1条是对的。能对你的疑问给出关键字的老板已经是一个合格的老板了。他向一个方向投出一颗石子，如何修路就是学生们的工作了。而这就是PhD的训练。&lt;/p&gt;
+<p style="text-align: center;"><img src="http://localhost:4000/assets/N2pattern_sim.png" alt="simulation" /></p>
+<p style="text-align: center;">Simulating the bacteria with mutual activation and mutual inhibition of motility, we get patterns correlated with the experiments.</p>
 
-&lt;hr /&gt;
+<p>The theoretical model we have built, however, is not only to explain the specific phenomenon of E. coli, but also to provide insights to more generalized systems. We performed linear stability analysis to the partial differential equation model, and found through mutual regulations of motility, the only way to have pattern formation is through mutual activation and mutual inhibition. A naive analogue of Turing’s activator-inhibitor model does not form pattern in regulation of motility. Furthermore, single population which activates its own motility does not form pattern neither. These conclusions have nothing to do with the specific parameters or even the functional forms of the regulations, but depend only on the signs of the derivatives of the regulation function. Thus the model is generic, and the conclusions are all tested in the experiments.</p>
 
-&lt;p&gt;意外也不意外的是我对香港这个地方并没有多少留恋。狭窄的房间和万物皆可发霉的气候让这里的生活并不是那么令人愉快。&lt;/p&gt;
+<p>The mechanism can be even generalized into more than two populations interacting. If we know how these populations regulate others’ motility, we are able to predict the patterns formed. As we explained, if population A activates the motility of population B, A will tend to “repel” B. Otherwise if A inhibits the motility of B, it will “attract” B effectively. We can generalize these two rules to, for instance, three populations. If A and B are mutual inhibiting, but both activating the motility of D, then A and B will co-localize and form stripe pattern, and D likes to fill in the places where A and B are not there.</p>
 
-&lt;p&gt;接下来稍作调整，又要继续投入新的战场。&lt;/p&gt;
+<p style="text-align: center;"><img src="http://localhost:4000/assets/3species_exp.png" alt="three_species" /></p>
+<p style="text-align: center;">Pattern formed by three populations of E. coli. The populations with mutual inhibition like to stay together, and with mutual activation they like to separate.</p>
 
-&lt;p&gt;Salut.&lt;/p&gt;</content><author><name>Yongfeng Zhao</name></author><category term="cn" /><summary type="html">这篇是多年前通过博士答辩后在知乎写的感言，希望对后来的博士生们有所帮助。</summary></entry><entry xml:lang="cn"><title type="html">科研入门的三个阶段</title><link href="http://localhost:4000/cn/2020/04/28/three-stages-of-starting-academic-career.html" rel="alternate" type="text/html" title="科研入门的三个阶段" /><published>2020-04-28T00:00:00+08:00</published><updated>2020-04-28T00:00:00+08:00</updated><id>http://localhost:4000/cn/2020/04/28/three-stages-of-starting-academic-career</id><content type="html" xml:base="http://localhost:4000/cn/2020/04/28/three-stages-of-starting-academic-career.html">&lt;p&gt;本篇纯属扯淡，如有道理均属巧合。&lt;/p&gt;
+<p>The mechanism found in this work is largely different from the known mechanism, such as those based on chemotaxis. It does not require any preexisting positional or orientational cues in microscopic scale or from external signal. The repulsion and attraction in macroscopic cell populations emerge only at collective level. Since we can introduce various networks of interactions and have various patterns, the regulations of motility have a rich potential for applications. It is still an open question if such simple mechanism is already utilized by the nature. But it still provides a robust and versatile tool for engineering and designing self-organization of cells.</p>]]></content><author><name>Yongfeng Zhao</name></author><category term="en" /><summary type="html"><![CDATA[Recently, the research group of Prof. Jian-Dong Huang in the Hong Kong University and the group of Dr. Julien Tailleur in Université Paris Diderot published in Nature Physics the paper entitled Cooperative pattern formation in multi-component bacterial systems through reciprocal motility regulation. We combined the experimental and theoretical work, showed a general principle for multi-component bacterial system to form pattern through the regulation of motility. The mechanism is spontaneous, without introducing prior coordinates. This research suggests a robust and versatile self-organization pathway in multi-component systems, and is the first time to identify a general mechanism for multi-component active particle systems to form pattern, complementing the known pattern formation mechanisms. The first authors are Dr. Agnese I. Curatolo, Dr. Nan Zhou, and Dr. Yongfeng Zhao. Dr. Adrian Daerr and Prof. Chenli Liu are also the authors of the paper.]]></summary></entry><entry xml:lang="cn"><title type="html">哲学博士</title><link href="http://localhost:4000/cn/2020/04/28/phd.html" rel="alternate" type="text/html" title="哲学博士" /><published>2020-04-28T00:00:00+08:00</published><updated>2020-04-28T00:00:00+08:00</updated><id>http://localhost:4000/cn/2020/04/28/phd</id><content type="html" xml:base="http://localhost:4000/cn/2020/04/28/phd.html"><![CDATA[<p>这篇是多年前通过博士答辩后在知乎写的感言，希望对后来的博士生们有所帮助。</p>
 
-&lt;h2 id=&quot;〇混沌&quot;&gt;〇、混沌&lt;/h2&gt;
+<hr />
 
-&lt;p&gt;处在这个阶段的人，对所谓“权威”和“标准”有一种天然的抗拒感。童年的阴影让他们不愿相信教科书中所写的一切，但他们对于知识又没有任何判断标准。他们的思想充满了矛盾和情绪化，并且拒绝深入的思考。他们可以相信一切，也可以怀疑一切。他们可以对中小学教师的随口一言深信不疑，也可以对某些玄而没有实际意义的文字产生丰富的联想而产生相信的错觉。他们有时拒绝相信主流的科学结论，有时也痛斥各种伪科学骗局。这个阶段距离能够进行任何严谨的研究还很遥远。&lt;/p&gt;
+<p>说些与物理无关，但又不是完全没有联系的事情。</p>
 
-&lt;h2 id=&quot;一相信&quot;&gt;一、相信&lt;/h2&gt;
+<p>最近被各种繁琐而冗长的手续、以及生活即将巨变的不安感所困，一直没有什么毕业的实感。但接过系办公室的秘书刻意双手递给我的通知信，看到上面写的客套话，我才终于有了些许毕业的感觉。感慨颇多。</p>
 
-&lt;p&gt;新生们常常是处于这个阶段的。他们缺乏足够的知识，也尚未建立起对知识的判断标准。于是他们倾向于像海绵一样接收一切传递来的可能是知识的东西。他们对教授和教科书所说的话深信不疑，并且将论文当做教材来看。不过他们已经开始对看起来不像是知识的东西产生警惕心，开始拒绝来源成谜的材料。&lt;/p&gt;
+<p>很多事情，读PhD之前我理性上是知道的，但是很多事情真的是只有亲身经历才会在感性上理解。很多事情，读PhD以前不以为意，但是经历过才明白这些事情是多么的重要。</p>
 
-&lt;h2 id=&quot;二怀疑&quot;&gt;二、怀疑&lt;/h2&gt;
+<p>在读PhD之前，我们都是学习者，学习前人留下来的知识。在前人经验的保护下，我们不用担心遇到没有解答的问题，慢慢磨练着自己运用知识的技巧。但PhD的训练需要我们完成一个转变，从学习者变为研究者，去探索人类未知的东西。这时候，我们再也没有可以依赖的可靠经验，无法知道问题是否真的有答案，甚至没有任何人理解你的工作，只有一个人在荒野中旅行。</p>
 
-&lt;p&gt;逻辑和理性的训练常常会把学生带到这个阶段。学生开始掌握逻辑的法则和判断的准则，他们开始尝试用最严格的标准来审视自己接受的一切知识，然后发现即使是已经广为接受的知识，依然包含着不完整的逻辑和人造的痕迹。同时他们也开始学会挑剔论文的错误，并开始以此对学术界产生负面的情绪。他们开始怀疑一切，怀疑科研活动的可靠性， 并且开始否定科研活动的意义。与此同时，作为怀疑论者和不可知论者，他们对于似是而非的材料比任何人群都苛刻。&lt;/p&gt;
+<p>这种孤独感和无助感是非常可怕的，无数还将自己当作学习者的PhD倒在了这里。身边的很多朋友习惯了解答那些能解答的问题，而渐渐将没有解答的问题统统归因为自己的无能，慢慢变得丧失信心，甚至绝望，甚至在巨大的压力下倒向了另一个极端——宗教。他们放弃了研究的原则，倒向了神秘与虚无，以图找一个神秘的庇护来支持自己在荆棘中前行，这是非常令人惋惜的。</p>
 
-&lt;h2 id=&quot;三接受&quot;&gt;三、接受&lt;/h2&gt;
+<p>当然不是每个人都能坚强到不被一次次失败所影响，但科研就是这样的。我们试图理解自然，但自然并不按照我们的假设运转。我们的猜测总是有机会落空的，甚至落空的概率非常高。学生们总是希望追求Promising的课题，但Promising意味着谜题的解答我们已经能预料到了，这样的问题称不上未知，意义也就没有那么显著。当然我们有文章的压力，不得不在冒险与守成之间寻求平衡，这总是能将人逼疯。</p>
 
-&lt;p&gt;如果学生在上一个阶段还没有产生足够的厌世情绪使他们厌恶并退出科研工作，他们有可能来到这个阶段。在这个阶段，他们开始接受现实的不完美和混乱。他们开始理解误差的不可避免和人力的极限，他们开始理解历史上的科学家们为现实所做的妥协。作为接受的结果，他们放弃对于绝对完美逻辑的追求，向实用主义靠拢。于是，他们也开始有保留地接受实验数据和对于数据的不完全归纳，以发展而非纯粹挑刺的目光看待别人的论文，虽然他们对于明显逻辑缺陷的工作依然非常严苛。至此，一个学生才算是踏上了独立研究者的第一步。&lt;/p&gt;</content><author><name>Yongfeng Zhao</name></author><category term="cn" /><summary type="html">本篇纯属扯淡，如有道理均属巧合。</summary></entry><entry xml:lang="cn"><title type="html">什么是科学</title><link href="http://localhost:4000/cn/2020/04/28/what-is-science.html" rel="alternate" type="text/html" title="什么是科学" /><published>2020-04-28T00:00:00+08:00</published><updated>2020-04-28T00:00:00+08:00</updated><id>http://localhost:4000/cn/2020/04/28/what-is-science</id><content type="html" xml:base="http://localhost:4000/cn/2020/04/28/what-is-science.html">&lt;p&gt;注：这一系列文章是多年以前为了让大众了解科学的基本概念而写的，曾经发表在我个人的知乎专栏中。在我看来，科学作为一个方法论，比起任何一条具体的知识都要重要得多。我希望更多人能理解这一点并有所思考，以增加自己面对信息时代巨量数据时的判断能力，避免一些悲剧的发生，因而写下了这些文章。水平有限，可能有很多辞不达意的地方。&lt;/p&gt;
+<p>很多局外人都还认为PhD的训练是读书学习知识，但这错得很厉害。PhD的训练是关于思维方式和科学方法的，最终目的是进行研究去解决未知的问题。知识提供了一些武器帮助我们解决问题，但沉溺在武器库里挑三拣四并不能保证我们的效率。于是我们不得不挑选自己需要学习的知识，尽可能快速高效地进入状态推进研究。所以从某种意义上，我觉得PhD这个头衔和Bachelor、Master很不相同。后两者是掌握的知识的证明，而前者更像是一种纪念，纪念你为解决人类未知的问题所牺牲的青春和努力，尽管可能大多数人们并不关心这些未知。</p>
 
-&lt;h2 id=&quot;科学归纳法&quot;&gt;科学归纳法&lt;/h2&gt;
+<p>当然我们不是一无所得。我们可以比普通人收到更多的思维训练，能更快速地排查解决未知的问题，我们也从研究中得到了独一无二的知识，尽管人类需要这些知识和能力的地方太少太少。物质上虽然贫穷，但是却也并不缺乏开会旅游的机会，而且只要老板不过分push，工作时间可以非常灵活。至于这些值不值得用那么多牺牲去换取，就见仁见智了。一般情况下我是劝人不读PhD的，因为对于大多数人来说，这些牺牲是无可弥补的。</p>
 
-&lt;p&gt;简单地说，科学的目的是建立可靠且有用的知识。有用意味着我们要能拿这些知识来预测些什么东西，而不是只是告诉你些现有事物的解释；可靠意味着我们希望这些知识是真的，不是50%的正确率还需要你拼人品或是诚心相信才能对的。&lt;/p&gt;
+<p>但是，依然有一代代的学生，选择了黑暗圣堂……啊不，是哲学博士之路。</p>
 
-&lt;p&gt;&lt;strong&gt;所以怎么建立可靠的知识，是科学最核心的问题之一。&lt;/strong&gt;&lt;/p&gt;
+<hr />
 
-&lt;p&gt;要得到些什么结论，我们不可避免地要借助逻辑的力量。粗糙地讲，我们研究用到的逻辑推理方式有两种，演绎推理和归纳。演绎推理是从一些已知的结论得到另一些已知的结论的方法，最典型的莫过于三段论：&lt;/p&gt;
+<p>惭愧的是，我不是那种头脑顶尖的PhD，更不是一个拼命的PhD。想要读的书永远比读过的多，没有解决的难题也总是比解决了的多。一件讽刺的事情是，PhD反倒使我玩弄政治在钢丝上跳舞的技巧得到了些许锻炼。我不得不学习变得圆滑、甚至做恶人向别人施加压力来使得工作能够顺利进行。躲避这些事情本来是我走学术这条路的一个动因，对我而言，即使是知乎弹出的回复提示都会让我倍感压力，这也是我大幅减少知乎活动的主要原因，当然导火索也因为一次无意义的争吵让我发现我还是无法应对人们言语中透露的些许恶意。毕竟有人的地方就有利益的分配，就有政治，躲避这些事情反而可能会让工作举步维艰。比起人类之间盘根错节的利益和心理，科学对我来说还是要简单多了。</p>
 
-&lt;blockquote&gt;
-  &lt;p&gt;人有两条腿。&lt;/p&gt;
+<p>学术界正是一个复杂的社交场。要在这里继续待下去，必须学会宣传自己的工作，拉拢合作者，取悦经费的赞助者，施行党同伐异。一个实验室的PI甚至需要全身心地投入这些政治工作。所以想想看，其实做老板的要求还挺高的：首先要是一位优秀的科学家做出过好的工作，必须是一位不坏的教师，又要是一个好的政治家，同时是一个能管理一间实验室的人和钱的商人。这等于是把一间公司中几个人的角色都揽在了一个人身上。</p>
 
-  &lt;p&gt;小明是人。&lt;/p&gt;
+<p>所以学生们无法对自己的老板期望太高。他们远离科研一线太久太久，专心于行政工作。他们有一些过来人的经验，可以监督你的逻辑和方法是不是靠谱的，但他们对你课题的了解远远不如你自己。他们的建议很可能10条中只有5条靠谱，而又最多只有1条是对的。能对你的疑问给出关键字的老板已经是一个合格的老板了。他向一个方向投出一颗石子，如何修路就是学生们的工作了。而这就是PhD的训练。</p>
 
-  &lt;p&gt;=&amp;gt;小明有两条腿。&lt;/p&gt;
-&lt;/blockquote&gt;
+<hr />
 
-&lt;p&gt;如果我们能保证大前提和小前提是对的，那么三段论可以保证我们得到正确的结论。一般而言，演绎推理基本上不太会出错，除非是用了错误的三段论，或者错误的前提。&lt;/p&gt;
+<p>意外也不意外的是我对香港这个地方并没有多少留恋。狭窄的房间和万物皆可发霉的气候让这里的生活并不是那么令人愉快。</p>
 
-&lt;p&gt;然而，只有演绎推理通常是不够的。演绎推理只能让你从已知的结论出发，那么最基本的那些结论，只能从归纳中来。归纳是从一系列事物中提取共性的方法，比如：&lt;/p&gt;
+<p>接下来稍作调整，又要继续投入新的战场。</p>
 
-&lt;blockquote&gt;
-  &lt;p&gt;房间里有3个小孩：小明，小红，小强。&lt;/p&gt;
+<p>Salut.</p>]]></content><author><name>Yongfeng Zhao</name></author><category term="cn" /><summary type="html"><![CDATA[这篇是多年前通过博士答辩后在知乎写的感言，希望对后来的博士生们有所帮助。]]></summary></entry><entry xml:lang="cn"><title type="html">科研入门的三个阶段</title><link href="http://localhost:4000/cn/2020/04/28/three-stages-of-starting-academic-career.html" rel="alternate" type="text/html" title="科研入门的三个阶段" /><published>2020-04-28T00:00:00+08:00</published><updated>2020-04-28T00:00:00+08:00</updated><id>http://localhost:4000/cn/2020/04/28/three-stages-of-starting-academic-career</id><content type="html" xml:base="http://localhost:4000/cn/2020/04/28/three-stages-of-starting-academic-career.html"><![CDATA[<p>本篇纯属扯淡，如有道理均属巧合。</p>
 
-  &lt;p&gt;小明有2颗糖。&lt;/p&gt;
+<h2 id="〇混沌">〇、混沌</h2>
 
-  &lt;p&gt;小红有3颗糖。&lt;/p&gt;
+<p>处在这个阶段的人，对所谓“权威”和“标准”有一种天然的抗拒感。童年的阴影让他们不愿相信教科书中所写的一切，但他们对于知识又没有任何判断标准。他们的思想充满了矛盾和情绪化，并且拒绝深入的思考。他们可以相信一切，也可以怀疑一切。他们可以对中小学教师的随口一言深信不疑，也可以对某些玄而没有实际意义的文字产生丰富的联想而产生相信的错觉。他们有时拒绝相信主流的科学结论，有时也痛斥各种伪科学骗局。这个阶段距离能够进行任何严谨的研究还很遥远。</p>
 
-  &lt;p&gt;小强有1颗糖。&lt;/p&gt;
+<h2 id="一相信">一、相信</h2>
 
-  &lt;p&gt;=&amp;gt;房间里的孩子们都有糖。&lt;/p&gt;
-&lt;/blockquote&gt;
+<p>新生们常常是处于这个阶段的。他们缺乏足够的知识，也尚未建立起对知识的判断标准。于是他们倾向于像海绵一样接收一切传递来的可能是知识的东西。他们对教授和教科书所说的话深信不疑，并且将论文当做教材来看。不过他们已经开始对看起来不像是知识的东西产生警惕心，开始拒绝来源成谜的材料。</p>
 
-&lt;p&gt;这种推理模式，即是归纳。如果我们列举了一个集合里所有元素的性质，那么这样的归纳是完全的，这样归纳得到的结果，正确性是有保证的，也足以作为推理的前提。然而，问题就出在很多时候，元素个数太多，我们无法检测所有的元素，或者有时候元素个数是趋于无穷的，不可能全部检测完，这种时候，怎么归纳才合适？&lt;/p&gt;
+<h2 id="二怀疑">二、怀疑</h2>
 
-&lt;p&gt;这个时候只好采用不完全归纳，即只是挑几个元素检查一下，然后得出结论。这种方法一般人总是会在有意无意之间使用，但很少有人能清醒地意识到，这种归纳是不可靠的。一些简单的例子就是：&lt;/p&gt;
+<p>逻辑和理性的训练常常会把学生带到这个阶段。学生开始掌握逻辑的法则和判断的准则，他们开始尝试用最严格的标准来审视自己接受的一切知识，然后发现即使是已经广为接受的知识，依然包含着不完整的逻辑和人造的痕迹。同时他们也开始学会挑剔论文的错误，并开始以此对学术界产生负面的情绪。他们开始怀疑一切，怀疑科研活动的可靠性， 并且开始否定科研活动的意义。与此同时，作为怀疑论者和不可知论者，他们对于似是而非的材料比任何人群都苛刻。</p>
 
-&lt;blockquote&gt;
-  &lt;p&gt;3是质数。&lt;/p&gt;
+<h2 id="三接受">三、接受</h2>
 
-  &lt;p&gt;5是质数。&lt;/p&gt;
+<p>如果学生在上一个阶段还没有产生足够的厌世情绪使他们厌恶并退出科研工作，他们有可能来到这个阶段。在这个阶段，他们开始接受现实的不完美和混乱。他们开始理解误差的不可避免和人力的极限，他们开始理解历史上的科学家们为现实所做的妥协。作为接受的结果，他们放弃对于绝对完美逻辑的追求，向实用主义靠拢。于是，他们也开始有保留地接受实验数据和对于数据的不完全归纳，以发展而非纯粹挑刺的目光看待别人的论文，虽然他们对于明显逻辑缺陷的工作依然非常严苛。至此，一个学生才算是踏上了独立研究者的第一步。</p>]]></content><author><name>Yongfeng Zhao</name></author><category term="cn" /><summary type="html"><![CDATA[本篇纯属扯淡，如有道理均属巧合。]]></summary></entry><entry xml:lang="cn"><title type="html">什么是科学</title><link href="http://localhost:4000/cn/2020/04/28/what-is-science.html" rel="alternate" type="text/html" title="什么是科学" /><published>2020-04-28T00:00:00+08:00</published><updated>2020-04-28T00:00:00+08:00</updated><id>http://localhost:4000/cn/2020/04/28/what-is-science</id><content type="html" xml:base="http://localhost:4000/cn/2020/04/28/what-is-science.html"><![CDATA[<p>注：这一系列文章是多年以前为了让大众了解科学的基本概念而写的，曾经发表在我个人的知乎专栏中。在我看来，科学作为一个方法论，比起任何一条具体的知识都要重要得多。我希望更多人能理解这一点并有所思考，以增加自己面对信息时代巨量数据时的判断能力，避免一些悲剧的发生，因而写下了这些文章。水平有限，可能有很多辞不达意的地方。</p>
 
-  &lt;p&gt;7是质数。&lt;/p&gt;
+<h2 id="科学归纳法">科学归纳法</h2>
 
-  &lt;p&gt;=&amp;gt;所有的奇数都是质数。&lt;/p&gt;
-&lt;/blockquote&gt;
+<p>简单地说，科学的目的是建立可靠且有用的知识。有用意味着我们要能拿这些知识来预测些什么东西，而不是只是告诉你些现有事物的解释；可靠意味着我们希望这些知识是真的，不是50%的正确率还需要你拼人品或是诚心相信才能对的。</p>
 
-&lt;blockquote&gt;
-  &lt;p&gt;我见过一只黑羊。&lt;/p&gt;
+<p><strong>所以怎么建立可靠的知识，是科学最核心的问题之一。</strong></p>
 
-  &lt;p&gt;=&amp;gt;所有的羊都是黑的。&lt;/p&gt;
-&lt;/blockquote&gt;
+<p>要得到些什么结论，我们不可避免地要借助逻辑的力量。粗糙地讲，我们研究用到的逻辑推理方式有两种，演绎推理和归纳。演绎推理是从一些已知的结论得到另一些已知的结论的方法，最典型的莫过于三段论：</p>
 
-&lt;p&gt;这样的归纳法的错误是很显然的，大家会觉得不以为然。但很多人却没能察觉到这样的推理也是不可靠的：&lt;/p&gt;
+<blockquote>
+  <p>人有两条腿。</p>
 
-&lt;blockquote&gt;
-  &lt;p&gt;我认识一个人得癌症被中医治好了。&lt;/p&gt;
+  <p>小明是人。</p>
 
-  &lt;p&gt;=&amp;gt;中医包治百病。&lt;/p&gt;
-&lt;/blockquote&gt;
+  <p>=&gt;小明有两条腿。</p>
+</blockquote>
 
-&lt;blockquote&gt;
-  &lt;p&gt;塔罗牌算对了我考试会合格！&lt;/p&gt;
+<p>如果我们能保证大前提和小前提是对的，那么三段论可以保证我们得到正确的结论。一般而言，演绎推理基本上不太会出错，除非是用了错误的三段论，或者错误的前提。</p>
 
-  &lt;p&gt;=&amp;gt;算命太准了。&lt;/p&gt;
-&lt;/blockquote&gt;
+<p>然而，只有演绎推理通常是不够的。演绎推理只能让你从已知的结论出发，那么最基本的那些结论，只能从归纳中来。归纳是从一系列事物中提取共性的方法，比如：</p>
 
-&lt;blockquote&gt;
-  &lt;p&gt;XX大学有个毕业生找不到工作。&lt;/p&gt;
+<blockquote>
+  <p>房间里有3个小孩：小明，小红，小强。</p>
 
-  &lt;p&gt;=&amp;gt;现在的大学全都是XXX只知道浪费纳税人的钱毁人不倦一个人才都培养不出来……&lt;/p&gt;
-&lt;/blockquote&gt;
+  <p>小明有2颗糖。</p>
 
-&lt;blockquote&gt;
-  &lt;p&gt;解剖发现人的心脏长在左边。&lt;/p&gt;
+  <p>小红有3颗糖。</p>
 
-  &lt;p&gt;=&amp;gt;所有人的心脏都长在左边。&lt;/p&gt;
-&lt;/blockquote&gt;
+  <p>小强有1颗糖。</p>
 
-&lt;p&gt;等等，你可能已经发现了，最后一种推理方式，似乎正是科学很多分支都不断在做的。如果这不可靠，岂不是说明科学就是在胡扯？&lt;/p&gt;
+  <p>=&gt;房间里的孩子们都有糖。</p>
+</blockquote>
 
-&lt;p&gt;当然，科学家在很早以前就发现了这个问题，所以我们用到的归纳法，和不完全归纳有一点不同，叫做科学归纳法。它的逻辑是这样的：&lt;/p&gt;
+<p>这种推理模式，即是归纳。如果我们列举了一个集合里所有元素的性质，那么这样的归纳是完全的，这样归纳得到的结果，正确性是有保证的，也足以作为推理的前提。然而，问题就出在很多时候，元素个数太多，我们无法检测所有的元素，或者有时候元素个数是趋于无穷的，不可能全部检测完，这种时候，怎么归纳才合适？</p>
 
-&lt;blockquote&gt;
-  &lt;p&gt;解剖了那么多人发现没有人的心脏长在右边。&lt;/p&gt;
+<p>这个时候只好采用不完全归纳，即只是挑几个元素检查一下，然后得出结论。这种方法一般人总是会在有意无意之间使用，但很少有人能清醒地意识到，这种归纳是不可靠的。一些简单的例子就是：</p>
 
-  &lt;p&gt;=&amp;gt;所有人的心脏可能都长在左边。&lt;/p&gt;
-&lt;/blockquote&gt;
+<blockquote>
+  <p>3是质数。</p>
 
-&lt;p&gt;就是说我们要意识到绝大多数的论断都是无法被证明的，你能找到的只能称之为支持性证据。我们将论断的正确性依托在做了大量实验却没有发现反例这一点上，但即使如此，我们也不敢说某个论断被证明了。因为逻辑上而言，你无法知道今后会不会出现反例推翻你的论断。比如&lt;/p&gt;
+  <p>5是质数。</p>
 
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;我们现在看到地球是圆的，会不会有一天突然发现它变方了？&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;我们现在发现人的心脏长在左边，是不是我们碰巧解剖的人的心脏都长在左边？&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
+  <p>7是质数。</p>
 
-&lt;p&gt;所以，怀疑从根本上贯彻于科学无处不在，也正因此，因为顶住了一次又一次地抽查，我们才有理由相信某些论断和理论是对的。&lt;/p&gt;
+  <p>=&gt;所有的奇数都是质数。</p>
+</blockquote>
 
-&lt;p&gt;但事情还是没有那么简单。事实上，确实有人的心脏长在右边，但为什么我们还是看到很多地方在说“人的心脏长在左边”呢？这时我们需要特别小心，需要借助统计学的力量。我们继续打开人的胸腔，随机地打开，统计这些人的心脏的左右位置。这时候，人们发现这么多例子大约只有万分之一的人的心脏长在右边。于是我们得到了新的论断：&lt;/p&gt;
+<blockquote>
+  <p>我见过一只黑羊。</p>
 
-&lt;ul&gt;
-  &lt;li&gt;绝大多数（约99%）人的心脏长在左边。&lt;/li&gt;
-&lt;/ul&gt;
+  <p>=&gt;所有的羊都是黑的。</p>
+</blockquote>
 
-&lt;p&gt;当然，我们还是不能检查每个人的心脏，所以这个论断，会永远受到统计数字的检查。&lt;/p&gt;
+<p>这样的归纳法的错误是很显然的，大家会觉得不以为然。但很多人却没能察觉到这样的推理也是不可靠的：</p>
 
-&lt;p&gt; &lt;/p&gt;
+<blockquote>
+  <p>我认识一个人得癌症被中医治好了。</p>
 
-&lt;p&gt;当然，有时候我们并不从实验直接归纳得到结论，有时夹杂了一些其他的考虑，包括了很多不能直接测量的东西，才构建出完整的理论。但是，实验证伪这个机制是通用的。我们要求理论提供预测，要求它提供可验证的结论，然后不断地、无时无刻地使用实验来检查它。每一次使用理论都提供了一个检验理论的机会。虽然得到论断的方式不同，但保证它正确的逻辑是相似的：因为没有出过错，所以可能是对的。历史发展到现在，从牛顿力学到标准模型，每一个理论都有了充分的支持性依据，重要的是它们没有出错，所以这些成为了人类对世界认识的框架。&lt;/p&gt;
+  <p>=&gt;中医包治百病。</p>
+</blockquote>
 
-&lt;p&gt;如果一个理论既没有证据支持，又没有证据反对，又怎么说呢？这时，这个理论或许说的是废话，或许是一种可能性。对与错都无从得知。所以，它不是可以令人言之凿凿的真实。&lt;/p&gt;
+<blockquote>
+  <p>塔罗牌算对了我考试会合格！</p>
 
-&lt;p&gt;比如弦论。&lt;/p&gt;
+  <p>=&gt;算命太准了。</p>
+</blockquote>
 
-&lt;h2 id=&quot;科学理论如何运作&quot;&gt;科学理论如何运作&lt;/h2&gt;
+<blockquote>
+  <p>XX大学有个毕业生找不到工作。</p>
 
-&lt;p&gt;前一章说到如何从现象中科学地进行归纳，但留了一个很大的问题没有触及，那就是“理论”究竟是怎么建立的。诚然，化学、生物等众多学科几乎都是直接从实验结果进行归纳，更甚者生物学的很多传统领域还在做着以单纯描述现象为主的工作，这些学科建立的逻辑基本都采用了科学归纳法的方式。然而，很多读过某些“科普”著作的人，会有一种错觉，即物理学的理论是从形而上学或者说纯粹哲学的角度出发建立起来的，和实验没什么关系。更甚者，他们看到了有人这样做成功了，于是觉得似乎物理理论是如此容易，以至于自己随便想想就可以拿出个猜想，得到真理。这真是错得很离谱。&lt;/p&gt;
+  <p>=&gt;现在的大学全都是XXX只知道浪费纳税人的钱毁人不倦一个人才都培养不出来……</p>
+</blockquote>
 
-&lt;h3 id=&quot;历史&quot;&gt;历史&lt;/h3&gt;
+<blockquote>
+  <p>解剖发现人的心脏长在左边。</p>
 
-&lt;p&gt;我们先来回顾一下历史。一般认为，物理学真正的开始，是牛顿出版了著名的《自然哲学的数学原理》一书，正式确立了牛顿力学的框架。然而，他的力学理论是源自伽利略对惯性的诸多研究，他的引力理论是源自开普勒三定律。而开普勒三定律，正是开普勒在大量艰苦的天文观测中总结归纳出来的。&lt;/p&gt;
+  <p>=&gt;所有人的心脏都长在左边。</p>
+</blockquote>
 
-&lt;p&gt;随后到十九世纪，经过库伦、毕奥、萨法尔、法拉第等人的大量实验总结，人们对电与磁的认识几乎完全。最终，麦克斯韦将前人的所有工作整合起来，又加入了自己对位移电流的一个假设，形成了电磁学的基本理论：麦克斯韦方程组。随后，麦克斯韦方程组所预言的电磁波被赫兹发现，再后来人们发现光实质上也是一种电磁波。&lt;/p&gt;
+<p>等等，你可能已经发现了，最后一种推理方式，似乎正是科学很多分支都不断在做的。如果这不可靠，岂不是说明科学就是在胡扯？</p>
 
-&lt;p&gt;热学早期一直在讨论功与热的关系。随着热功当量的测定，人们终于意识到热无非是也是一种能量形式。对于气体的描述，人们建立起一系列实验定律，如玻意尔定律、亨利定律，最后被克拉伯龙总结形成理想气体状态方程。另一方面，玻尔兹曼从概率统计的角度出发，建立了统计力学。而统计力学给出了更为完备的热学理论。&lt;/p&gt;
+<p>当然，科学家在很早以前就发现了这个问题，所以我们用到的归纳法，和不完全归纳有一点不同，叫做科学归纳法。它的逻辑是这样的：</p>
 
-&lt;p&gt;人们常常津津乐道的19世纪的两朵乌云，即是两个实验的不吻合：黑体辐射实验与迈克尔逊莫雷实验。基于经典的牛顿物理和统计力学所给出的黑体辐射能谱全部与实验相差很远，此时普朗克无奈之下引入量子的概念，得到了完美吻合的黑体辐射能谱，开始了量子力学发展的进程。而麦克斯韦方程给出的真空光速，是一个不与参考系有关的常数，而MM实验验证了这一点，这有违牛顿力学中关于参考系变换的部分。以此为出发点，爱因斯坦建立了狭义相对论。&lt;/p&gt;
+<blockquote>
+  <p>解剖了那么多人发现没有人的心脏长在右边。</p>
 
-&lt;p&gt;此后随着原子实验以至高能物理的发展，人们发现越来越多的新现象。随着早期量子论给出各种错误的结果，薛定谔、海森堡等人终于构建出完善的非相对论性量子力学的框架，但此时以Klein-Gordon方程为代表的相对论性量子力学还有着深刻的问题。随着狄拉克方程的提出，正则量子化的提出，重整化的使用，完美兼容狭义相对论的量子场论框架终于成熟。至此，我们有了描述物理世界的基本理论方法。而费曼提出路径积分使人们理解了量子物理是如何与经典物理相联系的。&lt;/p&gt;
+  <p>=&gt;所有人的心脏可能都长在左边。</p>
+</blockquote>
 
-&lt;p&gt;自麦克斯韦方程之后，电磁理论就没有多少需要修改的地方了。将电磁场量子化，得到的量子电动力学可以精确计算出和实验高度吻合的电子反常磁矩。后来随着高能实验的发展，人们终于得以对弱力和强力进行系统的研究，经过四费米子理论和汤川理论，弱电统一理论和夸克模型，最后发展成为标准模型。而这些理论所预测的各种夸克、W波色子和Z波色子，以及最后最重要的Higgs波色子，最终都相继被高能实验发现。&lt;/p&gt;
+<p>就是说我们要意识到绝大多数的论断都是无法被证明的，你能找到的只能称之为支持性证据。我们将论断的正确性依托在做了大量实验却没有发现反例这一点上，但即使如此，我们也不敢说某个论断被证明了。因为逻辑上而言，你无法知道今后会不会出现反例推翻你的论断。比如</p>
 
-&lt;p&gt;另一方面，关于引力理论，爱因斯坦从等效原理的考虑出发，建立了广义相对论。随后广义相对论在水星进动、引力红移、引力波的直接观测等实验中得到证据支持。但是当人们发现无法基于广义相对论构建一个描述微观引力作用的量子场论时，便开始了量子引力的研究。虽然爱因斯坦本人也有尝试，但并不成功。经过几十年的发展，人们找到了几种候选理论，大众听得最多的便是弦论，此外还有圈量子引力、声学度规、熵力等等五花八门的理论。但因为引力过于弱小，难以在微观世界体现出作用，以至于实验难以实施，人们现在还没有办法特定出某个理论。&lt;/p&gt;
+<ul>
+  <li>
+    <p>我们现在看到地球是圆的，会不会有一天突然发现它变方了？</p>
+  </li>
+  <li>
+    <p>我们现在发现人的心脏长在左边，是不是我们碰巧解剖的人的心脏都长在左边？</p>
+  </li>
+</ul>
 
-&lt;p&gt;说到这里我想已经很清楚了，物理学的历史发展中无时无刻都离不开实验的影子。而且，事实上，实验和理论的突破总是难以分割的。&lt;/p&gt;
+<p>所以，怀疑从根本上贯彻于科学无处不在，也正因此，因为顶住了一次又一次地抽查，我们才有理由相信某些论断和理论是对的。</p>
 
-&lt;h3 id=&quot;理论&quot;&gt;理论&lt;/h3&gt;
+<p>但事情还是没有那么简单。事实上，确实有人的心脏长在右边，但为什么我们还是看到很多地方在说“人的心脏长在左边”呢？这时我们需要特别小心，需要借助统计学的力量。我们继续打开人的胸腔，随机地打开，统计这些人的心脏的左右位置。这时候，人们发现这么多例子大约只有万分之一的人的心脏长在右边。于是我们得到了新的论断：</p>
 
-&lt;p&gt;不过说到底，物理理论指的是什么？&lt;/p&gt;
+<ul>
+  <li>绝大多数（约99%）人的心脏长在左边。</li>
+</ul>
 
-&lt;p&gt;它是指一种基于数学的理论系统，通过对描述对象的适当抽象，建立起的一套数学化的系统。它用数学来表述所要研究的对象之间的关系，并对这些方程与现实观测的联系进行简单的诠释。&lt;/p&gt;
+<p>当然，我们还是不能检查每个人的心脏，所以这个论断，会永远受到统计数字的检查。</p>
 
-&lt;p&gt;比如说，你如果可以用一堆数字来标记一个系统的状态，比如用x,y,z来标记一个质点的位置，用一个被称为拉格朗日量的函数来抓住这个系统运动的特征，你就可以通过解欧拉-拉格朗日方程极小化一个叫做作用量的东西，来描述这个系统的运动轨迹。这个被成为最小作用量原理的定理，便是理论物理实质上的根基。如果那个函数采用不同的形式，我们便得到了牛顿力学、狭义相对论。&lt;/p&gt;
+<p> </p>
 
-&lt;p&gt;如果你需要的数字数目（自由度）是无穷的，这时就过渡到场论来描述。麦克斯韦方程、爱因斯坦方程无非都是采用不同的作用量得出来的。如果我们考虑费曼路径积分，以作用量为权重，把所有这些运动路径的贡献都算进去，我们就得到了量子力学。而最终标准模型给出的，也正是这样一个长长的作用量，它包括了三项：弱电相互作用、量子色动力学以及Higgs机制。而大家总以为弦论如何如何，其实也是用同样的框架，给出了一个更复杂的作用量。&lt;/p&gt;
+<p>当然，有时候我们并不从实验直接归纳得到结论，有时夹杂了一些其他的考虑，包括了很多不能直接测量的东西，才构建出完整的理论。但是，实验证伪这个机制是通用的。我们要求理论提供预测，要求它提供可验证的结论，然后不断地、无时无刻地使用实验来检查它。每一次使用理论都提供了一个检验理论的机会。虽然得到论断的方式不同，但保证它正确的逻辑是相似的：因为没有出过错，所以可能是对的。历史发展到现在，从牛顿力学到标准模型，每一个理论都有了充分的支持性依据，重要的是它们没有出错，所以这些成为了人类对世界认识的框架。</p>
 
-&lt;p&gt;这套框架，自从被拉格朗日和哈密顿奠定一来，就没怎么变过。听起来有点奇葩，因为这个框架本身见不到任何实验的影子，似乎真的是神来的。但其实请仔细想，这个框架本身并没有告诉你任何信息，这只是一种表述。当然，这个框架是有用的，它给了我们一个通过对称性找守恒量（诸如能量、动量、角动量、电荷等等）的办法，从这个意义上它的结论仍然是可验证的。蕴含了全部物理信息的，正是那个被成为作用量的泛函，或者说那个拉格朗日量。而这个东西的来源，说不定可能真的是靠猜的。&lt;/p&gt;
+<p>如果一个理论既没有证据支持，又没有证据反对，又怎么说呢？这时，这个理论或许说的是废话，或许是一种可能性。对与错都无从得知。所以，它不是可以令人言之凿凿的真实。</p>
 
-&lt;p&gt;然而我们并不认为随便一个拉格朗日量给出的动力学，就一定是真的。理论的可靠性还是必须建立在证伪风险之上，这依然是毫无疑问的。实验仍然是物理学的基石。正如前述，每一个理论都仍然将它能给出的预测，当做自己的成功。&lt;/p&gt;
+<p>比如弦论。</p>
 
-&lt;h3 id=&quot;预测和解释&quot;&gt;预测和解释&lt;/h3&gt;
+<h2 id="科学理论如何运作">科学理论如何运作</h2>
 
-&lt;p&gt;正确与实验相符当然是物理理论必然的要求，但我在前一篇文章中提到过物理理论必须有用。一个理论要有用，意味着它必须做出有信息量的论断。比如这个论断是典型的没有信息量的：&lt;/p&gt;
+<p>前一章说到如何从现象中科学地进行归纳，但留了一个很大的问题没有触及，那就是“理论”究竟是怎么建立的。诚然，化学、生物等众多学科几乎都是直接从实验结果进行归纳，更甚者生物学的很多传统领域还在做着以单纯描述现象为主的工作，这些学科建立的逻辑基本都采用了科学归纳法的方式。然而，很多读过某些“科普”著作的人，会有一种错觉，即物理学的理论是从形而上学或者说纯粹哲学的角度出发建立起来的，和实验没什么关系。更甚者，他们看到了有人这样做成功了，于是觉得似乎物理理论是如此容易，以至于自己随便想想就可以拿出个猜想，得到真理。这真是错得很离谱。</p>
 
-&lt;blockquote&gt;
-  &lt;p&gt;明天或者下雨，或者不下雨。&lt;/p&gt;
-&lt;/blockquote&gt;
+<h3 id="历史">历史</h3>
 
-&lt;p&gt;这句话总是正确的，但你却仍然不知道明天的天气是什么。而一个有信息量的论断，应该是这样的：&lt;/p&gt;
+<p>我们先来回顾一下历史。一般认为，物理学真正的开始，是牛顿出版了著名的《自然哲学的数学原理》一书，正式确立了牛顿力学的框架。然而，他的力学理论是源自伽利略对惯性的诸多研究，他的引力理论是源自开普勒三定律。而开普勒三定律，正是开普勒在大量艰苦的天文观测中总结归纳出来的。</p>
 
-&lt;blockquote&gt;
-  &lt;p&gt;明天下雨。&lt;/p&gt;
-&lt;/blockquote&gt;
+<p>随后到十九世纪，经过库伦、毕奥、萨法尔、法拉第等人的大量实验总结，人们对电与磁的认识几乎完全。最终，麦克斯韦将前人的所有工作整合起来，又加入了自己对位移电流的一个假设，形成了电磁学的基本理论：麦克斯韦方程组。随后，麦克斯韦方程组所预言的电磁波被赫兹发现，再后来人们发现光实质上也是一种电磁波。</p>
 
-&lt;p&gt;正因为它不一定正确，所以它将未来天气的可能性缩窄了，而不是呈现给人一句废话。而这样的一句话也正是提供了一个预测。&lt;/p&gt;
+<p>热学早期一直在讨论功与热的关系。随着热功当量的测定，人们终于意识到热无非是也是一种能量形式。对于气体的描述，人们建立起一系列实验定律，如玻意尔定律、亨利定律，最后被克拉伯龙总结形成理想气体状态方程。另一方面，玻尔兹曼从概率统计的角度出发，建立了统计力学。而统计力学给出了更为完备的热学理论。</p>
 
-&lt;p&gt;而物理学的威力，就在于它可以提供预测，比如：&lt;/p&gt;
+<p>人们常常津津乐道的19世纪的两朵乌云，即是两个实验的不吻合：黑体辐射实验与迈克尔逊莫雷实验。基于经典的牛顿物理和统计力学所给出的黑体辐射能谱全部与实验相差很远，此时普朗克无奈之下引入量子的概念，得到了完美吻合的黑体辐射能谱，开始了量子力学发展的进程。而麦克斯韦方程给出的真空光速，是一个不与参考系有关的常数，而MM实验验证了这一点，这有违牛顿力学中关于参考系变换的部分。以此为出发点，爱因斯坦建立了狭义相对论。</p>
 
-&lt;ul&gt;
-  &lt;li&gt;如果你从10m高的真空中放下一个小球，它会在1.4秒后落地。&lt;/li&gt;
-  &lt;li&gt;如果你用长1m的金属棒以1m/s的速度垂直地划过1T的磁场，你会在金属棒两段得到1V的电势差。&lt;/li&gt;
-  &lt;li&gt;如果你测到一堆粒子的自旋朝向正z方向，你接下来会测到它们有一半的自旋朝向正x方向而另一半朝向负x方- 向。&lt;/li&gt;
-  &lt;li&gt;…………………………&lt;/li&gt;
-&lt;/ul&gt;
+<p>此后随着原子实验以至高能物理的发展，人们发现越来越多的新现象。随着早期量子论给出各种错误的结果，薛定谔、海森堡等人终于构建出完善的非相对论性量子力学的框架，但此时以Klein-Gordon方程为代表的相对论性量子力学还有着深刻的问题。随着狄拉克方程的提出，正则量子化的提出，重整化的使用，完美兼容狭义相对论的量子场论框架终于成熟。至此，我们有了描述物理世界的基本理论方法。而费曼提出路径积分使人们理解了量子物理是如何与经典物理相联系的。</p>
 
-&lt;p&gt;每一个论断都提供了足够多的信息，从而让人们在实验中进行对比。虽然实验总会有误差而不精确，但考虑了误差范围之后，我们总可以去检查这些论断，比如：&lt;/p&gt;
+<p>自麦克斯韦方程之后，电磁理论就没有多少需要修改的地方了。将电磁场量子化，得到的量子电动力学可以精确计算出和实验高度吻合的电子反常磁矩。后来随着高能实验的发展，人们终于得以对弱力和强力进行系统的研究，经过四费米子理论和汤川理论，弱电统一理论和夸克模型，最后发展成为标准模型。而这些理论所预测的各种夸克、W波色子和Z波色子，以及最后最重要的Higgs波色子，最终都相继被高能实验发现。</p>
 
-&lt;ul&gt;
-  &lt;li&gt;实验发现小球落地的时间大概在1.2-1.5秒之间。&lt;/li&gt;
-  &lt;li&gt;实验发现电势差大概在0.995-1.003伏特之间。&lt;/li&gt;
-  &lt;li&gt;实验发现正x方向的粒子数目和负x方向的比大概是1:0.99-1:1.01之间。&lt;/li&gt;
-&lt;/ul&gt;
+<p>另一方面，关于引力理论，爱因斯坦从等效原理的考虑出发，建立了广义相对论。随后广义相对论在水星进动、引力红移、引力波的直接观测等实验中得到证据支持。但是当人们发现无法基于广义相对论构建一个描述微观引力作用的量子场论时，便开始了量子引力的研究。虽然爱因斯坦本人也有尝试，但并不成功。经过几十年的发展，人们找到了几种候选理论，大众听得最多的便是弦论，此外还有圈量子引力、声学度规、熵力等等五花八门的理论。但因为引力过于弱小，难以在微观世界体现出作用，以至于实验难以实施，人们现在还没有办法特定出某个理论。</p>
 
-&lt;p&gt;所以我们总可以很自信地拿着这些数据，去设计飞机，设计火箭，设计半导体，设计计算机。但如果有一天，经过细心的实验我们发现：&lt;/p&gt;
+<p>说到这里我想已经很清楚了，物理学的历史发展中无时无刻都离不开实验的影子。而且，事实上，实验和理论的突破总是难以分割的。</p>
 
-&lt;blockquote&gt;
-  &lt;p&gt;月球上小球落地的时间在3.3-3.7秒之间，离1.4秒差了很远。&lt;/p&gt;
-&lt;/blockquote&gt;
+<h3 id="理论">理论</h3>
 
-&lt;p&gt;我们会明白，之前的理论可能出了问题，这时我们不得不回过头检查，是不是有必要修改它，来符合新的实验事实，从而让它有能力预测新的实验。&lt;/p&gt;
+<p>不过说到底，物理理论指的是什么？</p>
 
-&lt;p&gt;所以可以想见，预测对于物理是如此重要，以至于它是保证物理的正确性和有用性的基础。而解释呢？说实话，解释并不是那么重要。&lt;/p&gt;
+<p>它是指一种基于数学的理论系统，通过对描述对象的适当抽象，建立起的一套数学化的系统。它用数学来表述所要研究的对象之间的关系，并对这些方程与现实观测的联系进行简单的诠释。</p>
 
-&lt;p&gt;首先，要“解释”什么事情，其实是非常容易的。比如关于小球在1.4秒后落地的问题的解释：&lt;/p&gt;
+<p>比如说，你如果可以用一堆数字来标记一个系统的状态，比如用x,y,z来标记一个质点的位置，用一个被称为拉格朗日量的函数来抓住这个系统运动的特征，你就可以通过解欧拉-拉格朗日方程极小化一个叫做作用量的东西，来描述这个系统的运动轨迹。这个被成为最小作用量原理的定理，便是理论物理实质上的根基。如果那个函数采用不同的形式，我们便得到了牛顿力学、狭义相对论。</p>
 
-&lt;ul&gt;
-  &lt;li&gt;小球受到重力做匀加速运动。&lt;/li&gt;
-  &lt;li&gt;小球被10个掐着秒表的天使拉着掉下来。&lt;/li&gt;
-  &lt;li&gt;一个挥着魔法棒的家伙用超能力控制着小球在1.4秒的时候落下来。&lt;/li&gt;
-  &lt;li&gt;因为虚空和宇宙之间的万能场的作用，小球做超级测地线运动，于是1.4秒后落地了。&lt;/li&gt;
-  &lt;li&gt;…………………………………………&lt;/li&gt;
-&lt;/ul&gt;
+<p>如果你需要的数字数目（自由度）是无穷的，这时就过渡到场论来描述。麦克斯韦方程、爱因斯坦方程无非都是采用不同的作用量得出来的。如果我们考虑费曼路径积分，以作用量为权重，把所有这些运动路径的贡献都算进去，我们就得到了量子力学。而最终标准模型给出的，也正是这样一个长长的作用量，它包括了三项：弱电相互作用、量子色动力学以及Higgs机制。而大家总以为弦论如何如何，其实也是用同样的框架，给出了一个更复杂的作用量。</p>
 
-&lt;p&gt;当然，除了第一个，其他全是我编的。或许看到那些奇奇怪怪的解释，会有人觉得滑稽，但其实即使是第一种“正统”解释，不也是老师教你的么？那么你怎么知道这个解释是对的其他的都是错的呢？
-更隐蔽的情况就是神创论：&lt;/p&gt;
+<p>这套框架，自从被拉格朗日和哈密顿奠定一来，就没怎么变过。听起来有点奇葩，因为这个框架本身见不到任何实验的影子，似乎真的是神来的。但其实请仔细想，这个框架本身并没有告诉你任何信息，这只是一种表述。当然，这个框架是有用的，它给了我们一个通过对称性找守恒量（诸如能量、动量、角动量、电荷等等）的办法，从这个意义上它的结论仍然是可验证的。蕴含了全部物理信息的，正是那个被成为作用量的泛函，或者说那个拉格朗日量。而这个东西的来源，说不定可能真的是靠猜的。</p>
 
-&lt;blockquote&gt;
-  &lt;p&gt;上帝是万能的，一切都是他创造的。&lt;/p&gt;
-&lt;/blockquote&gt;
+<p>然而我们并不认为随便一个拉格朗日量给出的动力学，就一定是真的。理论的可靠性还是必须建立在证伪风险之上，这依然是毫无疑问的。实验仍然是物理学的基石。正如前述，每一个理论都仍然将它能给出的预测，当做自己的成功。</p>
 
-&lt;p&gt;用这一条假设，你可以解释任何事物而不露出任何破绽：&lt;/p&gt;
+<h3 id="预测和解释">预测和解释</h3>
 
-&lt;ul&gt;
-  &lt;li&gt;为什么我们看不见上帝？因为他是万能的，他可以让我们看不见他。&lt;/li&gt;
-  &lt;li&gt;为什么地球年龄有几十亿年可是上帝创世才是几千年前的事？因为上帝是万能的他可以创造任何年龄的物体。&lt;/li&gt;
-  &lt;li&gt;上帝能不能创造一块他举不起来的石头？你预设有“上帝举不起来的石头”的存在是不对的。&lt;/li&gt;
-  &lt;li&gt;……………………………………………………&lt;/li&gt;
-&lt;/ul&gt;
+<p>正确与实验相符当然是物理理论必然的要求，但我在前一篇文章中提到过物理理论必须有用。一个理论要有用，意味着它必须做出有信息量的论断。比如这个论断是典型的没有信息量的：</p>
 
-&lt;p&gt;这些解释很完美，但是毫无用途。它不会告诉你任何有信息量的论断，你依然无法从中知道诸如明天的天气、火箭升空需要的燃料、飞机最适合飞行的形状等事情。&lt;/p&gt;
+<blockquote>
+  <p>明天或者下雨，或者不下雨。</p>
+</blockquote>
 
-&lt;p&gt;再比如很多人以为量子引力的困难在于人不够聪明掌握不了那么高深的东西。真的是这样么？我曾与一位做理论物理的大牛同学做过一次简单的讨论，得到的回答差不多是这样的：&lt;/p&gt;
+<p>这句话总是正确的，但你却仍然不知道明天的天气是什么。而一个有信息量的论断，应该是这样的：</p>
 
-&lt;blockquote&gt;
-  &lt;p&gt;你以为这很难吗？这在理论上一点都不难。理论总有办法来解释东西的。&lt;/p&gt;
-&lt;/blockquote&gt;
+<blockquote>
+  <p>明天下雨。</p>
+</blockquote>
 
-&lt;p&gt;事实上也确实如此。处理量子引力我们并不是没有理论，弦论、圈量子等等都是可能的理论。但这个境地说白了，是因为我们还无法在实验室里在量子的尺度下让引力现象凸显出来，所以没办法验证这些理论。相应的，高温超导真的是没有理论吗？不，恰恰相反。高温超导理论太多了，这几百种互不相同的理论且不说能不能符合所有的实验结果，即使有50个符合现有所有实验的理论，一个个设计实验验证去区别它们也几乎不可能。&lt;/p&gt;
+<p>正因为它不一定正确，所以它将未来天气的可能性缩窄了，而不是呈现给人一句废话。而这样的一句话也正是提供了一个预测。</p>
 
-&lt;p&gt;更极端的情况，就是量子力学的诠释问题。众所周知量子力学的解释实际上是个悬而未决的问题，自它诞生以来，从哥本哈根诠释到多重宇宙诠释，我们已经有十多种诠释量子力学的方法。具体可以参见wiki条目：&lt;a href=&quot;https://en.wikipedia.org/wiki/Interpretations_of_quantum_mechanics&quot;&gt;Interpretations of quantum mechanics&lt;/a&gt;。这些诠释，除了个别的（比如局域隐变量理论）会给出可测量的差别以外，在公式上没有任何差别，差别只在于如何解释这些公式。但是，除了作为茶余饭后的谈资和刷牙洗脸时的随想，这个问题并不被物理学家关心。因为尽管解释不确定，如果我们没法在实验中分别它们，就没有任何作用，并不影响我们的使用。&lt;/p&gt;
+<p>而物理学的威力，就在于它可以提供预测，比如：</p>
 
-&lt;p&gt;所以，解释真的不是一件重要的事情。&lt;/p&gt;
+<ul>
+  <li>如果你从10m高的真空中放下一个小球，它会在1.4秒后落地。</li>
+  <li>如果你用长1m的金属棒以1m/s的速度垂直地划过1T的磁场，你会在金属棒两段得到1V的电势差。</li>
+  <li>如果你测到一堆粒子的自旋朝向正z方向，你接下来会测到它们有一半的自旋朝向正x方向而另一半朝向负x方- 向。</li>
+  <li>…………………………</li>
+</ul>
 
-&lt;p&gt; &lt;/p&gt;
+<p>每一个论断都提供了足够多的信息，从而让人们在实验中进行对比。虽然实验总会有误差而不精确，但考虑了误差范围之后，我们总可以去检查这些论断，比如：</p>
 
-&lt;p&gt;当然，我也曾听过不同观点，比如UCI做Systems Biology的Arthur D. Lander教授，他在讲课时说起这样一个观点，他认为对于模型而言，预测也并不一定是最重要的，比如：&lt;/p&gt;
+<ul>
+  <li>实验发现小球落地的时间大概在1.2-1.5秒之间。</li>
+  <li>实验发现电势差大概在0.995-1.003伏特之间。</li>
+  <li>实验发现正x方向的粒子数目和负x方向的比大概是1:0.99-1:1.01之间。</li>
+</ul>
 
-&lt;blockquote&gt;
-  &lt;p&gt;如果给你一个黑盒子，里面装着一台超级电脑。你想知道什么，你只需要问它，它就会告诉你正确答案。于是你得到你想要的预测了，但你明白了什么？什么也不明白。所以，尽管没有预测，能提供解释，也是模型的价值所在。&lt;/p&gt;
-&lt;/blockquote&gt;
+<p>所以我们总可以很自信地拿着这些数据，去设计飞机，设计火箭，设计半导体，设计计算机。但如果有一天，经过细心的实验我们发现：</p>
 
-&lt;p&gt;我不知道他说这样的观点是不是为了让自己更容易发表理论文章，但我想他的观点还是隐含了一个前提：&lt;/p&gt;
+<blockquote>
+  <p>月球上小球落地的时间在3.3-3.7秒之间，离1.4秒差了很远。</p>
+</blockquote>
 
-&lt;ul&gt;
-  &lt;li&gt;你的模型是基于已经验证成熟的理论建立起来的。&lt;/li&gt;
-&lt;/ul&gt;
+<p>我们会明白，之前的理论可能出了问题，这时我们不得不回过头检查，是不是有必要修改它，来符合新的实验事实，从而让它有能力预测新的实验。</p>
 
-&lt;p&gt;或者&lt;/p&gt;
+<p>所以可以想见，预测对于物理是如此重要，以至于它是保证物理的正确性和有用性的基础。而解释呢？说实话，解释并不是那么重要。</p>
 
-&lt;ul&gt;
-  &lt;li&gt;你的方法论是可以验证的。&lt;/li&gt;
-&lt;/ul&gt;
+<p>首先，要“解释”什么事情，其实是非常容易的。比如关于小球在1.4秒后落地的问题的解释：</p>
 
-&lt;p&gt;否则，还是避不开那个老问题：你的模型和上帝是万能的针尖上有10个天使在跳舞有什么区别呢？&lt;/p&gt;
+<ul>
+  <li>小球受到重力做匀加速运动。</li>
+  <li>小球被10个掐着秒表的天使拉着掉下来。</li>
+  <li>一个挥着魔法棒的家伙用超能力控制着小球在1.4秒的时候落下来。</li>
+  <li>因为虚空和宇宙之间的万能场的作用，小球做超级测地线运动，于是1.4秒后落地了。</li>
+  <li>…………………………………………</li>
+</ul>
 
-&lt;p&gt;何况我想，如果真有那样一个黑盒子，说不定我们真的能理解些什么呢。&lt;/p&gt;
+<p>当然，除了第一个，其他全是我编的。或许看到那些奇奇怪怪的解释，会有人觉得滑稽，但其实即使是第一种“正统”解释，不也是老师教你的么？那么你怎么知道这个解释是对的其他的都是错的呢？
+更隐蔽的情况就是神创论：</p>
 
-&lt;h2 id=&quot;什么是力学&quot;&gt;什么是力学&lt;/h2&gt;
+<blockquote>
+  <p>上帝是万能的，一切都是他创造的。</p>
+</blockquote>
 
-&lt;h3 id=&quot;力学&quot;&gt;力学&lt;/h3&gt;
+<p>用这一条假设，你可以解释任何事物而不露出任何破绽：</p>
 
-&lt;p&gt;曾经有一个中科院的教授来HKU，零零散散大讲了一番“什么是物理”。室友觉得似乎这个问题该由一个诺奖级的人物来讲比较合适，仅仅是个普通的教授好像不够格谈这么高深的问题。不过大概身在其中，对这个问题没有点儿看法是不可能的。&lt;/p&gt;
+<ul>
+  <li>为什么我们看不见上帝？因为他是万能的，他可以让我们看不见他。</li>
+  <li>为什么地球年龄有几十亿年可是上帝创世才是几千年前的事？因为上帝是万能的他可以创造任何年龄的物体。</li>
+  <li>上帝能不能创造一块他举不起来的石头？你预设有“上帝举不起来的石头”的存在是不对的。</li>
+  <li>……………………………………………………</li>
+</ul>
 
-&lt;p&gt;此教授谈到一件很有意思的事情。他认为“力学（Mechanics）”一词，是一种误翻。因为Mechanics一词应当源于“机械”一词，所以似乎叫“机械学”或“机制学”更贴切一点。而事实上“力学”，诸如量子力学（Quantum Mechanics），和“力”并无关系，它们关心的，是内在的原理和机制。&lt;/p&gt;
+<p>这些解释很完美，但是毫无用途。它不会告诉你任何有信息量的论断，你依然无法从中知道诸如明天的天气、火箭升空需要的燃料、飞机最适合飞行的形状等事情。</p>
 
-&lt;p&gt;这大概也是为何即使很少谈“力”，物理学也到处都是“力学”（虽然不一定是Mechanics，还有可能是Dynamics）。物理学，虽然大概没有绝对的定义，但它的研究范畴大体是物体的运动，以及运动的内在机制。这里的运动的涵义我采取的是广义的“运动”，即“变化”。在这个意义下，广义看来，自然界的万物几乎没什么不是物理。于是，近几十年来，大批的物理学家开始涌向天文、地理、化学、生物以至于经济学等等领域，去用“狭义”物理的方法论研究其中的“力学”。&lt;/p&gt;
+<p>再比如很多人以为量子引力的困难在于人不够聪明掌握不了那么高深的东西。真的是这样么？我曾与一位做理论物理的大牛同学做过一次简单的讨论，得到的回答差不多是这样的：</p>
 
-&lt;h3 id=&quot;运动学和动力学&quot;&gt;运动学和动力学&lt;/h3&gt;
+<blockquote>
+  <p>你以为这很难吗？这在理论上一点都不难。理论总有办法来解释东西的。</p>
+</blockquote>
 
-&lt;p&gt;既然说要研究“变化”，那么应该怎么着手呢？嗯，粗略想来，大体上应该可以分为3个部分：&lt;/p&gt;
+<p>事实上也确实如此。处理量子引力我们并不是没有理论，弦论、圈量子等等都是可能的理论。但这个境地说白了，是因为我们还无法在实验室里在量子的尺度下让引力现象凸显出来，所以没办法验证这些理论。相应的，高温超导真的是没有理论吗？不，恰恰相反。高温超导理论太多了，这几百种互不相同的理论且不说能不能符合所有的实验结果，即使有50个符合现有所有实验的理论，一个个设计实验验证去区别它们也几乎不可能。</p>
 
-&lt;ul&gt;
-  &lt;li&gt;什么东西变化；&lt;/li&gt;
-  &lt;li&gt;怎么变化；&lt;/li&gt;
-  &lt;li&gt;为什么变化。&lt;/li&gt;
-&lt;/ul&gt;
+<p>更极端的情况，就是量子力学的诠释问题。众所周知量子力学的解释实际上是个悬而未决的问题，自它诞生以来，从哥本哈根诠释到多重宇宙诠释，我们已经有十多种诠释量子力学的方法。具体可以参见wiki条目：<a href="https://en.wikipedia.org/wiki/Interpretations_of_quantum_mechanics">Interpretations of quantum mechanics</a>。这些诠释，除了个别的（比如局域隐变量理论）会给出可测量的差别以外，在公式上没有任何差别，差别只在于如何解释这些公式。但是，除了作为茶余饭后的谈资和刷牙洗脸时的随想，这个问题并不被物理学家关心。因为尽管解释不确定，如果我们没法在实验中分别它们，就没有任何作用，并不影响我们的使用。</p>
 
-&lt;p&gt;为了回答前两个问题，我们需要一套体系，来描述研究对象的状态以及状态随时间的变化。而这个体系，通常是定量的，我们称之为运动学（Kinematics）。我们要求运动学可以精确地表示研究对象在某个时刻的状态，而不满足于自然语言模棱两可的描述。比如&lt;/p&gt;
+<p>所以，解释真的不是一件重要的事情。</p>
 
-&lt;blockquote&gt;
-  &lt;p&gt;小球跑得很快&lt;/p&gt;
+<p> </p>
 
-  &lt;p&gt;小球在那里晃晃悠悠&lt;/p&gt;
-&lt;/blockquote&gt;
+<p>当然，我也曾听过不同观点，比如UCI做Systems Biology的Arthur D. Lander教授，他在讲课时说起这样一个观点，他认为对于模型而言，预测也并不一定是最重要的，比如：</p>
 
-&lt;p&gt;这样的说法是不被接受的。我们要的是类似这样的说法：&lt;/p&gt;
+<blockquote>
+  <p>如果给你一个黑盒子，里面装着一台超级电脑。你想知道什么，你只需要问它，它就会告诉你正确答案。于是你得到你想要的预测了，但你明白了什么？什么也不明白。所以，尽管没有预测，能提供解释，也是模型的价值所在。</p>
+</blockquote>
 
-&lt;blockquote&gt;
-  &lt;p&gt;一个半径2cm的小球，球心相对给定的参考系在(0,1m,3m)的位置上，球上所有点的速度相对此参考系均为(3m/s,2m/s,1m/s)&lt;/p&gt;
-&lt;/blockquote&gt;
+<p>我不知道他说这样的观点是不是为了让自己更容易发表理论文章，但我想他的观点还是隐含了一个前提：</p>
 
-&lt;p&gt;运动学仅仅描述运动，暂且不关心运动的原因。但有了运动学，我们可以在其中加上一些规律，来描述改变运动的原因，从而回答第三个问题。而这些描述，我们称为动力学（Dynamics）。于是有了运动学和动力学，我们就可以描述变化这件事了。比如：&lt;/p&gt;
+<ul>
+  <li>你的模型是基于已经验证成熟的理论建立起来的。</li>
+</ul>
 
-&lt;ul&gt;
-  &lt;li&gt;经典物理中，我们用某个数学空间中的一组坐标，来描述粒子或粒子系在时间和空间中的位置（即粒子的状态），用系综来描述宏观多粒子系统对应的所有微观状态，用空间中的点到实数（或矢量、张量）的函数，来描述场。相应空间的性质和需要用到的数学对象（如矢量、张量）的性质，给出了我们想要的运动学。而动力学则由泊松括号配合哈密顿量的具体形式给出。&lt;/li&gt;
-  &lt;li&gt;量子力学中，我们用希尔伯特空间中的矢量来描述粒子系统的状态，或者用Fock空间中的矢量来描述多粒子系统和场，而用算符来描述可以观测到的物理量。虽然我们很少提到运动学这一词，但这种描述所依托的复空间线性代数本身就是它的运动学。而动力学，则由海森堡方程配合哈密顿量的具体形式给出。&lt;/li&gt;
-&lt;/ul&gt;
+<p>或者</p>
 
-&lt;h3 id=&quot;唯理与唯象&quot;&gt;唯理与唯象&lt;/h3&gt;
+<ul>
+  <li>你的方法论是可以验证的。</li>
+</ul>
 
-&lt;p&gt;至今为止所能确认的绝大多数物质都是由粒子构成的（我们现在大概还没有证据表明现今最小的几种粒子还有更精细的结构），至今为止所发现的相互作用也只有四种。原则上，随便拿来一个系统，如果我们知道所有粒子和场的状态，记入所有粒子和场之间的相互作用，我们就知道这个系统如何运作了。这种考虑问题的方式可以称为唯理。&lt;/p&gt;
+<p>否则，还是避不开那个老问题：你的模型和上帝是万能的针尖上有10个天使在跳舞有什么区别呢？</p>
 
-&lt;p&gt;但当然，多数情况下这实际上是行不通的。不论是应用范围最广但最复杂的量子场论，还是应用范围最窄但是最简单的牛顿力学，都无法处理这其中复杂的数学。而我们也没有那么好的测量手段能测到每一个粒子的状态。我们现在只能在少数情况下完全用唯理的方式处理问题，比如粒子数极少（2个及以下），或粒子数极多（足够做统计）；比如粒子之间没有相互作用（如理想气体），或粒子之间相互作用极强（比如刚体和弹性体）；比如粒子排列完全不需要考虑（如均匀连续介质），或粒子排列非常有规律（比如晶体）。而且即使如此也仍然不可避免需要引入一些近似。&lt;/p&gt;
+<p>何况我想，如果真有那样一个黑盒子，说不定我们真的能理解些什么呢。</p>
 
-&lt;p&gt;这种处理复杂系统的困难，使我们不可避免地需要唯象：从对现象的直接描述出发，来找出一些实验定律。比如热力学，并不从微观粒子的热运动出发来考虑宏观物体的热效应，而从宏观可以测量到的温度、压强、体积、化学势、形变等等物理量出发，通过实验确立状态方程，运用能量函数（内能、焓、自由能、自由焓）来得到一些有用的分析。再如波动光学中即使不去解麦克斯韦方程，仅仅用复振幅，也足以分析诸如干涉、衍射、全息等等现象。&lt;/p&gt;
+<h2 id="什么是力学">什么是力学</h2>
 
-&lt;p&gt;诚然，理论物理可以把自己唯象的部分隐藏得越来越深，比如电磁势完全可以描述成拉格朗日量为满足\(U(1)\)规范不变性而在场的导数定义中所加入的联络，而电磁场无非是这个联络的曲率，把电磁相互作用描述成一个几何现象（见Dubrovin《现代几何学》第一卷41节）。但依然可以说所有的物理理论都是唯象的，只是唯象的部分不同、程度不同而已。毕竟物理需要描述自然世界，总得有什么规律是来自对现象的总结。&lt;/p&gt;
+<h3 id="力学">力学</h3>
 
-&lt;p&gt;物理的唯象在某些人看来，是体现了物理对所谓“本原”问题的乏力，但我不并会因此而考虑神学或是其它什么。因为如果“本原”这个东西没有任何影响，我并不觉得我们会需要这么一个生造的概念。世界就是如此，又有何不可？&lt;/p&gt;</content><author><name>Yongfeng Zhao</name></author><category term="cn" /><summary type="html">注：这一系列文章是多年以前为了让大众了解科学的基本概念而写的，曾经发表在我个人的知乎专栏中。在我看来，科学作为一个方法论，比起任何一条具体的知识都要重要得多。我希望更多人能理解这一点并有所思考，以增加自己面对信息时代巨量数据时的判断能力，避免一些悲剧的发生，因而写下了这些文章。水平有限，可能有很多辞不达意的地方。</summary></entry></feed>
+<p>曾经有一个中科院的教授来HKU，零零散散大讲了一番“什么是物理”。室友觉得似乎这个问题该由一个诺奖级的人物来讲比较合适，仅仅是个普通的教授好像不够格谈这么高深的问题。不过大概身在其中，对这个问题没有点儿看法是不可能的。</p>
+
+<p>此教授谈到一件很有意思的事情。他认为“力学（Mechanics）”一词，是一种误翻。因为Mechanics一词应当源于“机械”一词，所以似乎叫“机械学”或“机制学”更贴切一点。而事实上“力学”，诸如量子力学（Quantum Mechanics），和“力”并无关系，它们关心的，是内在的原理和机制。</p>
+
+<p>这大概也是为何即使很少谈“力”，物理学也到处都是“力学”（虽然不一定是Mechanics，还有可能是Dynamics）。物理学，虽然大概没有绝对的定义，但它的研究范畴大体是物体的运动，以及运动的内在机制。这里的运动的涵义我采取的是广义的“运动”，即“变化”。在这个意义下，广义看来，自然界的万物几乎没什么不是物理。于是，近几十年来，大批的物理学家开始涌向天文、地理、化学、生物以至于经济学等等领域，去用“狭义”物理的方法论研究其中的“力学”。</p>
+
+<h3 id="运动学和动力学">运动学和动力学</h3>
+
+<p>既然说要研究“变化”，那么应该怎么着手呢？嗯，粗略想来，大体上应该可以分为3个部分：</p>
+
+<ul>
+  <li>什么东西变化；</li>
+  <li>怎么变化；</li>
+  <li>为什么变化。</li>
+</ul>
+
+<p>为了回答前两个问题，我们需要一套体系，来描述研究对象的状态以及状态随时间的变化。而这个体系，通常是定量的，我们称之为运动学（Kinematics）。我们要求运动学可以精确地表示研究对象在某个时刻的状态，而不满足于自然语言模棱两可的描述。比如</p>
+
+<blockquote>
+  <p>小球跑得很快</p>
+
+  <p>小球在那里晃晃悠悠</p>
+</blockquote>
+
+<p>这样的说法是不被接受的。我们要的是类似这样的说法：</p>
+
+<blockquote>
+  <p>一个半径2cm的小球，球心相对给定的参考系在(0,1m,3m)的位置上，球上所有点的速度相对此参考系均为(3m/s,2m/s,1m/s)</p>
+</blockquote>
+
+<p>运动学仅仅描述运动，暂且不关心运动的原因。但有了运动学，我们可以在其中加上一些规律，来描述改变运动的原因，从而回答第三个问题。而这些描述，我们称为动力学（Dynamics）。于是有了运动学和动力学，我们就可以描述变化这件事了。比如：</p>
+
+<ul>
+  <li>经典物理中，我们用某个数学空间中的一组坐标，来描述粒子或粒子系在时间和空间中的位置（即粒子的状态），用系综来描述宏观多粒子系统对应的所有微观状态，用空间中的点到实数（或矢量、张量）的函数，来描述场。相应空间的性质和需要用到的数学对象（如矢量、张量）的性质，给出了我们想要的运动学。而动力学则由泊松括号配合哈密顿量的具体形式给出。</li>
+  <li>量子力学中，我们用希尔伯特空间中的矢量来描述粒子系统的状态，或者用Fock空间中的矢量来描述多粒子系统和场，而用算符来描述可以观测到的物理量。虽然我们很少提到运动学这一词，但这种描述所依托的复空间线性代数本身就是它的运动学。而动力学，则由海森堡方程配合哈密顿量的具体形式给出。</li>
+</ul>
+
+<h3 id="唯理与唯象">唯理与唯象</h3>
+
+<p>至今为止所能确认的绝大多数物质都是由粒子构成的（我们现在大概还没有证据表明现今最小的几种粒子还有更精细的结构），至今为止所发现的相互作用也只有四种。原则上，随便拿来一个系统，如果我们知道所有粒子和场的状态，记入所有粒子和场之间的相互作用，我们就知道这个系统如何运作了。这种考虑问题的方式可以称为唯理。</p>
+
+<p>但当然，多数情况下这实际上是行不通的。不论是应用范围最广但最复杂的量子场论，还是应用范围最窄但是最简单的牛顿力学，都无法处理这其中复杂的数学。而我们也没有那么好的测量手段能测到每一个粒子的状态。我们现在只能在少数情况下完全用唯理的方式处理问题，比如粒子数极少（2个及以下），或粒子数极多（足够做统计）；比如粒子之间没有相互作用（如理想气体），或粒子之间相互作用极强（比如刚体和弹性体）；比如粒子排列完全不需要考虑（如均匀连续介质），或粒子排列非常有规律（比如晶体）。而且即使如此也仍然不可避免需要引入一些近似。</p>
+
+<p>这种处理复杂系统的困难，使我们不可避免地需要唯象：从对现象的直接描述出发，来找出一些实验定律。比如热力学，并不从微观粒子的热运动出发来考虑宏观物体的热效应，而从宏观可以测量到的温度、压强、体积、化学势、形变等等物理量出发，通过实验确立状态方程，运用能量函数（内能、焓、自由能、自由焓）来得到一些有用的分析。再如波动光学中即使不去解麦克斯韦方程，仅仅用复振幅，也足以分析诸如干涉、衍射、全息等等现象。</p>
+
+<p>诚然，理论物理可以把自己唯象的部分隐藏得越来越深，比如电磁势完全可以描述成拉格朗日量为满足\(U(1)\)规范不变性而在场的导数定义中所加入的联络，而电磁场无非是这个联络的曲率，把电磁相互作用描述成一个几何现象（见Dubrovin《现代几何学》第一卷41节）。但依然可以说所有的物理理论都是唯象的，只是唯象的部分不同、程度不同而已。毕竟物理需要描述自然世界，总得有什么规律是来自对现象的总结。</p>
+
+<p>物理的唯象在某些人看来，是体现了物理对所谓“本原”问题的乏力，但我不并会因此而考虑神学或是其它什么。因为如果“本原”这个东西没有任何影响，我并不觉得我们会需要这么一个生造的概念。世界就是如此，又有何不可？</p>]]></content><author><name>Yongfeng Zhao</name></author><category term="cn" /><summary type="html"><![CDATA[注：这一系列文章是多年以前为了让大众了解科学的基本概念而写的，曾经发表在我个人的知乎专栏中。在我看来，科学作为一个方法论，比起任何一条具体的知识都要重要得多。我希望更多人能理解这一点并有所思考，以增加自己面对信息时代巨量数据时的判断能力，避免一些悲剧的发生，因而写下了这些文章。水平有限，可能有很多辞不达意的地方。]]></summary></entry></feed>
