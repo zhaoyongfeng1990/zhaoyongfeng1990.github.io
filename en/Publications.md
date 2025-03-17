@@ -22,11 +22,11 @@ permalink: /en/publications/
 <h2>Published articles</h2>
 <ol>
 
-<li>Yu’an Li, <strong>Yongfeng Zhao</strong>, Siyuan Yang, Min Tang#, and Hepeng Zhang#, "<em>Biased Lévy walk enables light gradient sensing in Euglena gracilis</em>", accepted by Phys. Rev. Lett. (2025) </li>
+<li>Yu’an Li, <strong>Yongfeng Zhao</strong>, Siyuan Yang, Min Tang#, and Hepeng Zhang#, "<em>Biased Lévy walk enables light gradient sensing in Euglena gracilis</em>", Phys. Rev. Lett. 134, 108301 (2025) </li>
 
-<a href="https://journals.aps.org/prl/accepted/0007dY15G4a1339823e734a416863add80d8e4560">Phys. Rev. Lett.</a>
+<a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.108301">Phys. Rev. Lett.</a>
 
-<li>Zihui Zhao, He Li, Yisong Yao, <strong>Yongfeng Zhao</strong>, Francesca Serra, Kyogo Kawaguchi, Hepeng Zhang, Masaki Sano#, "<em>Integer topological defects offer a methodology to quantify and classify active cell monolayers</em>", Nature Communications 16, 2452 (2024). </li>
+<li>Zihui Zhao, He Li, Yisong Yao, <strong>Yongfeng Zhao</strong>, Francesca Serra, Kyogo Kawaguchi, Hepeng Zhang, Masaki Sano#, "<em>Integer topological defects offer a methodology to quantify and classify active cell monolayers</em>", Nature Communications 16, 2452 (2025). </li>
 
 <a href="https://www.biorxiv.org/content/10.1101/2024.08.28.610106v1">Preprint</a>, <a href="https://www.nature.com/articles/s41467-025-57783-w">Nat. Commun.</a>
 
