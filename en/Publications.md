@@ -22,6 +22,10 @@ permalink: /en/publications/
 <h2>Published articles</h2>
 <ol>
 
+<li>Alexandre Solon#, <strong>Yongfeng Zhao</strong>, "<em>The surprising physics of interfaces in active matter</em>", Chin. Phys. Lett., 42(10): 100901 (2025) (perspective)</li>
+
+<a href="https://cpl.iphy.ac.cn/article/doi/10.1088/0256-307X/42/10/100901">Chin. Phys. Lett.</a>
+
 <li>Yu’an Li, <strong>Yongfeng Zhao</strong>, Siyuan Yang, Min Tang#, and Hepeng Zhang#, "<em>Biased Lévy walk enables light gradient sensing in Euglena gracilis</em>", Phys. Rev. Lett. 134, 108301 (2025) </li>
 
 <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.108301">Phys. Rev. Lett.</a>
@@ -56,6 +60,12 @@ Integer Topological Defects Reveal Effective Forces in Active Nematics</em>", Ph
 
 <a href="https://arxiv.org/abs/2203.07757">Preprint</a>, <a href="https://www.nature.com/articles/s41467-023-42713-5">Nat. Commun.</a>
 
+
+<li>Jérémy O'Byrne, Alexandre Solon, Julien Tailleur#, <strong>Yongfeng Zhao</strong>, "<em>An Introduction to Motility-Induced Phase Separation</em>", Chapter in the book "Out-of-Equilibrium Soft Matter: Active Fluids". Editors: C. Kurzthaler, L. Gentile, H. A. Stone. Royal Society of Chemistry (2023) (book chapter)</li>
+
+<a href="https://arxiv.org/abs/2112.03979">Preprint</a> 
+
+
 <li>Zeng Tao Liu, Yan Shi, <strong>Yongfeng Zhao</strong>, Hugues Chaté#, Xia-qing Shi#, Tian Hui Zhang#, "<em>Subcritical active matter: Activity waves and freestanding vortices</em>", Proc. Natl. Acad. Sci. 118 (40) e2104724118 (2021).  </li>
 
 <a href="https://doi.org/10.1073/pnas.2104724118">Proc. Natl. Acad. Sci.</a>
@@ -79,16 +89,6 @@ Integer Topological Defects Reveal Effective Forces in Active Nematics</em>", Ph
 <li>Thibault Bertrand#, <strong>Yongfeng Zhao</strong>, Olivier Bénichou, Julien Tailleur, Raphaël Voituriez#, “<em>Optimized Diffusion of Run-and-Tumble Particles in Crowded Environments</em>”, Phys. Rev. Lett. 120, 198103 (2018). </li> 
 
 <a href="https://arxiv.org/pdf/1711.05209">Preprint</a>, <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.120.198103">Phys. Rev. Lett.</a>
-
-</ol>
-
-<h2>Book Chapters</h2>
-
-<ol>
-
-<li>Jérémy O'Byrne, Alexandre Solon, Julien Tailleur#, <strong>Yongfeng Zhao</strong>, "<em>An Introduction to Motility-Induced Phase Separation</em>", Chapter in the book "Out-of-Equilibrium Soft Matter: Active Fluids". Editors: C. Kurzthaler, L. Gentile, H. A. Stone. Royal Society of Chemistry (2023)</li>
-
-<a href="https://arxiv.org/abs/2112.03979">Preprint</a> 
 
 </ol>
 
