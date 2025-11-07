@@ -26,11 +26,11 @@ permalink: /en/publications/
 <h2>Published articles</h2>
 <ol>
 
-<li>Alexandre Solon#, <strong>Yongfeng Zhao</strong>, "<em>The surprising physics of interfaces in active matter</em>", Chin. Phys. Lett., 42(10): 100901 (2025) (perspective)</li>
+<li>Alexandre Solon, <strong>Yongfeng Zhao</strong>#, "<em>The surprising physics of interfaces in active matter</em>", Chin. Phys. Lett., 42(10): 100901 (2025) (perspective).</li>
 
 <a href="https://cpl.iphy.ac.cn/article/doi/10.1088/0256-307X/42/10/100901">Chin. Phys. Lett.</a>
 
-<li>Yu’an Li, <strong>Yongfeng Zhao</strong>, Siyuan Yang, Min Tang#, and Hepeng Zhang#, "<em>Biased Lévy walk enables light gradient sensing in Euglena gracilis</em>", Phys. Rev. Lett. 134, 108301 (2025) </li>
+<li>Yu’an Li, <strong>Yongfeng Zhao</strong>, Siyuan Yang, Min Tang#, and Hepeng Zhang#, "<em>Biased Lévy walk enables light gradient sensing in Euglena gracilis</em>", Phys. Rev. Lett. 134, 108301 (2025). </li>
 
 <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.108301">Phys. Rev. Lett.</a>
 
