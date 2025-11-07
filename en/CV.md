@@ -63,6 +63,11 @@ A Mathematical Model For the Decision-making Process of CD4+ T cell System By An
 <h2>Talks</h2>
 <h3>Conference invited talks</h3>
 <ul>
+
+<li>2025.11.01, "The active Young-Dupré equation", The 3rd National Symposium on Active Soft Matter Physics 2025.</li>
+
+<li>2025.04.22, "The active Young-Dupré equation", Workshop on soft matter physics and Interdisciplinary science (软物质物理交叉学科研讨会).</li>
+
 <li>2024.12.27, "Non-reciprocity across scales in active mixtures", Workshop on non-Hermitian and active matter (非厄米与活性物质小型研讨会).</li>
 
 <li>2024.11.09, "Characterization and control of the run-and-tumble dynamics of Escherichia coli", Active soft matter symposium.</li>
@@ -88,6 +93,7 @@ A Mathematical Model For the Decision-making Process of CD4+ T cell System By An
 
 <h3>Conference contributed talks</h3>
 <ul>
+<li>2025.08.01，"First-passage-time problems in active matter", The 8th National Conference of Statistical Physics and Complex Syetems (第八届全国统计物理与复杂系统学术会议). </li>
 <li>2023.08.20，"Characterization and Control of the Run-and-Tumble Dynamics of Escherichia Coli", CPS Fall Meeting 2023. </li>
 <li>2023.08.07，"Surface tensions in active fluids", 28th International Conference on Statistical Physics (STATPHYS28), soft matter session. </li>
 <li>2023.08.01，"Surface tensions in active fluids", Frontiers in nonequilibrium physics: active matter, topology and beyond. </li>
@@ -105,6 +111,7 @@ A Mathematical Model For the Decision-making Process of CD4+ T cell System By An
 <h3>Personal invited talks</h3>
 <ul>
 
+<li>2025.05.23, "The active Young-Dupré equation", Northwest University, Xi'an.</li>
 <li>2024.11.21, “Surface tensions in active fluids”, Statistical Physics and Soft Matter Seminar, online.</li>
 <li>2024.05.21, “Surface tensions in active fluids”, Southeast University, Nanjing.</li>
 <li>2023.09.10, “Surface tensions in active fluids”, online talk.</li>

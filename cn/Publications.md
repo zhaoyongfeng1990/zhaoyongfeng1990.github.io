@@ -14,6 +14,10 @@ permalink: /cn/publications/
 
 <ol>
 
+<li>Mingyang Li, Yu'an Li#, H. P. Zhang, <strong>Yongfeng Zhao</strong>#, "<em>Detecting active Lévy particles using differential dynamic microscopy</em>", arXiv:2511.00775 (2025).</li>
+
+<a href="https://arxiv.org/abs/2511.00775">Preprint</a>
+
 <li><strong>Yongfeng Zhao</strong>#, Ruben Zakine, Adrian Daerr, Yariv Kafri, Julien Tailleur, Frédéric van Wijland, "<em>Active Young-Dupré Equation: How Self-organized Currents Stabilize Partial Wetting</em>", arXiv:2405.20651 (2024). </li>
 
 <a href="https://arxiv.org/abs/2405.20651">Preprint</a>

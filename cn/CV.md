@@ -67,6 +67,10 @@ Run-and-tumble Motion and Differential Dynamic Microscopy<br>
 <h3>会议邀请演讲</h3>
 <ul>
 
+<li>2025.11.01，"The active Young-Dupré equation"，第三届全国活性软物质会议。</li>
+
+<li>2025.04.22，"The active Young-Dupré equation"，软物质物理交叉学科研讨会。</li>
+
 <li>2024.12.27，"Non-reciprocity across scales in active mixtures"，非厄米与活性物质小型研讨会。</li>
 
 <li>2024.11.09，"Characterization and control of the run-and-tumble dynamics of Escherichia coli"，深圳活性软物质研讨会。</li>
@@ -92,6 +96,7 @@ Run-and-tumble Motion and Differential Dynamic Microscopy<br>
 
 <h3>会议一般演讲</h3>
 <ul>
+<li>2025.08.01，"First-passage-time problems in active matter"，第八届全国统计物理与复杂系统学术会议，软物质与自组装、活性物质、液体物理分会场。</li>
 <li>2023.08.20，"刻画与控制大肠杆菌的游动-翻转动力学"，中国物理学会2023秋季会议，软凝聚态物理与生物物理分会场。</li>
 <li>2023.08.07，"Surface tensions in active fluids"，第28届国际统计物理会议（STATPHYS28），软物质分会场。</li>
 <li>2023.08.01，"Surface tensions in active fluids"，Frontiers in nonequilibrium physics: active matter, topology and beyond。</li>
@@ -109,6 +114,7 @@ Run-and-tumble Motion and Differential Dynamic Microscopy<br>
 <h3>个人邀请演讲</h3>
 <ul>
 
+<li>2025.05.23，"The active Young-Dupré equation"，西北大学，西安。</li>
 <li>2024.11.21, “Surface tensions in active fluids”, Statistical Physics and Soft Matter Seminar, online.</li>
 <li>2024.05.21, “Surface tensions in active fluids”, Southeast University, Nanjing.</li>
 <li>2023.09.10, “Surface tensions in active fluids”, online talk.</li>
