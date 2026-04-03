@@ -22,7 +22,7 @@ permalink: /en/publications/
 <h2>Published articles</h2>
 <ol>
 
-<li><strong>Yongfeng Zhao</strong>#, Ruben Zakine, Adrian Daerr, Yariv Kafri, Julien Tailleur, Frédéric van Wijland, "<em>Wetting by active fluids</em>", Nat. Phys (2026). </li>
+<li><strong>Yongfeng Zhao</strong>#, Ruben Zakine, Adrian Daerr, Yariv Kafri, Julien Tailleur, Frédéric van Wijland, "<em>Wetting by active fluids</em>", Nat. Phys. (2026). </li>
 
 <a href="https://arxiv.org/abs/2405.20651">Preprint</a>, <a href="https://www.nature.com/articles/s41567-026-03208-4">Nat. Phys.</a>
 
