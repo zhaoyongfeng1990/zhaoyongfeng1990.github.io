@@ -18,13 +18,13 @@ permalink: /en/publications/
 
 <a href="https://arxiv.org/abs/2511.00775">Preprint</a>
 
-<li><strong>Yongfeng Zhao</strong>#, Ruben Zakine, Adrian Daerr, Yariv Kafri, Julien Tailleur, Frédéric van Wijland, "<em>Active Young-Dupré Equation: How Self-organized Currents Stabilize Partial Wetting</em>", arXiv:2405.20651 (2024). </li>
-
-<a href="https://arxiv.org/abs/2405.20651">Preprint</a>
-
 </ol>
 <h2>Published articles</h2>
 <ol>
+
+<li><strong>Yongfeng Zhao</strong>#, Ruben Zakine, Adrian Daerr, Yariv Kafri, Julien Tailleur, Frédéric van Wijland, "<em>Wetting by active fluids</em>", Nat. Phys (2026). </li>
+
+<a href="https://arxiv.org/abs/2405.20651">Preprint</a>, <a href="https://www.nature.com/articles/s41567-026-03208-4">Nat. Phys.</a>
 
 <li>Alexandre Solon, <strong>Yongfeng Zhao</strong>#, "<em>The surprising physics of interfaces in active matter</em>", Chin. Phys. Lett., 42(10): 100901 (2025) (perspective).</li>
 
@@ -68,7 +68,6 @@ Integer Topological Defects Reveal Effective Forces in Active Nematics</em>", Ph
 <li>Jérémy O'Byrne, Alexandre Solon, Julien Tailleur#, <strong>Yongfeng Zhao</strong>, "<em>An Introduction to Motility-Induced Phase Separation</em>", Chapter in the book "Out-of-Equilibrium Soft Matter: Active Fluids". Editors: C. Kurzthaler, L. Gentile, H. A. Stone. Royal Society of Chemistry (2023) (book chapter)</li>
 
 <a href="https://arxiv.org/abs/2112.03979">Preprint</a> 
-
 
 <li>Zeng Tao Liu, Yan Shi, <strong>Yongfeng Zhao</strong>, Hugues Chaté#, Xia-qing Shi#, Tian Hui Zhang#, "<em>Subcritical active matter: Activity waves and freestanding vortices</em>", Proc. Natl. Acad. Sci. 118 (40) e2104724118 (2021).  </li>
 

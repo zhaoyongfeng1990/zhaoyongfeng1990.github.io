@@ -18,14 +18,14 @@ permalink: /cn/publications/
 
 <a href="https://arxiv.org/abs/2511.00775">Preprint</a>
 
-<li><strong>Yongfeng Zhao</strong>#, Ruben Zakine, Adrian Daerr, Yariv Kafri, Julien Tailleur, Frédéric van Wijland, "<em>Active Young-Dupré Equation: How Self-organized Currents Stabilize Partial Wetting</em>", arXiv:2405.20651 (2024). </li>
-
-<a href="https://arxiv.org/abs/2405.20651">Preprint</a>
-
 </ol>
 
 <h2>已发表论文</h2>
 <ol>
+
+<li><strong>Yongfeng Zhao</strong>#, Ruben Zakine, Adrian Daerr, Yariv Kafri, Julien Tailleur, Frédéric van Wijland, "<em>Wetting by active fluids</em>", Nat. Phys (2026). </li>
+
+<a href="https://arxiv.org/abs/2405.20651">Preprint</a>, <a href="https://www.nature.com/articles/s41567-026-03208-4">Nat. Phys.</a>
 
 <li>Alexandre Solon, <strong>Yongfeng Zhao</strong>#, "<em>The surprising physics of interfaces in active matter</em>", Chin. Phys. Lett., 42(10): 100901 (2025) （观点）.</li>
 
