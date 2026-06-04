@@ -14,16 +14,16 @@ permalink: /cn/publications/
 
 <ol>
 
-<li>Mingyang Li, Yu'an Li#, H. P. Zhang, <strong>Yongfeng Zhao</strong>#, "<em>Detecting active Lévy particles using differential dynamic microscopy</em>", arXiv:2511.00775 (2025).</li>
-
-<a href="https://arxiv.org/abs/2511.00775">Preprint</a>
-
 </ol>
 
 <h2>已发表论文</h2>
 <ol>
 
-<li><strong>Yongfeng Zhao</strong>#, Ruben Zakine, Adrian Daerr, Yariv Kafri, Julien Tailleur, Frédéric van Wijland, "<em>Wetting by active fluids</em>", Nat. Phys. (2026). </li>
+<li>Mingyang Li, Yu'an Li#, H. P. Zhang, <strong>Yongfeng Zhao</strong>#, "<em>Detecting active Lévy particles using differential dynamic microscopy</em>", Phys. Rev. E 113, 064403 (2026).</li>
+
+<a href="https://arxiv.org/abs/2511.00775">Preprint</a>, <a href="https://journals.aps.org/pre/abstract/10.1103/6nhc-bjcl">Phys. Rev. E</a>
+
+<li><strong>Yongfeng Zhao</strong>#, Ruben Zakine, Adrian Daerr, Yariv Kafri, Julien Tailleur, Frédéric van Wijland, "<em>Wetting by active fluids</em>", Nat. Phys. 22, 805–811 (2026). </li>
 
 <a href="https://arxiv.org/abs/2405.20651">Preprint</a>, <a href="https://www.nature.com/articles/s41567-026-03208-4">Nat. Phys.</a>
 
