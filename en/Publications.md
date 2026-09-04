@@ -14,6 +14,10 @@ permalink: /en/publications/
 <h2>Preprints</h2>
 <ol>
 
+<li>Xinyi Dong, <strong>Yongfeng Zhao</strong>#, "<em>Spontaneous currents determine capillary rise in active matter</em>", arXiv:2608.22878 (2026).</li>
+
+<a href="https://arxiv.org/abs/2608.22878">Preprint</a>
+
 </ol>
 <h2>Published articles</h2>
 <ol>
